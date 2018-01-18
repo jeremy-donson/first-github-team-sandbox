@@ -1,9 +1,9 @@
 # first-github-team-sandbox
 
-* Three levels to git/github skills:
-- solo local
-- solo remote
-- team remote
+## Three levels to git/github skills:
+- [ ]: solo local
+- [ ]: solo remote
+- [ ]: team remote
 
 # Next Tasks
 * [Node Debugging](http://xyc.github.io/react-inspector/)
