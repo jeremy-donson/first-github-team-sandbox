@@ -1,5 +1,12 @@
 # first-github-team-sandbox
 
+urbanStpectra core team:
+- react and express devs
+- trainers of git and github
+- librarians
+- radio, tv and live venue managers
+- sponsorship engineers
+
 ## Three levels to git/github skills:
 - [ ]: solo local
 - [ ]: solo remote
