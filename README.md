@@ -19,6 +19,10 @@ urbanStpectra core team:
 * [csv2json](https://www.npmjs.com/package/csv2json)
 * [json2csv](https://www.npmjs.com/package/json2json)
 * [redis node package](https://redislabs.com/lp/node-js-redis/)
+* [review deploy2surge](http://surge.sh)
+* [review deploy2heroku](http://www.heroku.com)
+* [deploy2tectonic](http://www.tectonic.com)
+
 
 # Further Steps
 * Node debugging
