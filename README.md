@@ -8,8 +8,12 @@
 # Next Tasks
 * [Node Debugging](http://xyc.github.io/react-inspector/)
 * [Absolute Paths](https://spin.atomicobject.com/2017/10/07/absolute-paths-javascript/)
+* [Testing With Selenium](https://christopher.su/2015/selenium-chromedriver-ubuntu/)
 
-# Furher Steps
+
+# Further Steps
 * Node debugging
 * React-Native
 * Express.js
+
+
