@@ -1,11 +1,11 @@
 # first-github-team-sandbox
 
 urbanSpectra core team:
-- react and express devs: trainers and professionals
-- git and github (workflow analytics and social learning):  trainers and professionals
-- financial services operations security and app dev
-- academic librarians: teams of professors and curriculum/assessment designers
-- radio, tv and live venue managers: collaborative promo
+- react and express devs: trainers and professionals, led by Simeon Calixte
+- git and github (workflow analytics and social learning):  trainers and professionals, led by Sophie Chown
+- financial services operations security and app dev, led by Jeremy Donson
+- academic librarians: teams of professors and curriculum/assessment designers, led by Erica Eynouf
+- radio, tv and live venue managers: collaborative promo, lead by Gordon Politnick
 - sponsorship engineers: 
 
 ## Three levels to git/github skills:
@@ -62,21 +62,20 @@ urbanSpectra core team:
 2. [Node Debugging](http://xyc.github.io/react-inspector/)
 3. [node memory stuff](https://blog.codeship.com/understanding-garbage-collection-in-node-js/)
 4. [more node memory stuff](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
-* [we want more than just globals](https://stackoverflow.com/questions/31173473/list-all-global-variables-in-node-js)
-* [Absolute Paths](https://spin.atomicobject.com/2017/10/07/absolute-paths-javascript/)
-* [Testing With Selenium](https://christopher.su/2015/selenium-chromedriver-ubuntu/)
-* [frameworks bult atop of selenium](http://galenframework.com/docs/about/)
-* [csv2json](https://www.npmjs.com/package/csv2json)
-* [json2csv](https://www.npmjs.com/package/json2json)
-* [redis node package](https://redislabs.com/lp/node-js-redis/)
-* [review deploy2surge](http://surge.sh)
-* [review deploy2heroku](http://www.heroku.com)
-* [deploy2tectonic](http://www.tectonic.com)
+5. [we want more than just globals](https://stackoverflow.com/questions/31173473/list-all-global-variables-in-node-js)
+6. [Absolute Paths](https://spin.atomicobject.com/2017/10/07/absolute-paths-javascript/)
+7. [Testing With Selenium](https://christopher.su/2015/selenium-chromedriver-ubuntu/)
+8. [frameworks bult atop of selenium](http://galenframework.com/docs/about/)
+9. [csv2json](https://www.npmjs.com/package/csv2json)
+10. [json2csv](https://www.npmjs.com/package/json2json)
+11. [redis node package](https://redislabs.com/lp/node-js-redis/)
+12. [review deploy2surge](http://surge.sh)
+13. [review deploy2heroku](http://www.heroku.com)
+14. [deploy2tectonic](http://www.tectonic.com)
 
 
 # Further Steps
 * Node debugging
-* React-Native
 * Express.js
-
-
+* React-Native
+* React-Redux
