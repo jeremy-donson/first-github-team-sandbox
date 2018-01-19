@@ -7,7 +7,7 @@ urbanSpectra core team:
 - academic librarians: teams of professors and curriculum/assessment designers, led by Erica Eynouf
 - radio, tv and live venue managers: collaborative promo, lead by Gordon Politnick
 - sponsorship engineers: 
-
+---
 ## Three levels to git/github skills:
 - [ ]: solo local
   - Non-Coder
@@ -21,7 +21,7 @@ urbanSpectra core team:
   - Non-Coder
   - Coder
   - Trainer
-
+---
 ## Three levels to react/express skills:
 - [ ]: react debugging
   - Coder
@@ -32,15 +32,14 @@ urbanSpectra core team:
 - [ ]: react state and crud
   - Coder
   - Trainer
-
+---
 # TEST CASE AND RUN META-DATA:
-
 ## TEST CASE METADATA:
 - test case id:
 - test case name:
 - test tool:
 - case designer:
-
+---
 ## TEST RUN METADATA:
 - test-runner:
 - system:
@@ -51,9 +50,9 @@ urbanSpectra core team:
 - outcome:
 - screenshot:
 - reproducible:
-
+---
 ## The root app directory for react and express:
-* ![react-express-dir](app-dir-react-express.png)
+![react-express-dir](app-dir-react-express.png)
 1. App.css
 2. public/
 3. node_modules/
@@ -61,7 +60,7 @@ urbanSpectra core team:
 5. package.json
 6. README.md
 7. src/
-
+---
 ## Sections of the App.js file:
 1. imports
 2. main class
@@ -69,7 +68,7 @@ urbanSpectra core team:
 4. pre-render
 5. render
 6. export
-
+---
 ## React bugs to kill:
 1. get bug  /name/bilbo/baggins
 2. 404 bug
@@ -81,6 +80,7 @@ urbanSpectra core team:
 8. react and express => docker
 9. deploy to gcloud
 10. redis + csv
+---
 
 # Meeting Agenda
 * Tasks Below
@@ -88,6 +88,7 @@ urbanSpectra core team:
 * Action Items
 * First vcurrency discussion
 * [fingerprint auth](https://www.washingtonpost.com/news/the-switch/wp/2018/01/12/the-tech-to-embed-a-fingerprint-reader-inside-a-screen-arrived-at-ces-but-only-in-a-chinese-phone-for-now/?utm_term=.2da75766911e)
+---
 
 # Next Tasks
 1. [test this before promoting](http://xyc.github.io/react-inspector/)
@@ -104,7 +105,7 @@ urbanSpectra core team:
 12. [review deploy2surge](http://surge.sh)
 13. [review deploy2heroku](http://www.heroku.com)
 14. [deploy2tectonic](http://www.tectonic.com)
-
+---
 
 # Further Steps
 * Node debugging
