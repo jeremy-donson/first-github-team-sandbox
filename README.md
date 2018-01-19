@@ -52,6 +52,15 @@ urbanSpectra core team:
 - screenshot:
 - reproducible:
 
+## Sections to the App.js file:
+
+1. imports
+2. main class
+3. constructor
+4. pre-render
+5. render
+6. export
+
 # Meeting Agenda
 * Tasks Below
 * Trading Terms
