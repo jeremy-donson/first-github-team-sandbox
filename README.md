@@ -52,7 +52,17 @@ urbanSpectra core team:
 - screenshot:
 - reproducible:
 
-## Sections to the App.js file:
+## The root app directory for react and express:
+* ![react-express-dir](app-dir-react-express.png)
+1. App.css
+2. public/
+3. node_modules/
+4. package-lock.json
+5. package.json
+6. README.md
+7. src/
+
+## Sections of the App.js file:
 1. imports
 2. main class
 3. constructor
