@@ -36,19 +36,21 @@ urbanSpectra core team:
 # TEST CASE AND RUN META-DATA:
 
 ## TEST CASE METADATA:
-- test case id
-- test case name
-- test-runner
-- test tool
+- test case id:
+- test case name:
+- test tool:
+- case designer:
 
 ## TEST RUN METADATA:
-- timestamp
-- system
-- actual
-- expected
-- outcome
-- screenshot
-- reproducible
+- test-runner:
+- system:
+- test-conditions:
+- timestamp:
+- expected:
+- actual:
+- outcome:
+- screenshot:
+- reproducible:
 
 # Meeting Agenda
 * Tasks Below
