@@ -12,6 +12,13 @@ urbanStpectra core team:
 - [ ]: solo remote
 - [ ]: team remote
 
+# Meeting Agenda
+* Tasks Below
+* Trading Terms
+* Action Items
+* First vcurrency discussion
+* [fingerprint auth](https://www.washingtonpost.com/news/the-switch/wp/2018/01/12/the-tech-to-embed-a-fingerprint-reader-inside-a-screen-arrived-at-ces-but-only-in-a-chinese-phone-for-now/?utm_term=.2da75766911e)
+
 # Next Tasks
 * [Node Debugging](http://xyc.github.io/react-inspector/)
 * [node memory stuff](https://blog.codeship.com/understanding-garbage-collection-in-node-js/)
