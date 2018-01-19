@@ -10,8 +10,17 @@ urbanSpectra core team:
 
 ## Three levels to git/github skills:
 - [ ]: solo local
+  - Non-Coder
+  - Coder
+  - Trainer
 - [ ]: solo remote
+  - Non-Coder
+  - Coder
+  - Trainer
 - [ ]: team remote
+  - Non-Coder
+  - Coder
+  - Trainer
 
 # Meeting Agenda
 * Tasks Below
