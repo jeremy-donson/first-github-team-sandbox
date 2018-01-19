@@ -24,15 +24,12 @@ urbanSpectra core team:
 
 ## Three levels to react/express skills:
 - [ ]: react debugging
-  - Non-Coder
   - Coder
   - Trainer
 - [ ]: react ui
-  - Non-Coder
   - Coder
   - Trainer
 - [ ]: react state and crud
-  - Non-Coder
   - Coder
   - Trainer
 
