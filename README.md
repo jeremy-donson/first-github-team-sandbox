@@ -53,13 +53,24 @@ urbanSpectra core team:
 - reproducible:
 
 ## Sections to the App.js file:
-
 1. imports
 2. main class
 3. constructor
 4. pre-render
 5. render
 6. export
+
+## React bugs to kill:
+1. get bug  /name/bilbo/baggins
+2. 404 bug
+3. absolute path issue
+4. import images
+5. import components
+6. heroku deploy bug
+7. express deploys
+8. react and express => docker
+9. deploy to gcloud
+10. redis + csv
 
 # Meeting Agenda
 * Tasks Below
