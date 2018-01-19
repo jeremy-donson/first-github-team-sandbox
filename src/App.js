@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Tcase from '/Testcase.js';
-import Truns from '/Testruns.js';
+import Tcase from './Components/Testcase.js';
+import Truns from './Components//Testruns.js';
 import logo from './logo.svg';
 import './App.css';
 
