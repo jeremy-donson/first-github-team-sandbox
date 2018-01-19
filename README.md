@@ -47,6 +47,7 @@ urbanSpectra core team:
 - actual
 - expected
 - outcome
+- screenshot
 - reproducible
 
 # Meeting Agenda
