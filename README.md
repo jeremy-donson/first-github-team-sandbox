@@ -15,6 +15,7 @@ urbanStpectra core team:
 # Next Tasks
 * [Node Debugging](http://xyc.github.io/react-inspector/)
 * [node memory stuff](https://blog.codeship.com/understanding-garbage-collection-in-node-js/)
+* [more node memory stuff](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
 * [we want more than just globals](https://stackoverflow.com/questions/31173473/list-all-global-variables-in-node-js)
 * [test this before promoting](http://xyc.github.io/react-inspector/)
 * [Absolute Paths](https://spin.atomicobject.com/2017/10/07/absolute-paths-javascript/)
