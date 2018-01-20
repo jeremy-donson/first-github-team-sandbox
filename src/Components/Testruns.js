@@ -11,7 +11,7 @@ class Truns extends Component {
         Test Run Timestamp: <input type="text" name="tr_id" /><br/>
         Test Run System: <input type="text" name="tr_sys" /><br/>
         Test Run Conditions: <input type="text" name="tr_cond" /><br/>
-        Test Run Expectation: <input type=="text" name="tr_expect" /><br/>
+        Test Run Expectation: <input type="text" name="tr_expect" /><br/>
         Test Run Actual: <input type="text" name="tr_actual" /><br/>
         Test Run Outcome: <input type="text" name="tr_outcome" /><br/>
         Test Run Screenshot: <input type="uploadfile" name="tr_outcome" /><br/>
