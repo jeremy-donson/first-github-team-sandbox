@@ -1,6 +1,18 @@
 Test:
 - Failure: $ curl http://teeny-bells.surge.sh/
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name="theme-color" content="#000000"><link rel="manifest" href="/manifest.json"><link rel="shortcut icon" href="/favicon.ico"><title>React App</title><link href="/static/css/main.c17080f1.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div><script type="text/javascript" src="/static/js/main.ee7b2412.js"></script></body></html>
+- Proof of Error: <!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name="theme-color" content="#000000"><link rel="manifest" href="/manifest.json"><link rel="shortcut icon" href="/favicon.ico"><title>React App</title><link href="/static/css/main.c17080f1.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div><script type="text/javascript" src="/static/js/main.ee7b2412.js"></script></body></html>
 - Goal: Trying to prove surge deploy worked from cli.
 - Issue: Unable to run js thru curl, so page returned noscript content.
+---
+Test:
+- Failure: $ heroku deploy
+- Proof of Error: 
+- Goal: Trying to deploy simplest react app to heroku.
+- Issue: Unable to deploy to heroku, where build process causes deploy timeouts.
+---
+Test:
+- Failure: Relative paths for images and imports
+- Proof of Error: 
+- Goal: 
+- Issue: Need absolute path dynamically inserted for imports.
 ---
