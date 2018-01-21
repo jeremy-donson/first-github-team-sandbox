@@ -46,9 +46,9 @@ Now all the parts are availabe to us lets install React
  create-react-app [AppPath]
 ```
 >>Note: path name must be lower case according to React avoid error.
-![Warning](./createError.PNG)
+![Warning](./images/createError.PNG)
 At this point you should be able to navigate into your app's root folder and should see the following files.
-![start](./Start.PNG)
+![start](./images/Start.PNG)
 
 
 2. Move into the [AppPath] Directory from your CLI
@@ -56,10 +56,10 @@ At this point you should be able to navigate into your app's root folder and sho
  cd [AppPath]
 
 ```
-![Warning](./changetoappdirectory.PNG)
+![Warning](./images/changetoappdirectory.PNG)
 
 To begin coding go to the src/ folder
-![AreatoEdit](./AreatoEdit.PNG)
+![AreatoEdit](./images/AreatoEdit.PNG)
 
 
 
