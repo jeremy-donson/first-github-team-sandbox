@@ -47,6 +47,7 @@ Now all the parts are availabe to us lets install React
 ```
 >>Note: path name must be lower case according to React avoid error.
 ![Warning](./images/createError.PNG)
+
 At this point you should be able to navigate into your app's root folder and should see the following files.
 ![start](./images/Start.PNG)
 
@@ -70,7 +71,7 @@ enter Localhost:3000 onto your internet browser.
 npm start  (!important must be called within the App Folder)
 ```
 If you are here. You have successfully installed React. So lets get hacking.
-![FinalResult](./FinalResult.PNG)
+![FinalResult](./images/FinalResult.PNG)
 
 
 
