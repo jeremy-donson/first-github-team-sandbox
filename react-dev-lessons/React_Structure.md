@@ -4,7 +4,7 @@ Author: Calixte S.
 
 Email Address: simeoncalixte@gmail.com
 
-	React is one of the hottest languages currently floating around in the app development
+>>React is one of the hottest languages currently floating around in the app development
 world and sometimes just figuring out where to start with a new language can be tiring and confusing. 
 So to save you the pain I am  documenting my exprience with React, listing successful paths to using React and
 its marrying parts on Windows OS step by step. Other operating systems steps may vary so be cautious.
