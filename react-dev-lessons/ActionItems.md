@@ -1,5 +1,16 @@
 # Action Items:
 
+- Gmail:
+- Github ID:
+- BBkt ID:
+- Phone Number:
+- Other Priorities:
+- Hours Per Week Available for Solo Work:
+- Hours Per Week Available for Solo Learning:
+- Hours Per Week Available for Team Work:
+- Hours Per Week Available for Team Learning:
+
+
 1. SCHEDULE FOR THE WEEK:
 * Monday time: ??
 * Tuesday time: ??
