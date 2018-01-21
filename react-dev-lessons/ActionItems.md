@@ -36,7 +36,6 @@ Tear down all surge deploys:  $ for n in $(surge list | tail); do  echo surge te
 
 8.  See what we can do with:
 
-
 9. Review all [surge help notes](https://surge.sh/help/).
 
 10.  See how to do that with:
@@ -44,6 +43,13 @@ Tear down all surge deploys:  $ for n in $(surge list | tail); do  echo surge te
 * powerShell
 * cmd
 
+11. Set up dev env from command-line:
+* Open Terminal at Project Directory.
+* Open File Explorer at Project Directory.
+* Open Chrome Window
+* GUI Editor
+
+[TIps](https://4sysops.com/archives/starting-file-explorer-from-powershell-in-the-current-folder/)
 ---
 
 # Lessons:
