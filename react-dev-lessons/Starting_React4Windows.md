@@ -59,8 +59,6 @@ At this point you should be able to navigate into your app's root folder and sho
 ```
 ![Warning](./images/changetoappdirectory.PNG)
 
-To begin coding go to the src/ folder
-![AreatoEdit](./images/AreatoEdit.PNG)
 
 
 
@@ -74,11 +72,12 @@ If you are here. You have successfully installed React. So lets get hacking.
 ![FinalResult](./images/FinalResult.PNG)
 
 
-
+To begin coding go to the src/ folder
+![AreatoEdit](./images/AreatoEdit.PNG)
 ------------------------------------------------------------
 
 
 
 
-##Our next lesson we will explore how reacts render its pages and file structure.
+##Our next lesson we will explore how Reacts render its pages and file structure.
 ##Also introduction to Components and props.
