@@ -1,14 +1,17 @@
 # Start Developing with React on Windows OS
 
 Author: Calixte S.
+
 Email Address: simeoncalixte@gmail.com
+
+
 		
 		React is one of the hottest languages currently floating around in the app development
 	world and sometimes just figuring out where to start with a new language can be tiring and confusing. 
 	So to save you the pain I am  documenting my exprience with React, listing successful paths to using React and
 	its marrying parts on Windows OS step by step. Other operating systems steps may vary so be cautious.
 
----
+
 
 ###Lets get started
 ----
@@ -61,7 +64,7 @@ At this point you should be able to navigate into your app's root folder and sho
 
 
 To begin coding go to the src/ folder
-![EditHere](AreatoEdit.PNG)
+![AreatoEdit](AreatoEdit.PNG)
 
 ------------------------------------------------------------
 
