@@ -81,6 +81,32 @@ urbanSpectra core team:
 9. deploy to gcloud
 10. redis + csv
 ---
+# React Dev Lessons
+
+1. Jumpstart install react tools and such.
+1a. DESIGN LESSON: initial dev setup for windows
+
+2. LESSON 1: [first test-driven react and git session](react-dev-lessons/GettingStartedWithReact.md)
+2a. DESIGN LESSON:  first test-driven react and git session
+
+3. LEARNING SESSION: making your windows system as linux as possible
+3a. DESIGN LESSON: 
+
+4. DESIGN LESSON: making your windows system as linux as possible
+
+5. LEARNING LESSON:  debugging react
+  DESIGN LESSON
+
+6. LEARNING LESSON:  react strap + gets
+DESIGN LESSON
+
+7. LEARNING LESSON:  react-native first app
+DESIGN LESSON
+
+8. LEARNING LESSON:  git+github, test-driven
+
+9. LEARNING LESSON:  react crud
+---
 
 # Meeting Agenda
 * Tasks Below

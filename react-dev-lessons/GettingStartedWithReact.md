@@ -26,7 +26,7 @@ What is needed?
 	Run this line of code in your CLI
 
 ```
-scoop install node
+$ scoop install node
 ```
 
 which inturn will install npm (node package manager).
@@ -37,12 +37,13 @@ Now all the parts are availabe to us lets install React
 1. Run this code in your CLI
 
 ```
-create-react-app [AppPath]
+$ create-react-app [AppPath]
 ```
+![react-app-dir-strux](react-app-dir-strux.png)
 
 2. Move into the [AppPath] Directory from your CLI
 ```
-cd [AppPath]
+$ cd [AppPath]
 ```
 
 3. Finally we install React into the directory with:
