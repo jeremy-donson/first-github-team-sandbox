@@ -13,9 +13,23 @@
 * powershell
 * bash
 
-[IE, OPPOSITE TO THIS](http://www.indjango.com/ubuntu-right-click-to-open-terminal-in-current-directory/)
+[That is, OPPOSITE TO THIS](http://www.indjango.com/ubuntu-right-click-to-open-terminal-in-current-directory/)
+
+6.  Test outcome: $ surge list
+
+Tear down all surge deploys:  $ for n in $(surge list | tail); do  echo surge teardown $n; done
+
+7.  Test outcome: $ surge list
+
+8. Review all [surge help notes](https://surge.sh/help/).
+
+9.  See how to do that with:
+* bash
+* powerShell
+* cmd
 
 ---
+
 # Lessons:
 0. test-driven react
 1. react
