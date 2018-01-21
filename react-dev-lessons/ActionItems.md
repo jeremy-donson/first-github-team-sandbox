@@ -10,7 +10,7 @@
 2. Tell jeremy if those times need to change at least 8 hours prior.  Text him if he does does not confirm receipt.
 
 3. Review three lesson plans:
-* React Dev Setups Jumpstart
+* React Dev Setups Jumpstart: [system resources](https://superuser.com/questions/315195/is-there-a-command-to-find-out-the-available-memory-in-windows) + installer + español
 * React Dev First Lesson:  Test-driven, Components, Images
 * React Dev Second Lesson:  Test-driven, Mocha, Chai, Selenium Webdriver
 * React Dev Third Lesson:  Test-driven Reactstrap + Deploys
