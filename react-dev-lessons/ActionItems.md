@@ -1,10 +1,23 @@
 # Action Items:
 
-1. Monday time: ??
+1. SCHEDULE FOR THE WEEK:
+* Monday time: ??
+* Tuesday time: ??
+* Wednesday time: ??
+* Thursday time: ??
+* Friday time: ??
 
-2. Tuesday time: ??
+2. Tell jeremy if those times need to change at least 8 hours prior.  Text him if he does does not confirm receipt.
 
-3. Tell jeremy if those times need to change at least 8 hours prior.  Text him if he does does not confirm receipt.
+3. Review three lesson plans:
+* React Dev Setups Jumpstart
+* React Dev First Lesson:  Test-driven, Components, Images
+* React Dev Second Lesson:  Test-driven, Mocha, Chai, Selenium Webdriver
+* React Dev Third Lesson:  Test-driven Reactstrap + Deploys
+* React Dev Fourth Lesson:  Test-driven gets
+* React Dev Fifth Lesson:  Test-driven posts
+
+https://nodejs.org/api/v8.html#v8_v8_getheapstatistics
 
 4. Start win dev install script, add english and spanish UTF8 localizations
 
@@ -21,9 +34,12 @@ Tear down all surge deploys:  $ for n in $(surge list | tail); do  echo surge te
 
 7.  Test outcome: $ surge list
 
-8. Review all [surge help notes](https://surge.sh/help/).
+8.  See what we can do with:
 
-9.  See how to do that with:
+
+9. Review all [surge help notes](https://surge.sh/help/).
+
+10.  See how to do that with:
 * bash
 * powerShell
 * cmd
