@@ -58,7 +58,7 @@ npm start  (!important must be called within the App Folder)
 ```
 
 At this point you should be able to navigate into your app's root folder and should see the following files.
-![start](./start.png)
+![start](./start.PNG)
 
 
 To begin coding go to the src/ folder
