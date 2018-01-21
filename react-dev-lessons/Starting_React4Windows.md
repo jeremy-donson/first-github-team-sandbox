@@ -22,7 +22,7 @@ What is needed?
 
 
 
-2.[Scoop](http://scoop.sh/) is a package manager.Get more information here.(https://github.com/lukesampson/scoop)
+2.[Scoop](http://scoop.sh/) is a package manager.[Get more information here.](https://github.com/lukesampson/scoop)
 save yourself the time and run the command below in Power-shell. Power-Shell-3 is a requirment for scoop.
 ```
 .iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
