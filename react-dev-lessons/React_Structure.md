@@ -4,12 +4,10 @@ Author: Calixte S.
 
 Email Address: simeoncalixte@gmail.com
 
-
-		
-		React is one of the hottest languages currently floating around in the app development
-	world and sometimes just figuring out where to start with a new language can be tiring and confusing. 
-	So to save you the pain I am  documenting my exprience with React, listing successful paths to using React and
-	its marrying parts on Windows OS step by step. Other operating systems steps may vary so be cautious.
+	React is one of the hottest languages currently floating around in the app development
+world and sometimes just figuring out where to start with a new language can be tiring and confusing. 
+So to save you the pain I am  documenting my exprience with React, listing successful paths to using React and
+its marrying parts on Windows OS step by step. Other operating systems steps may vary so be cautious.
 
 
 
@@ -45,7 +43,7 @@ Now all the parts are availabe to us lets install React
 ```
  create-react-app [AppPath]
 ```
-![react-app-dir-strux](react-app-dir-strux.png)
+
 
 2. Move into the [AppPath] Directory from your CLI
 ```
@@ -60,11 +58,11 @@ npm start  (!important must be called within the App Folder)
 ```
 
 At this point you should be able to navigate into your app's root folder and should see the following files.
-![start](start.png)
+![start](./start.png)
 
 
 To begin coding go to the src/ folder
-![AreatoEdit](AreatoEdit.PNG)
+![AreatoEdit](./AreatoEdit.PNG)
 
 ------------------------------------------------------------
 
