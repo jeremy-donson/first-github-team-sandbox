@@ -46,7 +46,7 @@ Now all the parts are availabe to us lets install React
  create-react-app [AppPath]
 ```
 >>Note: path name must be lower case according to React avoid error.
-![Warning](./images/createError.PNG)
+![Warning](./images/CreateError.PNG)
 
 At this point you should be able to navigate into your app's root folder and should see the following files.
 ![start](./images/Start.PNG)
