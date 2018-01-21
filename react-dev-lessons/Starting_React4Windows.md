@@ -20,12 +20,15 @@ What is needed?
 
 1.[Git-Bash for windows](http://gitforwindows.org) here. This allows you to do more linux-y things hence the "$" at the front of each line.
 
-2.[Scoop](http://scoop.sh/) is a package manager.
-..* At this link you will be informed to run this line of code in Windows Power-shell:
 
+
+2.[Scoop](http://scoop.sh/) is a package manager.Get more information here.(https://github.com/lukesampson/scoop)
+save yourself the time and run the command below in Power-shell. Power-Shell-3 is a requirment for scoop.
 ```
 .iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
 ```
+
+
 
 
 3. We will use scoop to install node.js 
@@ -36,6 +39,9 @@ What is needed?
 ```
 
 this inturn will install npm (node package manager).
+
+
+
 
 
 Now all the parts are availabe to us lets install React
@@ -72,7 +78,7 @@ If you are here. You have successfully installed React. So lets get hacking.
 ![FinalResult](./images/FinalResult.PNG)
 
 
-To begin coding go to the src/ folder
+ To begin coding go to the src/ folder
 ![AreatoEdit](./images/AreatoEdit.PNG)
 ------------------------------------------------------------
 
