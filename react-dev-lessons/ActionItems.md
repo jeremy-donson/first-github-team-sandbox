@@ -1,4 +1,4 @@
-# Action Items:
+﻿# Action Items:
 
 - Gmail: simeoncalixte@gmail.com
 - Github ID: simeoncalixte
@@ -22,9 +22,9 @@
 Wednesday-Frida:3 hours a day
 ---
 Monday 
-		Session 1 Duration: 1 Hour
-		Time: 6:00a.m to 7:30am
-		Purpose: To determine week's forecast, what is expected essentially priming. Goals etc.
+		Session 1 Duration: 1 Hour<br/>
+		Time: 6:00a.m to 7:30am<br/>
+		Purpose: To determine week's forecast, what is expected essentially priming. Goals etc.<br/>
 	
 	Task:
 		-Discuss week's task.
@@ -32,9 +32,9 @@ Monday
 		-Present any documentation and/or articles that would help complete task.
 		Discuss any misunderstanding and issues.
 	
-Monday Session 2
-    Duration: 30 minutes.
-		Time: 6:00p.m to 7:30pm
+Monday Session 2<br/>
+    Duration: 30 minutes.<br/>
+		Time: 6:00p.m to 7:30pm<br/>
 		Purpose: Discuss successes and failures of the day.
 		
 		-Give status update on task.
@@ -45,10 +45,10 @@ Monday Session 2
 	
   ---	
 
-Tuesday 
-		Session 1 Duration: 1 Hour
-		Time: 6:00a.m to 7:30am
-		Purpose: Status update---Tomorrows schedule.
+Tuesday <br/>
+		Session 1 Duration: 1 Hour<br/>
+		Time: 6:00a.m to 7:30am<br/>
+		Purpose: Status update---Tomorrows schedule.<br/>
 	
 	Task:
 		-Discuss progress on previous days issues.
@@ -57,10 +57,10 @@ Tuesday
 		-Present any documentation and/or articles that would help complete task.
 		Discuss any misunderstanding and issues.
 	
-Tuesday Session 2
-    Duration: 30 minutes.
-		Time: 6:00p.m to 7:30pm
-		Purpose: Discuss successes and failures of the day.
+Tuesday Session 2<br/>
+    Duration: 30 minutes.<br/>
+		Time: 6:00p.m to 7:30pm<br/>
+		Purpose: Discuss successes and failures of the day.<br/>
 		
 		-Give status update on task.
 		-Outline issues that may have arrived.
@@ -69,10 +69,10 @@ Tuesday Session 2
 ---
 
 
-Wednesday 
-		Session 1 Duration: 1 Hour
-		Time: 6:00a.m to 7:30am
-		Purpose: Status update---Tomorrows schedule.
+Wednesday <br/>
+		Session 1 Duration: 1 Hour<br/>
+		Time: 6:00a.m to 7:30am<br/>
+		Purpose: Status update---Tomorrows schedule.<br/>
 	
 	Task:
 		-Discuss progress on previous days issues.
@@ -81,10 +81,10 @@ Wednesday
 		-Present any documentation and/or articles that would help complete task.
 		Discuss any misunderstanding and issues.
 	
-Wednesday Session 2
-    Duration: 1 hour.
-		Time: 6:00p.m to 7:30pm
-		Purpose: Discuss successes and failures of the day.
+Wednesday Session 2<br/>
+    Duration: 1 hour.<br/>
+		Time: 6:00p.m to 7:30pm<br/>
+		Purpose: Discuss successes and failures of the day.<br/>
 		
 		-Give status update on task.
 		-Outline issues that may have arrived.
@@ -93,10 +93,10 @@ Wednesday Session 2
 
 ---
 
-Thursday 
-		Session 1 Duration: 1 Hour
-		Time: 6:00a.m to 7:30am
-		Purpose: Status update---Tomorrows schedule.
+Thursday <br/>
+		Session 1 Duration: 1 Hour<br/>
+		Time: 6:00a.m to 7:30am<br/>
+		Purpose: Status update---Tomorrows schedule.<br/>
 	
 	Task:
 		-Discuss progress on previous days issues.
@@ -105,10 +105,10 @@ Thursday
 		-Present any documentation and/or articles that would help complete task.
 		Discuss any misunderstanding and issues.
 	
-Thursday Session 2
-    Duration: 1 hour.
-		Time: 6:00p.m to 7:30pm
-		Purpose: Discuss successes and failures of the day.
+Thursday Session 2<br/>
+    Duration: 1 hour.<br/>
+		Time: 6:00p.m to 7:30pm<br/>
+		Purpose: Discuss successes and failures of the day.<br/>
 		
 		-Give status update on task.
 		-Outline issues that may have arrived.
@@ -118,10 +118,10 @@ Thursday Session 2
 ---
 
 
-Friday 
-		Session 1 Duration: 1 Hour
-		Time: 6:00a.m to 7:30am
-		Purpose: Status update---Tomorrows schedule.
+Friday <br/>
+		Session 1 Duration: 1 Hour<br/>
+		Time: 6:00a.m to 7:30am<br/>
+		Purpose: Status update---Tomorrows schedule.<br/>
 	
 	Task:
 		-Discuss progress on previous days issues.
@@ -130,10 +130,10 @@ Friday
 		-Present any documentation and/or articles that would help complete task.
 		Discuss any misunderstanding and issues.
 	
-Friday Session 2
-    Duration: 1 hour.
-		Time: 6:00p.m to 7:30pm
-		Purpose: Discuss successes and failures of the day.
+Friday Session 2<br/>
+    Duration: 1 hour.<br/>
+		Time: 6:00p.m to 7:30pm<br/>
+		Purpose: Discuss successes and failures of the day.<br/>
 		
 		-Give status update on task.
 		-Outline issues that may have arrived.
