@@ -18,8 +18,8 @@
 
 ----
 ### SCHEDULE FOR THE WEEK:
->> Monday-Tuesday: 1.5 hours a day
-Wednesday-Frida:3 hours a day
+>> Monday-Tuesday: 1.5 hours a day<br/>
+Wednesday-Friday:3 hours a day
 ---
 Monday 
 		Session 1 Duration: 1 Hour<br/>
