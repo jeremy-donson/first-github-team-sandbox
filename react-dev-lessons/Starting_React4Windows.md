@@ -18,14 +18,17 @@ its marrying parts on Windows OS step by step. Other operating systems steps may
 
 What is needed?
 
-1.[Git-Bash for windows](http://gitforwindows.org) here. This allows you to do more linux-y things hence the "$" at the front of each line.
+1. [Git-Bash for windows](http://gitforwindows.org) here. This allows you to do more linux-y things hence the "$" at the front of each line.
 
 
 
-2.[Scoop](http://scoop.sh/) is a package manager.[Get more information here.](https://github.com/lukesampson/scoop)
-save yourself the time and run the command below in Power-shell. Power-Shell-3 is a requirment for scoop.
+2. [Scoop](http://scoop.sh/) is a package manager. [Get more information here.](https://github.com/lukesampson/scoop)
+Save yourself the time and run the command below in Power-shell. 
+
+>>Power-Shell-3 is a requirment for scoop.So Make sure you have it.
+
 ```
-.iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
+iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
 ```
 
 
