@@ -53,6 +53,9 @@ urbanSpectra core team:
 ---
 ## The root app directory for react and express:
 ![react-express-dir](app-dir-react-express.png)
+
+[![react-express-dir](app-dir-react-express.png)](http://www.target.com)
+
 1. App.css
 2. public/
 3. node_modules/
