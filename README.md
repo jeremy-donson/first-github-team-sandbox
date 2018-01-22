@@ -1,5 +1,7 @@
 # first-github-team-sandbox
 
+[md page anchor](#image-as-link-with-hovertext)
+
 urbanSpectra core team:
 - react and express devs: trainers and professionals, led by Simeon Calixte
 - git and github (workflow analytics and social learning):  trainers and professionals, led by Sophie Chown
@@ -51,11 +53,14 @@ urbanSpectra core team:
 - screenshot:
 - reproducible:
 ---
+
+#image-as-link-with-hovertext
+
 ## The root app directory for react and express:
 ![react-express-dir](app-dir-react-express.png)
 
-[![react-express-dir](app-dir-react-express.png)](http://www.target.com "LINK TO: http://www.target.com ")
-[md page anchor](#image-as-link-with-hovertext)
+[![react-express-dir](app-dir-react-express.png)](http://www.target.com "LINK TO: http://www.target.com in new window"){:target='_blank'}
+
 1. App.css
 2. public/
 3. node_modules/
