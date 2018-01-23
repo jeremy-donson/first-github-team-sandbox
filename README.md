@@ -1,7 +1,5 @@
 # first-github-team-sandbox
 
-[md page anchor](#image-as-link-with-hovertext)
-
 urbanSpectra core team:
 - react and express devs: trainers and professionals, led by Simeon Calixte
 - git and github (workflow analytics and social learning):  trainers and professionals, led by Sophie Chown
@@ -53,13 +51,19 @@ urbanSpectra core team:
 - screenshot:
 - reproducible:
 ---
+# Problems with anchor links and targets.
+* #image-as-link-with-hovertext
+* [md page anchor](#image-as-link-with-hovertext)
+* https://roachhd.gitbooks.io/master-markdown/content/syntax/anchors.html
 
-#image-as-link-with-hovertext
+* [this link seems to be a lie](https://michaelsoolee.com/markdown-anchor-target-blank/)
+* Regards: {:target='_blank'}
 
+---
 ## The root app directory for react and express:
 ![react-express-dir](app-dir-react-express.png)
 
-[![react-express-dir](app-dir-react-express.png)](http://www.target.com "LINK TO: http://www.target.com in new window"){:target='_blank'}
+[![react-express-dir](app-dir-react-express.png)](http://www.target.com "LINK TO: http://www.target.com in new window?")
 
 1. App.css
 2. public/
