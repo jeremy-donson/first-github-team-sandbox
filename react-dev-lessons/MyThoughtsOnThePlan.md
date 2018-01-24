@@ -10,6 +10,11 @@
         -Ability to  debug errors.
         -Ability to understand JavaScript,HTML,XML.
 
+### STUDENT PREREQUISITES:
+        - Software tools installed.
+        - installed software tools toured and configured.
+        - Lesson plans reviewed.
+
 ### Student Should Be Able To (SSBAT):
         - !!Need help completing. I think this is repetitive.
 
@@ -20,14 +25,17 @@
 - => Must ALL be PROVEN as task proficiencies by the student at the end of the lesson.
 
 # How For Trainer To Prepare:
->> need more detail
+>> need more detail ?? Please ask a question or raise this in chat ??
 1. Ensure that all students understand and have met ALL prerequisites.
 2. Send reminder with TWO links
 - STUDENT-REPONSES.md raw 
 - STUDENT-RESPONSES.md formatted
 
 # How For Student To Prepare:
->> This is where the install tool comes in?
+>> This is where the install tool comes in?  
+
+NOPE!  This is how a student 
+
 1. Ensure that system is ready and prerequisite tools are installed.  Report?? failures in a reproducible?? fashion.
     - !! I am suggesting to run batch command files as install to be available to all windows,from the commands I see available it is possible and I am assuming we wouldn't have problems. Any suggestions?
     
