@@ -1,4 +1,4 @@
-﻿# Action Items:
+# Action Items:
 
 - Gmail: simeoncalixte@gmail.com
 - Github ID: simeoncalixte
@@ -10,11 +10,21 @@
 - Hours Per Week Available for Team Work:5
 - Hours Per Week Available for Team Learning:5
 
-
+> Solo learning and dev is always on. Cannot learning without doing.
 ---
 ### Current Task/with resources
-* >> 1
-* >> 2  
+* >> 1 Complete Lesson 1 and Lesson 2 in provided format.
+    
+* >> 2  Create unversial windows install for necessary tool
+	-Please list all tools
+    -Git4Windows
+    -Yarn
+    -Scoop
+    -Node
+    -Npm
+    -python
+    -Link to diagram
+    
 
 ----
 ### SCHEDULE FOR THE WEEK:
@@ -22,8 +32,8 @@
 Wednesday-Friday:3 hours a day
 ---
 Monday 
-		Session 1 Duration: 1 Hour<br/>
-		Time: 6:00a.m to 7:30am<br/>
+		Session 1 Duration: 30 Minutes<br/>
+		Time: 8:00a.m to 8:30am<br/>
 		Purpose: To determine week's forecast, what is expected essentially priming. Goals etc.<br/>
 	
 	Task:
@@ -33,7 +43,7 @@ Monday
 		Discuss any misunderstanding and issues.
 	
 Monday Session 2<br/>
-    Duration: 30 minutes.<br/>
+    Duration: 1 Hour .<br/>
 		Time: 6:00p.m to 7:30pm<br/>
 		Purpose: Discuss successes and failures of the day.
 		
@@ -46,8 +56,8 @@ Monday Session 2<br/>
   ---	
 
 Tuesday <br/>
-		Session 1 Duration: 1 Hour<br/>
-		Time: 6:00a.m to 7:30am<br/>
+		Session 1 Duration: 30 minutes<br/>
+		Time: 8:00a.m to 8:30am<br/>
 		Purpose: Status update---Tomorrows schedule.<br/>
 	
 	Task:
@@ -58,7 +68,7 @@ Tuesday <br/>
 		Discuss any misunderstanding and issues.
 	
 Tuesday Session 2<br/>
-    Duration: 30 minutes.<br/>
+    Duration: 1 hour.<br/>
 		Time: 6:00p.m to 7:30pm<br/>
 		Purpose: Discuss successes and failures of the day.<br/>
 		
@@ -173,87 +183,11 @@ Friday Session 2<br/>
 * cmd
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 
->Proposing to start win dev install script.
-* React Dev Setups Jumpstart: [system resources](https://superuser.com/questions/315195/is-there-a-command-to-find-out-the-available-memory-in-windows) 
->>+ installer
->>+ español 
 
- Find method to open gui to folder window from CLI:
-* cmd
-* powershell
-* bash
 
-			
->> always solo dev/learning 
-		
 		
  
 
 
 ---
-## What's Left
-
-3. Review three lesson plans: 
-
-* React Dev Fourth Lesson:  Test-driven gets
-
-* React Dev Fifth Lesson:  Test-driven posts
-
-
-https://nodejs.org/api/v8.html#v8_v8_getheapstatistics
-
-
-
-[That is, OPPOSITE TO THIS](http://www.indjango.com/ubuntu-right-click-to-open-terminal-in-current-directory/)
-
-6.  Test outcome: $ surge list
-
-Tear down all surge deploys:  $ for n in $(surge list | tail); do  echo surge teardown $n; done
-
-7.  Test outcome: $ surge list
-
-8.  See what we can do with:
-
-9. Review all [surge help notes](https://surge.sh/help/).
-
-10.  See how to do that with:
-* bash
-* powerShell
-* cmd
-
-11. Set up dev env from command-line:
-* Open Terminal at Project Directory.
-* Open File Explorer at Project Directory.
-* Open Chrome Window
-* GUI Editor
-
-[TIps](https://4sysops.com/archives/starting-file-explorer-from-powershell-in-the-current-folder/)
----
-
-# Lessons:
-0. test-driven react
-1. react
-2. README.md and PLAN.md using markdown.
-3. scripting
-4. testing
