@@ -1,0 +1,6798 @@
+you came up with something smart on that whiny post of mine 😀
+nice 󰀀
+was my reply helpful?
+I would like to learn more about vcurrency
+as per its structure, design and function
+Calixte Sim
+Extremely helpful. I was actually looking at bit-coin documentation. Confused me a bit, but the structure in my opinion was nearly flawless. But on issue decentralization.
+one*
+Jeremy
+is a diagram clarifying?
+I make great ones.
+Calixte Sim
+Is this going to cost?
+Jeremy
+no
+I am open source 100%
+sorry not to be clear
+might put my name on the diagram
+but it is for all humans
+Calixte Sim
+So you are for this?
+Jeremy
+which this?
+Calixte Sim
+Bio-Coin.
+Jeremy
+that.which.this = that.this(bind);
+:D
+might need to be a little more specific
+I have ideas for sharing that are cutting edge
+separate what we can own from what cannot be owned
+disclosure with the latter is not a threat
+articulating the question first might help....
+how can you share a good idea with someone who you do not know and facilitate teamwork while not posing a threat to your own stake?
+I am designing tools for this.
+I have given it some thought. 🙂
+NDA could assist, but that assumes that you are offering things that can be owned.
+and I could trade ya a diagram for SOME disclosure
+barter is nice
+Calixte Sim
+NDA? How far along are you into these projects?
+Non-disclosure agreement
+Jeremy
+yes
+Calixte Sim
+but your are speaking of ideas?
+Jeremy
+mine?
+Calixte Sim
+yes
+Jeremy
+I know what can and cannot be owned of my projects.
+so I am free to disclose that which cannot be owned anyway 🙂
+takes time to bear out the distinctions for a given project
+and my diagramming capabilities are hepful
+Calixte Sim
+Understood.
+Jeremy
+you are pretty sharp for florida
+howd that happen?
+Calixte Sim
+So, I am kind of a  little confused but maybe later things will be clearer.
+Jeremy
+I am always confused, and hopefully aware of it.  😀
+Calixte Sim
+Wow. Black and rejection from society would make you pick up books.
+Jeremy
+aha
+nice
+they had a good effect on ya
+and I am picky
+<listening>
+you read the source code?
+Calixte Sim
+Ok, to keep on subject I am speaking of Bio-Coin.     Contracts can be built between individual based on an idea and entities can be built for that specific idea with the registration id from those two bio-coins. Two coins(people) created one  entity.
+Jeremy
+and we met in a tech group?
+how about we crit bitcoin first?
+off the cuff?
+is it the precursor?
+is it broken?
+why?
+does it work?
+how/why?
+etc
+be candid
+helps me get to know ya
+Calixte Sim
+and the income and decision on finical would need to be keyed in by those two individual.
+financial.
+Jeremy
+And if you would prefer that I chat in larger blocks, can do.  Many prefer that.
+Calixte Sim
+critique bitcoin cool.
+it is slow is fuck
+Jeremy
+well, let's look at implementation first
+is speed the driving criteria?
+I prefer to fuck long and slow 😀
+lol
+Calixte Sim
+as*
+Jeremy
+I read ya right.  <nods>
+Calixte Sim
+Yes honestly, instance gratification is really nice.
+People love it.
+Jeremy
+well, I see that selling point
+and it is a way to sell it
+but I am more interested in terms of design that pertain to quality over speed
+not saying you are wrong
+we can sell that too
+but faster aint better
+it is just faster
+same faster
+Calixte Sim
+True
+Jeremy
+we are not disagreeing
+many ways to slice this potato
+all are yummy
+I am older.
+a young 50
+and I have seen what speed means
+wrong faster?
+:D
+I am more tuned into quality things.
+It seems to bear out higher quality and then speed is also juicy too.
+so, you can say !!wtf!
+and ask for an example
+np
+the distributed model
+Calixte Sim
+understood
+Jeremy
+the pace of a transaction
+the RATE-DETERMINING-STEPs of the set-leap-spike of the transaction
+I am old DBA
+transactions are multi-step
+and the rate determining step is that which dictates the speed of the overall execution
+works in chem and sofwtare
+many would speed up the faster steps
+and the rate-determining -step would still be the same 😮
+that would not improve performance
+are transactions executed in sequence or in parallel?
+Calixte Sim
+they would have to be executed i parallel
+in(
+in*
+Jeremy
+that can raise certain issues
+in database world
+ACID compliance is worth reading about
+ATOMIC
+CONSISTENT
+INTEGRITY
+DURABLE
+Calixte Sim
+Your speaking of intergrity
+Jeremy
+all have payoffs
+sorry
+error
+doink
+https://en.wikipedia.org/wiki/ACID
+ACID - Wikipedia
+In computer science, ACID (Atomicity, Consistency, Isolation, Durability) is a set of properties of database transactions intended to guarantee validity even in the event of errors, power failures, etc. In the context of databases, a sequence of database operations that satisfies the ACID properties...
+en.wikipedia.org
+isolation
+the integrity of the overall transaction is at stake
+ACID (Atomicity, Consistency, Isolation, Durability)
+when I move slower, I make fewer mistakes
+speed aint always better my friend 😉
+howzat for a case-in-point?
+Calixte Sim
+Is there any way we can have a whiteboard online that both of use can view? Or document structure?
+Jeremy
+yes
+get an account at cacoo.com
+and they will give us a few free docs for 2 weeks
+and then share them into the account I have forever from them
+back when they started they gave me lifetime account with 30 docs
+so start doc there, share with me and I can keep forever
+cacoo.com
+I will draw
+you dictate
+jjdonson@gmail.com
+glad you see the value of a good diagram
+words suck 😀
+lol
+phone and diagramming might get us there?
+glad to put into writing that the diagram is 51% yours if you wanna own the results
+not sure it CAN be owned, but that might help ya loosen up?
+just a thought <shrug>
+Calixte Sim
+True enough. Before I go and do the listed steps. I was wondering if you would be interested in mentoring me ? Honestly, I am not looking for money in this project. Just knowledge.
+Jeremy
+barter
+we can barter
+51% yours
+Calixte Sim
+Cool?
+Cool.
+Jeremy
+and bartering around that works fine
+what languages do you use?
+and what OS do you run locally?
+Calixte Sim
+I can use pretty much any language, I think. As long as there is documentation. But I have a code grasp on the LAMP stack. I have used C,JAVA and python in courses but nothing beyond that. I am running Windows OS.
+code=good
+Jeremy
+ok cool
+I am on OS X, but windows and linux-savvy
+I know lots about linux and hardware and databases in general.
+And I am learning react.js and express.js.
+sign up for free at cacoo.com
+and then tell me your user name
+Calixte Sim
+Username is Calixte SIm
+Jeremy
+k
+Mine is...
+Calixte Sim
+I just sent you an invitation.
+Jeremy
+nice
+Jeremy
+got it
+1 sec
+reload page
+you should see a shape
+and we can talk by phone seen
+and periodically I will save and say "reload"
+soon ^
+Calixte Sim
+So issue with know your customer.  A problem with BitCoin but this article says. Has solved it with Biometrics. Yes I see it.
+New BitCoin Cryptocurrency Revolves Around Biometric Identification
+A new, biometrics-based cryptocurrency is now available for purchase. Called AML BitCoin, it was created by NAC Foundation, which says...
+mobileidworld.com
+Jeremy
+cool
+thx
+reading
+Calixte Sim
+Critiques for bitcoin:
+Which blockchain-based cryptocurrency has the fastest transactions times?
+Answer (1 of 8): This is a little premature, but the answer is going to be in a Layer 2 service like Raiden or Lightning when it launches. Blockchains have a natural upper limit of 10 tx a second, with some designs able to get up to 1,000 tx in theory (Ripple and Stellar being two of these). La...
+quora.com
+Just saying maybe we can build a service on top of a chain that is just faster and skip the bottom up approach.
+Jeremy
+I will read them all
+https://www.google.com/search?q=bitcoin+diagram&oq=bitcoin+diagram&aqs=chrome..69i57j0l5.5318j0j1&sourceid=chrome&ie=UTF-8
+are any helpful?
+what would we like our diagrams to "say"?
+about bitcoin?
+about blockchain?
+2 diagrams?
+Calixte Sim
+Well, I am going to have to take a deeper dive into bitcoin before I can say much of anything about it.Besides what I think is common knowledge but doesn't actually hurt the brand.
+The link you shared to me was a bunch of noise. Sorry.
+What are we building these two diagrams about?
+Jeremy
+to ask good questions
+unambiguously
+it was a link to google "bitcoin diagrams"
+Calixte Sim
+Understood
+Jeremy
+was on phone
+using pre-existing diagrams can save time
+Calixte Sim
+No problem, I actually have to go. Actual work that I have to complete for a client. Will write back with good question. Main one do we actually need miners if they will be obsolete eventually? If not why are we wasting resources to mine towards a constant number for commerce?
+Jeremy
+well, you raise a very important issue that I feel is paramount
+but not for now if you need to do
+Calixte Sim
+Talk to to you later.
+
+P.S When is the best time to contact you.
+Jeremy
+up early at ~6
+up late till like 11
+whenever
+Calixte Sim
+Ok, later.
+Jeremy
+ttyl and thx
+718-710-9434
+text first to see if I am around
+Calixte Sim
+Ok
+Jeremy
+good first session
+thx
+JAN 16TH, 7:06PM
+Jeremy
+k, will read those and comment
+JAN 16TH, 8:42PM
+Jeremy
+k yeah
+I get it
+and I agree
+well done
+how to distribute the technology required for all that biometrics?
+and how to beat those who will try to crack that system?
+technically
+and strategically
+and iteratively
+WED 7:05AM
+Jeremy
+Any interest in react/express dev?
+And let's schedule a call about bitcoin and "authCoin"?
+WED 8:24AM
+Jeremy
+I have been reading up.
+A diagram for blockchain and for bitcoin are both worth discussing to help us discuss auth.
+The auth workflow is definitely not simply a nice to have.  Tis mandatory.
+Jeremy
+I have two projects in the works.
+
+The second one would be a great way to create a work-backed vcurrency.
+
+Not speculative.
+No mining needed.
+
+Just literally sweat equity.
+Perhaps we can negotiate for being mutual stakeholders?
+WED 4:47PM
+Jeremy
+Where do you usually deploy apps?
+I am about to start deploying react.js and express.js apps to a few places.
+Calixte Sim
+Hello, hopefully all is well.
+When you ask "where", do you mean my location or Dev Env?
+And  react and angular are both on my list of frameworks to learn.
+What is "authCoin"?
+I agree with you authentication workflow is mandatory.I actually been wrestling with it all day in my head. How do you authenticate transactions (really the creation of coins without mining/proof of work)?
+But I guess you have a solution with your second project?
+Jeremy
+I am learning react and maybe you ought to jump into what I am doing so you get the momentum.  I have been doing react for about 6 weeks, heavily.
+host apps, like aws, gcloud, heroku, etc
+authCoin is what I would call what you call bioCoin
+the idea is that is secure, and it ought to matter not HOW
+nFactorAuth
+methods undisclosed 🙂
+tiers of auth are good
+like not EVERYONE needs eye scan, but if warranted, it is supported, etc
+I am just about to start deploying to a bunch of places with some react apps:
+- ghub
+- heroku
+- surge
+- tectonic
+- gcloud
+and I wabt to add express to react
+want ^
+React is the easiest to learn and the most in demand
+express can do amazing things on server side with VERY little code
+I have examples that will floor ya
+how are ya?
+<listening>
+one thing I really need is a better debugging approach to react.js
+I would like to dump ALL vars, funcs, arrays, objects.
+Calixte Sim
+Agreed, again certain hardware will not be available everywhere.So tiers of authentication sounds great. However reading from articles iris scans can be hacked so can passwords and fingerprints. So we have to actually strengthen bio-metrics to really start speaking of security once compromised bio-metrics is essentially useless.
+Jeremy
+https://medium.com/denizandvlad/keeping-your-crypto-coins-safe-dcb356026fc2
+Look at yubico
+Calixte Sim
+In regards to your current project. I am always up for a new project. So just tell me what I need to get started.
+Jeremy
+react debugging tools are key
+I can set ya up with all else
+I have a resume which is a react app that I want to deploy
+need to set absolute paths for it
+the faster we get to express.js the better
+http://mern.io/
+MERN v2.0 - Build production ready universal apps easily
+MERN is a scaffolding tool which makes it easy to build universal apps using Mongo, Express, React, NodeJS, Redux and Webpack. It minimizes the setup time and gets you up to speed using proven technologies.
+mern.io
+I use bitbucket for private repos and github for public ones
+and if you can help out with react debugging, we will want to:
+- debug easily, like all that is in the cache
+- use bitbucket and github to collaborate
+- deploy to somewhere we like
+- start using express asap, where I have example that you will love
+what runs your laptop
+?
+linux osx win?
+Calixte Sim
+win
+Jeremy
+k
+do you use git and github?
+I would suggest that you install this:  http://gitforwindows.org/
+
+And get free accounts at bbucket and ghub.
+
+And we ought to start to rummage thru existing bitcoin and blockchain diagrams and see what we like.
+Git for Windows
+We bring the awesome Git VCS to Windows
+gitforwindows.org
+Calixte Sim
+doing now
+Jeremy
+For linux-y binary mgt on win:  scoop.sh
+I use something called brew on osx.
+(y)
+brew : osx as scoop : win.
+once you have scoop installed, you will use it to install node:
+
+$ scoop install node
+
+Between git and scoop, you are able to get all you need running local.
+node is server-side js
+it comes with node package manager
+$ git clone [github-repo-url]
+or
+$ scoop install node
+or
+$ npm install webpack
+those will be your local installers
+first lesson is to get create-react-app installed and use it:
+
+$ scoop install node
+$ npm install -g create-react-app
+$ create-react-app firstApp
+$ cd firstApp
+$ npm start
+
+Then browse to localhost:3000
+You should see empty react app.
+Then we will start to deploy that.
+Then we start to dockerize and deploy that.
+
+Then we get debugging tools.
+Then I can show you how to use git and github.
+
+Then we can get started with a project.
+Feel free to give me a call and review by phone:  718-710-9434
+Glad to jumpstart ya.
+best would be to define goals and schedule meetings
+no worries is that is a load to digest
+you can let me know what you know and what is new
+np
+Calixte Sim
+At least you understand, it is quite a load. Im still on gitWindow
+Jeremy
+of course
+hey
+git4win includes all kinds of GREAT shit
+ssh
+bash
+all kinds of linux binaries
+and of course, git
+creating some shortcuts to get to bash prompt and run git from bash is recommended
+It is all kosher.
+gimme a call and I will help ya thru it
+I need to free up my hands to code
+if you do not use git and github then that is something we can swim ya thru in 30m within a day
+meanwhile, install scoop, and use it to install node (which should include npm)
+
+Then use npm to install create-react-app
+
+And get a react app running, and we can deploy it,
+and then we can go back and make ya feel more oriented locall.
+you just got bonused 😀
+glad to
+Calixte Sim
+Thank you
+Jeremy
+this is how we can collab solid
+np
+yo owe me, and I will not ask for much
+I promise
+lets get ya useful with that stuff
+I would like to work at a bitcoin corp in nyc.
+Then I will really know the internals of vcurrency.
+so, jumpstarting ya to get to useful with git, github, react, is all just required prep
+and I am already solid there
+so enjoy
+Calixte Sim
+downloading scoop now
+Jeremy
+you will be jazzed
+Calixte Sim
+will ping once completed everything
+Jeremy
+cool
+scoop installs node, which comes with npm
+
+npm installs create-react-app
+
+create-react-app installs react boiler plate, which is react node prefab app
+
+then test locally
+
+then we can deploy to a couple of place
+s
+ask anything
+no prob at all
+you will find that I often speak in bash
+Calixte Sim
+Ok done with some now npm and node.js
+some=scoop
+Jeremy
+just install node
+it should include npm
+https://www.npmjs.com/package/scoop/tutorial
+This says to install npm direct.
+You still ought to use scoop when you can.
+See if it will install node and npm
+that would be best
+that link is fallback *if* you get blacked
+Calixte Sim
+understood
+Scoop on update
+Jeremy
+nice
+git clone
+
+scoop install
+
+npm install -g
+those are how you get local running now
+git is the most complex
+
+we can push that to the end
+Calixte Sim
+it says it couldn't find manifest for node.
+Jeremy
+then use the node installer in that link
+abd I bet npm can install scoop
+then when you wanna run something linuxy, you can install it with scoop
+I just know those three are all y'need and then some on win
+react and node get updated all the time
+they are a blur
+Calixte Sim
+I hate frameworks to be honest for that reason.
+Jeremy
+yes, we will talk
+I agree and understand
+honesty is good
+pruning out what we do not need will be something we get to soon
+meanwhile, for dev and initial deploys, we ought to use frameworks and boilerplates
+dockerize => deploy to tectonic
+then we can go back and beat on the dev tools
+get a github id while you run installs
+Calixte Sim
+ok
+Jeremy
+(y)
+get one at bitbucket.org of same name and password
+bitbucket for private
+github for public
+if we can get ya deploying, and then installing express, I will blow ya away with an express app that will make you laugh and cry
+2 pages of code does a TON
+react for DOM state
+express for backend logic
+
+MERN stack is very nice
+E = express
+R = React
+angular kept changing too fast and too much
+react is tight
+Calixte Sim
+installing react now.
+Are you saying angular is not worth learning?
+actually creating the app
+Jeremy
+angular competes with react directly
+and express as well
+tries to do too much
+each version is BIG change
+react and express are separate for a reason
+and they marry  up well
+biggest demand is also for react
+those are the facts that pushed me from angular to react
+the criteria is the key
+decision is personal
+Calixte Sim
+How long should an app install take?
+Jeremy
+create-react-app ?
+Calixte Sim
+yes
+Jeremy
+it takes a couple of minuts
+longer than it should <nods>
+the build step when deploying prunes out what is not used
+Calixte Sim
+the install did not give me a complete message. I have a file and a folder in the directory. Is it installed? It is node_modules folder and a json file. Or should I reinstall it?
+Jeremy
+should be more than that
+
+the template is in public
+the react code is in src
+$ create-react-app firstApp
+should have worked
+Calixte Sim
+reinstalling now
+Jeremy
+cool
+for express:
+
+$ npm install -g express-generator
+oh, since windows
+reboot
+Calixte Sim
+after install everything?
+Jeremy
+if you did not after installing node, you might
+well, win is like that
+deep installs can require reboot
+Calixte Sim
+i installed react successfully
+now express
+Jeremy
+cool
+Calixte Sim
+done
+Jeremy
+yeah, express is lean
+Calixte Sim
+noticed
+Jeremy
+$ create-react-app firstApp
+completed ok?
+you have src/ dir in there?
+like screenshot above
+Calixte Sim
+yes
+Jeremy
+cool
+cd in
+$ npm start
+then localhost:3000 in browser
+templating system that is now stardard is called pug, fyi
+react and express both use it
+Calixte Sim
+Pug is an abbreviation for?
+Jeremy
+no clue
+perhaps like the dog?
+used to be jade, now it is pug
+just pointing out that both express and react can be separate
+or togother
+deploying that react app is nice next move
+tomorrow we get ya using git and github
+then we can dive in
+and if you are up for it, the express app that I am blown away by from 2 pages of code
+Calixte Sim
+I can't wait. the localhost enviroment is running
+I honestly can't wait
+Jeremy
+lol
+you see react app running?
+Calixte Sim
+yes
+Jeremy
+good
+glad you are psyched
+going to deploy next is wise
+else you can get jazzed with dev and never see a deploy
+Calixte Sim
+I don't understand.
+Jeremy
+we should push that app to heroku
+or surge
+or or somewhere it can get approved prior to aws or gcloud
+Calixte Sim
+yes
+Jeremy
+running on dev only is a mirage
+deploy = no mirage
+Calixte Sim
+understood
+Jeremy
+so, how about surge and heroku
+no $
+then you have a path to deploy from jump
+and we can start to share code
+and I can do git and github goodness tomorrow
+Calixte Sim
+ok ill deploy on surge now
+Jeremy
+nice
+Calixte Sim
+done
+Jeremy
+cool
+Calixte Sim
+I assume you are busy, I have to leave myself. I guess we will speak tomorrow.
+Jeremy
+well, that was good start, no?
+Calixte Sim
+Disregard
+yes it was
+Jeremy
+great
+time well spent
+tomorrow we can do some git and github
+then some express and some project planning
+then you are in deep 🙂
+please look into debugging in react
+I would like to dump ALL vars, arrays objects
+ALL
+so we see all that is in the cache
+then easy to debug anything
+console.log(blah);
+is selective
+I want superset of options.
+likely a node.js tool
+same will be true for express
+Calixte Sim
+ok. Ill be reading up on that tonight. dump all data types into cache, correct?
+Jeremy
+yip
+it is a node.js thing
+that would cover react and express in one tool
+Calixte Sim
+Ok will do.
+Jeremy
+nice
+thx
+Calixte Sim
+np, ttyl
+Jeremy
+ttyl
+THU 5:18AM
+Jeremy
+https://spin.atomicobject.com/2015/09/25/debug-node-js/
+THU 6:19AM
+Jeremy
+Good morning.
+
+Next steps for us are to:
+- expose ALL cache elements with debugging
+- use that to expose absolute component and image paths at surge
+- add a png image to react app
+- add an svg image to react app
+- implement custom react components
+- implement custom properties
+- create a phone app using react native
+- consider finding a web site for vcurrency where we can improve it
+- look at redux to eval best tools for web routing
+- take a look at express.js
+- deploy express.js apps
+Jeremy
+I would prefer that we break that into chunks, and schedule it.
+THU 7:27AM
+Jeremy
+my core team:
+- trainers of git and github
+- react and express devs
+- librarians
+- radio, tv and live venue managers
+- sponsorship engineers
+they will all need each other's help 🙂
+morning
+Calixte Sim
+Good morning,
+I haven't solved the cache issue. Looked at some threads that seemed useful, but I am still new to react so I am complete clueless for now. Figured out how the components portion of it works. But it seems that you cannot use standard css, is this true?
+That is a large team. What is this team for exactly?
+Jeremy
+no worries
+just listing the issues
+this team is for my 2 main projects
+linkedUp
+barterEngine
+Calixte Sim
+care to elaborate  on barterEngine
+?
+Jeremy
+both projects are near term in terms of momentum
+linkedUp will USE barterEngine
+barterEngine could leverage vcurrency
+Calixte Sim
+Not to bother but I was looking for more details like: What is it's purpose?, How will it leverage vcurrency? and how can I fit in this puzzle?
+Jeremy
+yeah, that one is quite proprietary
+I love the curiosity.
+And as we get into vcurrency, you will be given more.
+but only as needed
+linkedUp is open source
+and I am being generous there
+Calixte Sim
+😰
+Jeremy
+lol
+nah
+Calixte Sim
+np
+Jeremy
+you will know more than most
+as needed
+and you can have a stake
+just gotta keep that one secure
+Calixte Sim
+understood.
+Jeremy
+the team for vcurrency is not even considered yet
+we are "it" 😉
+Calixte Sim
+Ok.
+Jeremy
+that ought to help
+anyone else who gets considered for team is disclosed to you
+Calixte Sim
+Well allow me to get familiar with React syntax for a moment I can't even create a simple CRUD app yet.
+Jeremy
+yeah, it is different
+read-only first
+lots of ui goodies to play with first
+then play with state
+then forms are easy
+I am a GREAT trainer.
+And I  have done the trudging thru many tools and vids and docs.
+Calixte Sim
+So I will just read the documentation.
+Jeremy
+nah
+follow that list
+we will refer to docs
+but examples are best
+you might also need pip installed, fyi
+we installed most package managers needed yesterday
+do you run python 3?
+and debugging tools first or crud will drive ya bonkers, lol
+just let me pave the road, and you can drive
+then we get to vcurrency faster
+Calixte Sim
+yes I do run python 3.
+Jeremy
+nice
+Calixte Sim
+ok <listening>
+Jeremy
+pip3 is helpful for installs as well
+just wanted to be sure:
+- npm
+- git
+- scoop
+ - pip3
+those round out your session yesterday
+installers
+debugging tools are next
+there MUST be a node call that simply dumps all vars, arrays, objects from cache
+Calixte Sim
+I have pip installed, checking for updates
+Jeremy
+well, now when you are given x to install, you will have the installer
+datz all
+note that with npm...
+$ npm install -g blah
+vs
+$ npm install blah
+the top one is global install for system packages
+bottom on is local to a project only
+Calixte Sim
+understood
+Jeremy
+cool\
+package.json file is updated with:
+
+$ npm install blah --save
+as in, we just installed package blah into project, and it is also now in the inventory for the project
+why git?
+even solo local without github use, git is awweeeewome
+with github, it is dangerous in a good way
+git is VERY small binary
+Calixte Sim
+dangerous 🙂
+Jeremy
+Linus Torwalds create is to manage his source code while he was CREATING linux.
+way
+it ^
+Linus Torwalds create git to manage his source code while he was CREATING linux.
+he kept trying different things
+and often he needed to go back and try a new direction with code that he abandoned
+or thought he had
+git makes that simple
+only in the last 10-12 years has git been popular
+prior to that many vcs (versioning source code) tools existed...
+cvs
+perforce
+bazaar
+svn
+visual source safe
+then one came out that was web-aware
+it was called mercurial
+hg
+it was for distributed team dev
+and the idea of ditsributed code versioning was born
+Calixte Sim
+ok
+<listening>
+Jeremy
+then someone named Scott Chacon took the git source code and added some features of mercurial to git
+and git won
+and then github came out
+and git won again
+it is THE de facto standard for distributed code mgt
+the language used is not relevant
+all use git
+ALL
+so, tuning windows people on to it and github requires some faith and awareness
+best coder even without git and github could be assed out of the best projects
+ever ^
+so, end of rant
+but now you know WHY git
+Calixte Sim
+yep
+Jeremy
+git is easy to use locally
+as an installer, it works like this:
+$ git clone GITHUB-URL
+cd new-project-dir
+$ npm install
+That installs everything that is in package.json 🙂
+this allows github repos to just list inventory and leave packages up to the deployers.
+no worries if not crystal clear yet
+but this ties together git and npm
+$ git clone GITHUB-URL
+$ cd project-dir
+$ npm install
+juicy
+<nods>
+now, before we even do anything crud-ly
+take a look at what I found and got blessed by a node guru I really respect.
+He wrote the lynda.com node training courses.
+http://reactstrap.github.io/
+reactstrap - React Bootstrap 4 components
+reactstrap - easy to use React Bootstrap 4 components compatible with React 0.14.x and 15
+reactstrap.github.io
+no crud
+but plenty of ui functional goodness
+and all VERY nicely integrating bootstrap, which is responsive and cross-browser with react
+Even playing with that, debugging becomes crucial.
+I have used several.
+I am not front end guy, but I can make nice diagrams in illustrator, and save as svg.
+are ya hip to svg imagery and why it is best?
+png is nice, but bitmap
+svg is vector, so one image can be any size
+resolution-independent
+there are some ui things to check out first
+Calixte Sim
+yes I am I also have used illustrator and photoshop
+Jeremy
+cool
+yah, I do not draw, but I know them well
+since the early days
+svg is bad ass
+and it is supported by MOST recent browsers
+https://caniuse.com/#feat=svg
+so, browser support and debugging gets with react comes first
+then we can do crud without causing ourselves undue pain
+Calixte Sim
+ok. LOL
+Jeremy
+np
+glad to make the case
+you dont know me
+and you have your own perspective
+but I will make compelling cases
+and you can respond candidly
+when people disagree respectfully, we all learn the most
+Calixte Sim
+I will not hesitate.
+Jeremy
+I get that 😀
+I am good with it.
+remember, we might BOTH be wrong.
+:D
+I was wrong once.
+IT HURT!  😉
+lol
+Calixte Sim
+Just once?
+Jeremy
+sarcasm
+I was never wrong!
+(sarcasm)
+:D
+lol
+just keeping it lively
+I invite varied perspectives.
+They simply need to be informed, and then I can learn a lot as well.
+So, reactstrap and gets is plenty.
+And one thing I see is that deploys can fail due to:
+- too long in deploy build
+- relative paths which work in dev failing in public deploys
+this is where debugger would be nice.
+I would also like to use .htaccess type of method with node
+so that we can deploy publicly and keep web site private without site-wide login
+those would enhance our velocity with all projects
+and you just showed up
+we could try to work thru one together
+your call
+<listening>
+Calixte Sim
+Where do we start
+Jeremy
+1 sec
+https://spin.atomicobject.com/2015/09/25/debug-node-js/
+Debugging Node.js – Three Options
+Comparing the built-in Node debugger, Node Inspector, and IDEs for debugging Node.js apps.
+spin.atomicobject.com
+there
+debugging targets:
+
+1. gets
+2.  absolute paths
+global cache dump is best
+and I have a fb group where I have been dumping links
+I will add you to two groups
+k?
+Calixte Sim
+ok
+Jeremy
+(y)
+https://www.facebook.com/groups/webdevui/
+OSS Web UI Standards
+164 members
+join
+1 more coming
+https://www.facebook.com/groups/osswebdevbackend/
+Open Source Web Dev & Engineering
+583 members
+join them both
+some of our exchanges will be posted in there
+not too much, but some
+This looks juicy
+http://xyc.github.io/react-inspector/
+so get messy with debugging options
+and we will work together
+Calixte Sim
+what ide do you use with react?
+Jeremy
+oh, great question
+using the browser to debug is best
+as not all devs will use same ide
+but Visual Source Code is what I foud most react-savvy
+sorry
+Visual Studio Code
+I bet you can install that with scoop
+https://github.com/lukesampson/scoop-extras/blob/master/vscode.json
+lukesampson/scoop-extras
+scoop-extras - "Extras" bucket for Scoop
+github.com
+this suggests that I am correct in that regard
+but I would not get too crazy with ide yet
+start with browser-based debugging for all devs
+do not impose an ide on others
+make sense?
+Calixte Sim
+yes
+Jeremy
+then if someone who uses eclipse wants to join our effort, we are able to show them how to debug without making them change ide
+cool
+after we do debugging in browser, you make a good point
+better to see problem first in IDE <nods>
+those actually converge, and browser first is best
+(y)
+you are gleaning from me in two days what took me a LONG time 😀
+stick with reactstrap and debugging, and you will find that you will avoid a lot of wasted time that I wish I had avoided
+and then crud is in hand
+Do you have a linkedin profile?
+And can you get github and bitbucket id's?
+Calixte Sim
+I got them yesterday.
+Jeremy
+what are those id's?
+Calixte Sim
+username is simeoncalixte
+for both
+Jeremy
+gotcha
+thx
+Calixte Sim
+negative for LinkedIn, and I really do appreciate the help on this.
+Jeremy
+you are getting the good stuff
+Calixte Sim
+I will definitely pay your kindness forward
+Jeremy
+understood
+it is not much to do to set someone up if they will trust and go
+this is "implicit" barter
+barterEngine is for explicit barter
+you have been invited to a github repo
+Calixte Sim
+accepted
+Jeremy
+nice
+you will first work locally
+and then you can clone that repo and interact with me there
+it is public repo
+we can create conflicts, repair them, avoid them
+three levels to git/github skills:
+- solo local
+- solo remote
+- team remote
+while we do debug things, we can keep snippets in that repo.
+ok, I gotta get to work
+ask me for help or guidance
+I use chrome browser
+firefox may have better debugging tools
+we want node level debugging
+express and react both use node
+and we will jump into react-native as well
+then we are well-tooled
+Calixte Sim
+ok, great chat, ttyl
+Jeremy
+https://github.com/jeremy-donson/first-github-team-sandbox
+Check readme
+that ought to be where we keep things that ought not to get lost in chat.
+ttyl
+THU 12:34PM
+Jeremy
+yo
+question
+when you have 2m
+Calixte Sim
+Go ahead
+Jeremy
+in the interest of aiming towards crud
+I am sticking to our current sequence
+and asking early....
+two types of state machines to start?
+- csv
+- redis
+ok?
+Jeremy
+The art and science of workflow analytics is very organic and powerful.
+
+It applies everywhere that humans interact in any way we can imagine.
+
+Most of human interaction has not been properly considered in terms of basic workflow analytics.
+
+It is important to understand that EVERY business and school and organization have workflows.
+
+And they can be supported with software
+And the workflows can be broken, and so can the tools.
+
+Tons of software out there.
+
+The art and science of workflow analytics requires a firm grip on:
+
+1. Costs of broken workflows.
+- Direct and indirect costs.
+- To whom.
+- How.
+
+2. Clarity thru diagramming with regard to what is actually wrong with the workflow.
+
+ALL workflow goals MUST be clearly spelled out.
+
+3. Clarity thru diagramming with regard to what is actually broken.
+
+4. Clarity thru diagramming with regard to what actually could be fixed.
+
+5.  Challenges to that set of enhancements, from strategy to politics to implementations.
+Jeremy
+and that is about my work
+https://redislabs.com/lp/node-js-redis/
+And that is about which redis connector from react or express app.
+:D
+I am database engineer.
+but simplest state machines first, k?
+http://instantrimshot.com/index.php?sound=downer&play=true
+Calixte Sim
+Familiar with CSV
+Jeremy
+That was for dramatic effect 😉
+lol
+it is a good start
+redis is key value store
+SUPER ease
+GREAT for authentication
+VERY fast
+dont hold back now
+;)
+Calixte Sim
+I am not, reading your messages for clarity
+Jeremy
+I was being sarcastic
+You are candid, and that is good.
+take your time
+quality takes time <nods>
+aint nuttin on fire!
+aint no pop quiz!
+lol
+Calixte Sim
+Jeremy
+(y)
+alright!
+I can be funny!
+Calixte Sim
+Ok, well ill have to read redis documentation as well. We will use redis..
+Jeremy
+nah
+I can run ya thru it hands on in 10m
+just giving you confidence that we will get to crud
+cuz we will !!!!!!!!!!!!
+Calixte Sim
+From what I can see fuck yeah we will.
+Jeremy
+stick to sequence at play
+oya
+damn straight BayBEEEEE 😀
+giving you clues to the future should not take you out of sequence
+just gives you a sense of the trajectory
+(y)
+Calixte Sim
+Understood
+Jeremy
+cool
+if distracting, can hold off
+your call
+Calixte Sim
+no go ahead as long as you're free
+Jeremy
+like:
+
+"Yo Jeremy!
+
+My head is already full!
+I am TRYING to stay focused!
+HELP me stay focused!
+"
+just asking
+and also using this as a chance to reinforce the sequence
+deploys and debugs and ui first
+then we can get all about state
+Calixte Sim
+You are just clearing a lot of noise in my head. I read about redis before but never used it. So bring on the clarity!
+Jeremy
+good
+that is the goal
+you make good points
+I say yes, and then put them in good sequence for us both.
+Calixte Sim
+Ok
+Jeremy
+https://github.com/jeremy-donson/first-github-team-sandbox/blob/master/README.md
+reload page
+I will not change sequence
+but I will keep that sequence ahead of us a bit
+like, 2-3 days ahead in terms of planning
+then you always know what is coming
+THU 8:24PM
+Jeremy
+ok, added some links, which we can test together
+the testing is KEY
+check the github repo readme (reload)
+how yoo doon?
+at your convenience
+just notifying you of updates
+Calixte Sim
+Dude i am lost on setup
+Jeremy
+how so?
+dude
+that sounds painful
+speak up
+no solo pain!
+if you want me to test something on win, speak up.
+(!!)
+<listening>
+you flyin solo without a parachute? 😉
+Calixte Sim
+Sorry, react works fine. Im just paralyzed, on inserting the data into cache in the first place. Using php it was mostly done for you.
+Jeremy
+np
+yes, do not worry about state yet
+it is a PAIN in the ass, but nice once you learn it
+and debug issues are PARAMOUNT
+Calixte Sim
+If you can't debug you cannot deploy
+Jeremy
+well, this is crucial we CAN debug
+then question is not whether, but how
+Calixte Sim
+Exactly
+Jeremy
+and I provided some links to clue us in that way
+Calixte Sim
+Preciously?
+Jeremy
+?
+what my precious?  😉
+* [we want more than just globals](https://stackoverflow.com/questions/31173473/list-all-global-variables-in-node-js)
+* [test this before promoting](http://xyc.github.io/react-inspector/)
+List all global variables in Node.js
+I'm trying to list all of the global variables, including those refering to built-in objects. In Chrome's console I can simply type this and get back all the keys, including things like String, Nu...
+stackoverflow.com
+two links
+the second is the juice
+OR could be
+Calixte Sim
+Previously*
+Jeremy
+testing is the rub
+lol, k
+for example, how can we prove that whole all is exposed?
+not hope
+PROVE?
+sans exceptions
+so I will throw some methods at ya
+but the terms of testing are paramount
+not, HEY!  😀
+this LOOKS like is works!  😀
+no
+how can we be certain
+?!
+and I have ideas, but this remains good first effort
+terms of testing and debugging first
+else DAYS will be lost without justification
+and that will not do
+bitcoin, or shitcoin?  😉
+lol
+Calixte Sim
+Lol
+Jeremy
+so you will find me to be a bulldog about debugging and testing
+else we are gluttons for punishment
+and not good for biz
+what is testing sufficiency?
+I dunno!
+how do we test for that too?
+:D
+funny, and totally serious
+Calixte Sim
+That I know.
+Jeremy
+go slow, and stick to the sequence
+this is why I set that up
+sequence came from PAIN
+and wasted time!
+spare yourself the redo
+skip that crap
+forget get and post until AFTER the debugging is ROCK solid
+then it will be cake
+else not (understatement)
+and this is a node thing
+not about react
+just node
+and you are welcome to prove it to yourself
+Calixte Sim
+Ok how do i get started with node? Of course, read the docs right.
+Jeremy
+yeah
+node language stuff
+Calixte Sim
+Trust me , i trust your word
+Jeremy
+well, you can show me something good
+and I will readily admit it
+https://blog.codeship.com/understanding-garbage-collection-in-node-js/
+relevant 󰀀
+but not conclusive
+so when I change sequence and let you know
+shift sequence with me after asking why
+sorry i did not have that right earlier
+now it is better <shrug>
+Calixte Sim
+Ok now it makes since. I'm extremely slow.      😪
+Jeremy
+nope
+this took me weeks to deduce
+no
+you aint
+be nice to yourself
+you are doing fine
+great, really
+https://github.com/jeremy-donson/first-github-team-sandbox/blob/master/README.md
+Calixte Sim
+Thank you
+Jeremy
+you can ALWAYS ask why THAT sequence?
+np
+ALWAYS
+as in, why this after that?
+Calixte Sim
+<currently read> and understood
+Reading
+Jeremy
+tell me what you find
+I have not read them
+I am foraging and paving
+when you like what you read, tell me to read that one
+and tell me why you liked and ask questions
+reload page 🙂
+Calixte Sim
+Im sure with your experience you are aware of garbage collection and the possibilities for memory leaks. It was basically letting us know that node.js tries its best to perform gc but developers need to be aware of instances where they may structure code that may prevent the engine behide node.js from collecting unused varibles. For example,  like haphazardly referencing global variables in functions can prevent V8 from collecting, but nothing about caching.
+Calixte Sim
+Or is gc part of caching?
+Jeremy
+gc is how the cache gets cleared
+ie when memory is released, how to let go of what it held onto?
+var g = 5;
+there is a place in physical memory where that exists now.
+when unset, how is that phsyical piece of ram reclaimed?
+that is gc
+clarifying?
+Calixte Sim
+Understood
+Jeremy
+did I address your question?
+Calixte Sim
+Yes.
+Jeremy
+cool
+reclaimed chronologically?
+by size, largest first?
+etc
+LRU = least recently used
+many ways to order that queue
+linear?
+in parallel?
+etc
+Calixte Sim
+Jeremy
+lol, just posing the right questions
+and the real question is when cache is dumped in full, how can we know we got it ALL?
+it will not include garbage not yet collected
+I have ideas for tests
+but the questions need to be clear first
+no rush
+its good for ya
+just reread and try to imagine it graphically
+what is dirty cache?
+stuff not yet collected
+that ought to NOT be in active cache (clean)
+and gc clears dirty cache
+Calixte Sim
+Ok im going to read more on node to get it up in running.
+Fyi. I am approaching as though i would be working PHP. Since both are server-side languages.
+
+Dirty cache is ones that fit the parameters mentioned above?
+Are*
+Jeremy
+three section of mem:
+- in cache
+- dirty and on its way out via gc
+- free
+yes every language has htis
+it a language agnostic thang
+1 => 2 via unset var/object/etc
+2 => 3 via gc
+3 => 1 via set
+three section of mem:
+1 - in cache
+2 - dirty and on its way out via gc
+3 - free
+Calixte Sim
+So the methods given on stackoverflow does not help?
+With your problem I mean.
+Jeremy
+they are partial
+not all
+globals
+that aint all that we can set
+native and custom
+globals and local
+Calixte Sim
+Ok, clearer.  <reading node.js>
+Jeremy
+nice
+frankly HOW it gets cleared can be complex
+we simply want to know all in cache
+and a memory leak would be when dirty is not collected
+or when unset is not marked as dirty ready for collection
+that ought to clear the critical path somewhat
+like can we get a dump of all in cache, and resource cost of each?
+and see what is free mem?
+and make sure that all adds up?
+that would be nice accounting
+Calixte Sim
+From what I've read no, which is from the link you shared.
+Jeremy
+well, first we want a list
+then we want accounting
+then we are set
+short of that, we are good with listr
+Calixte Sim
+👌.... Savali(in time)
+THU 10:52PM
+Calixte Sim
+Well this is the last message of the night, I remember you telling between 6 a.m and 11 p.m, https://www.npmjs.com/package/node-cache is a cache system. Are you using it maybe the functions might make it easier on your situation let me know what you think?
+I cannot imagine it not returning everything that it contains
+Get multiple keys (MGET):
+if I am in the wrong place. Please redirect me back on the right path.
+myCache.keys( [callback] )
+Returns an array of all existing keys.
+Also we never defined whether which cache system you were using, that all would of helped?
+whether or not*
+Good night 🌙
+FRI 7:12AM
+Jeremy
+hey good morning
+I am always up very early
+scheduling some time would be best
+That is like memcached, which is an ALT cache
+I am asking guru today.
+lets try to schedule some meeting/working times over next few weeks.
+And I will start to share code into the repo.
+We need to getya up on git and github, and start to deal with absolute paths and deployments.
+This implements the map() function.
+Jeremy
+To the guru:
+
+Three areas of node cache:
+- occupied: From which we want full dump!!
+- dirty: From which garbage collection cleans
+- free: which is used for new declarations and assignments
+
+When I saw full dump:
+- constants
+- variables
+- arrays
+- objects
+- functions
+- etc
+
+And also their resource costs, as well.
+Jeremy
+Occupied + Dirty + Free  should total complete node memory?
+
+And all names with resource costs would permit memory accounting?
+Jeremy
+This will only work by scheduling and planning going forward.
+
+Can we get into a regular pattern of learn and work sessions?
+Jeremy
+We ought to review the sequence I laid out on that github readme together?
+Best done on a phone call.
+
+Several tools to learn:
+1. git/github/bitbucket
+2. deployment issues
+3. react ui and debug
+4. react redis+csv
+4. react forms
+5. react-native??
+
+Several projects:
+1. web app resume
+2. team dev dojo
+3. linkedUp
+4. barterEngine
+5. vcurrency
+Jeremy
+I feel I ought to be a bit exacting and enforce some scheduling polcies.
+I already wasted too much time solo without clear path of learning and working.
+Please start using phone and scheduling time and verifying what your action items are.
+FRI 8:29AM
+Calixte Sim
+Understood. You are my senior so whatever schdule works for you is fine by me. 7868001492 is my number.  I am at work between 8:30 to 5 p.m but it is family business so basically I am almost always free.
+Jeremy
+ok, good to know
+thx
+the goals is to become equals
+and you get to pay back with some teaching and onboarding of other devs who are bound by contract to barter
+and then you will get a feel for the barter thing
+Calixte Sim
+Would you like to use google calendar to share you schedule, or should I share mine?
+np, I have extreme patient when I want to learn and master something, and this is one area that I have dedicated to much to to look back now.
+patience*
+your *
+Jeremy
+yes, jjdonson@gmail.com
+text me back, as I just texted you
+and email me with some time slots?
+I just tried calling.
+np
+say whenz good
+Jeremy
+Your day job can take priority, np
+718-710-9434
+text me
+just to open up channel
+Calixte Sim
+Sorry i stepped away.
+Jeremy
+pfft
+just say thx for patience
+no sorries
+:)
+Calixte Sim
+Understood
+I'll. email you as soon as i get a chance with calendar. 9:30 is cool.
+Jeremy
+great thx
+Calixte Sim
+Cause busy a little now
+Jeremy
+no worries
+stay calm and slow and steady works for me
+aint nuttin or fire!  😀
+lol
+thx
+Calixte Sim
+No problem
+Calixte Sim
+Jeremy
+:D
+keep it funny
+people can stress out around learning and coding
+less ego and less stress is best
+remind me when I forget 😮
+;)
+Calixte Sim
+Brb...
+We'll chat a 930.
+@
+Jeremy
+And we ought to set a topic list prior.
+And assume that we will end up with action items at the end, and a sched for next meeting.
+Then it is a process, iterative, etc.
+We will smooth that out, np.
+(iteratively) . 😉
+Jeremy
+k
+Calixte Sim
+Topic? Well, one is cache debugging, since it is first on the list.Which cache engine are you using? That was the question I ended with last night. Should of been asked a lot earlier, but I was wondering if that was intentional.
+Jeremy
+https://github.com/jeremy-donson/first-github-team-sandbox
+jeremy-donson/first-github-team-sandbox
+first-github-team-sandbox - Here we learn to screw it up, clean it up, and then prevent it going forwards as a team.
+github.com
+That ought to be our guide to topics?
+node has single allocation of system memory
+how that gets split up inside node is not really my concern, tho interesting.
+Jeremy
+Three areas of node cache:
+- occupied: From which we want full dump!!
+- dirty: From which garbage collection cleans
+- free: which is used for new declarations and assignments
+
+When I saw full dump:
+- constants
+- variables
+- arrays
+- objects
+- functions
+- etc
+
+And also their resource costs, as well.
+Jeremy
+Occupied + Dirty + Free  should total complete node memory?
+
+And all names with resource costs would permit memory accounting?
+Jeremy
+That went to guru
+he will confirm.
+Glad to clarify, but node guru is the end all for certainty.
+I am just teacher.
+He is sensei.  🙂
+and I ONLY use his help after considerable toil and pain
+ONLY
+Calixte Sim
+https://www.washingtonpost.com/news/the-switch/wp/2018/01/12/the-tech-to-embed-a-fingerprint-reader-inside-a-screen-arrived-at-ces-but-only-in-a-chinese-phone-for-now/?utm_term=.2da75766911e
+Jeremy
+yes, good move
+Calixte Sim
+Authentication-work flow. Combination of numeric or Alpha-numeric inputs with individual fingerprints all ten digits (thumb pinky etc)
+Jeremy
+I will add section for vcurrency topics to readme
+np
+authentication and authorization schemes <nods>
+we will end our chat there 󰀀
+Calixte Sim
+cool
+Jeremy
+https://github.com/jeremy-donson/first-github-team-sandbox
+jeremy-donson/first-github-team-sandbox
+first-github-team-sandbox - Here we learn to screw it up, clean it up, and then prevent it going forwards as a team.
+github.com
+reload page
+Calixte Sim
+Are you available?
+Jeremy
+yes
+at your convenience
+FRI 2:00PM
+Jeremy
+any updates?
+I am about to drop into some python for a few hours
+then I will be doing hackerrank reactjs stuff
+Jeremy
+yo
+should we set up some tests cases and test runs so we can record results?
+
+Key that we start doing that asap.
+
+And reproducibility of test and test result is the measure of quality.
+Calixte Sim
+I though it was the goal of this task?
+Jeremy
+well...
+3 goals...
+1. define the test case
+2. define the test run
+3.  execute and document test run and see if reproducible
+I was not explicit before
+my bad
+glad to help
+you gotta be test driven from jump, and between debug tools and test driven , we are golden in a heartbeat
+# TEST CASE AND RUN META-DATA:
+
+## TEST CASE METADATA:
+- test case id:
+- test case name:
+- test tool:
+- case designer:
+
+## TEST RUN METADATA:
+- test-runner:
+- system:
+- test-conditions:
+- timestamp:
+- expected:
+- actual:
+- outcome:
+- screenshot:
+- reproducible:
+Calixte Sim
+You were. Its all written down i have an outline just need sometime
+Reproduction
+Jeremy
+no prob
+Calixte Sim
+Jeremy
+I updated the structure a bit
+pfft
+we are on right track
+pace is less important than track
+(y)
+reload the page
+copy metadata
+fill it out and show me
+then you can execute
+Calixte Sim
+As long that is the case will be done before end of day.
+Jeremy
+np
+and I can try to reproduce on my end
+fill out test case and run elements first
+Calixte Sim
+Have it as spreadsheet sure it will not be the last one
+Jeremy
+# TEST CASE AND RUN META-DATA:
+
+## TEST CASE METADATA:
+- test case id: 1
+- test case name: exhaustive node memdump
+- test tool:
+- case designer:
+
+## TEST RUN METADATA:
+- test-runner:
+- system:
+- test-conditions:
+- timestamp:
+- expected:
+- actual:
+- outcome:
+- screenshot:
+- reproducible:
+Jeremy
+I started to fill in test case
+I can create google spreadsheet after we like the structure and the plan
+then we can share that gsheet
+Calixte Sim
+👌
+Jeremy
+# TEST CASE AND RUN META-DATA:
+
+## TEST CASE METADATA:
+- test case id: 1
+- test case name: exhaustive node memdump
+- test tool:
+- case designer:
+
+## TEST RUN METADATA:
+- test-runner:
+- system:
+- test-conditions:
+- timestamp:
+- expected:
+- actual:
+- outcome:
+- screenshot:
+- reproducible:
+Jeremy
+One step at a time
+complete what you can before execution first?
+test-driven is worth doing right
+(so is debugging)
+we are killing two massive birds here, so go slow
+App.js code which tests the package is also important to document, ya?
+also worth throwing in that there are many sections to the App.js file:
+
+1 imports
+2. main class
+3. constructor
+4  pre-render
+5. render
+6, export
+this will GREATLY simplify our efforts to learn react.js
+imho each section needs explanation
+and that is not in the docs
+k, I added those sections of the App.js file to the readme
+that saved us a LOT of wasted time too 🙂
+Calixte Sim
+Sorry as they end traffic picks up in the shop brb...
+Jeremy
+np
+Jeremy
+when is work over?
+I am around this eve, and after 4pm tomorrow.
+Jeremy
+React bugs to kill:
+1. get bug
+2. absolute path issue
+3. 404 bug
+
+Can share the code with ya AFTER we like the debugging and testing approaches.
+glad to talk ya thru the test case, run, tool eval
+np
+at your covenience
+by squashing a few bugs, we can keep our getting stuck brief by design
+And we ought to make a form which allows us to submit test cases and test runs 🙂
+that ought to be our first form?
+wish I had done it like this from the start
+going back to drawing board and doing this right is best <sigh>
+Calixte Sim
+Ok around 530pm ill be available. No doubt im looking for a method in node.js that gets the heap size now. Im comfortable with debugging. Good way to understand a language and it's syntax. Like closing input and img tags, xml preferences here. The process is smooth.
+Jeremy
+ok
+5:30 check back
+thx for letting me lead a bit
+we will make good time this way
+prefer to do it WITH someone who I will work with than solo
+Calixte Sim
+Np
+Calixte Sim
+So I found v8.getHeapStatistics();
+Jeremy
+nice
+Calixte Sim
+but following directions it causes an error when i run
+Jeremy
+that sounds relevant
+ok, give me link you were following
+Calixte Sim
+const v8 = require('v8');
+https://nodejs.org/api/v8.html#v8_v8_getheapstatistics
+V8 | Node.js v9.4.0 Documentation
+The v8 module exposes APIs that are specific to the version of V8 built into the Node.js binary. It can be accessed using:
+nodejs.org
+on App.js page
+Jeremy
+you error out on:
+
+const v8 = require('v8');
+
+??
+Calixte Sim
+read a little. People are saying that you cannot run app js on front-end it is back end so I am at a road block
+Jeremy
+perhaps we can run this as express app....
+np - will ask guru
+client and server debug are both necessary
+server-side = express
+client-side = react
+Calixte Sim
+so server-side in not node.js
+Jeremy
+this something to sort out
+Calixte Sim
+😰
+Facebook - Log In or Sign Up
+Create an account or log into Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.
+facebook.com
+Jeremy
+https://github.com/jeremy-donson/first-github-team-sandbox
+jeremy-donson/first-github-team-sandbox
+first-github-team-sandbox - Here we learn to screw it up, clean it up, and then prevent it going forwards as a team.
+github.com
+reload page
+and look at dir
+registerServiceWorker.js
+that is how react and express talk
+did you try the http://xyc.github.io/react-inspector/
+React Inspector
+xyc.github.io
+??
+react debugging first
+then express
+Calixte Sim
+yes I was basically attempting to swap from that given in the example and that which would be provided by v8.getHeapStatistics() it returns an object of relevant data, at least that is my current assumption.
+The value returned is an array of objects containing the following properties:
+
+    space_name <string>
+    space_size <number>
+    space_used_size <number>
+    space_available_size <number>
+    physical_space_size <number>
+Jeremy
+best would be to walk forward form test case to test runs
+and then we could test both tools
+npm --inspect
+did you use that?
+Calixte Sim
+yes
+Jeremy
+that runs node in debug mode
+k
+Calixte Sim
+I thought I would have to use CLI but once again didn't have to with simple PHP. So  I'm going with the flow.
+Attempting to get me brain clicking.
+Jeremy
+np
+all of that would be in test case and run facts
+this would allow me to reproduce and tweak
+Calixte Sim
+So how do I send I request to test socket
+Jeremy
+socket is express
+Calixte Sim
+webSocket
+ok
+<listening>
+Jeremy
+did you try the http://xyc.github.io/react-inspector/
+React Inspector
+xyc.github.io
+?
+react first
+then express
+glad to work thru:
+- test case
+- test run
+- execute test with http://xyc.github.io/react-inspector/
+React Inspector
+xyc.github.io
+Calixte Sim
+Cool please,because I am lost
+Jeremy
+np
+at 5:30
+<nods>
+keep react first
+then express
+Calixte Sim
+:(
+Jeremy
+np
+my fault
+Calixte Sim
+things slowed down
+Jeremy
+we can work thru that
+that is ok
+5:30 no interruptions?
+that is best
+dont fret
+see if you can work with √
+http://xyc.github.io/react-inspector/
+Calixte Sim
+when you say work with
+Jeremy
+test it
+Calixte Sim
+I have a page display with there example
+but no real data of relevance
+it does display all data in data
+but withot something to test against what is the point. I thought this was about what is in cache.
+Jeremy
+yes, thought that might help us
+perhaps not
+for example, react with router package should have all kinds of things
+like web root absolute path
+this is where I got slowed down
+all predefined vars and objects
+this ought not be a secret
+and with every new node package, more ought to be revealed
+http://php.net/manual/en/reserved.variables.php
+PHP: Predefined Variables - Manual
+PHP provides a large number of predefined variables to all scripts. The variables represent everything from external variables to built-in environment variables, last error messages to last retrieved headers.
+php.net
+LIke php vars page
+MOST important is to get all kinds of tests defined, first.
+I am busy for a bit.
+will free up at 5:30
+Calixte Sim
+understood.
+ttyl
+Jeremy
+sson, yep
+soon ^
+Jeremy
+will need an extra 20m (5:50)
+Calixte Sim
+ok
+Jeremy
+if you do not have chrome installed, then install it
+back in 10+m
+Jeremy
+k
+can we define the test cases and test runs?
+Calixte Sim
+Are we doing this on gsheet
+Jeremy
+nope
+in the repo
+we are making two forms:
+Testcase.js
+Testruns.js
+You think and spec it out
+I will create forms.
+TEST CASE AND RUN META-DATA:
+TEST CASE METADATA:
+test case id:
+test case name:
+test tool:
+case designer:
+TEST RUN METADATA:
+test-runner:
+system:
+test-conditions:
+timestamp:
+expected:
+actual:
+outcome:
+screenshot:
+reproducible:
+fill it in like it is a form
+in App.js:
+
+import React, { Component } from 'react';
+import Tcase from '/Testcase.js';
+import Truns from '/Testruns.js';
+import logo from './logo.svg';
+import './App.css';
+you can watch me, gimmee a sec
+Jeremy
+k
+Calixte Sim
+I am here
+how do you update git
+I was trying to figure that out
+Jeremy
+nice
+we will focus on react today
+that is soon
+1 sec
+bear with me
+2m max
+then we play
+k
+here goes
+k
+Calixte Sim
+<listening>
+Jeremy
+https://github.com/jeremy-donson/first-github-team-sandbox/tree/master/src
+Look at what I did ...
+three files
+not ready yet
+but heading there
+see under src/ ?
+We have App.js importing two components
+Each with a form
+Testcase.js
+and Testruns.js
+first we just want to see the components output in App.js
+Calixte Sim
+<following>
+Jeremy
+so, we already have working firstApp?
+?
+$ npm update -g
+that updates all of our global packages
+Calixte Sim
+wait? no closing input and img tag will not cause error?
+Jeremy
+we wil have errors
+we need to
+and we will fix them
+Calixte Sim
+ok
+Jeremy
+but we need to do this bit by bit
+starting with something we know we can deploy
+$ create-react-app firstApp
+Could not create a project called "firstApp" because of npm naming restrictions:
+  *  name can no longer contain capital letters
+latest npm has new rules
+$ create-react-app first-app
+$ cd first-app/
+$  yarn start
+yarn is npm alt
+I got the basic app running.
+I would like to deploy to surge and heroku
+but I had issues at heroku, build timeout
+so we will stick with surge first
+$ yarn build
+just walking thru
+and we will add the repo files in a minute
+http://teeny-bells.surge.sh/
+deployed
+stop me if ANY questions
+good checkpoint
+yarn is new for ya
+Calixte Sim
+so Ill have to download it manually?
+Jeremy
+needed to cd into /build/ before $surge
+it?
+see if your node included yarn
+if not, https://yarnpkg.com/en/docs/install
+Calixte Sim
+no
+it doesn't
+Jeremy
+k, first...
+$ npm upgrade -g
+upgrade all of your global libs
+and then install yarn
+https://yarnpkg.com/en/docs/install
+Yarn
+Fast, reliable, and secure dependency management.
+yarnpkg.com
+np - I am fine
+Calixte Sim
+scoop
+Jeremy
+surprised?  😉
+I covered for package maagers
+managers
+Calixte Sim
+Learning comes with surprises
+Jeremy
+np
+but you are good
+remember that yarn and npm both do the same stuff
+so unlikely that npm would install it
+scoop?  yeah 󰀀
+do whatya gotta do
+glad to wait
+make sure you can deploy to surge after $ yarn build
+$ cd build
+$ surge
+provide surge url
+etc
+Calixte Sim
+think i have to restart brb
+Jeremy
+okidoki
+not surprised
+Calixte Sim
+ok
+Jeremy
+ok
+1 sec
+you built, cd build/, deployed?
+if so, provide surge url
+that makes it unambiguous
+ie, I trust ya, but this is test-driven, so we make it about the facts 🙂
+you there?
+I will know to continue when you provide surge deploy url
+Calixte Sim
+Couldn't find a package.json file in "C:\\Users\\Sleeping\\Documents\\React"
+Jeremy
+What was the commend that failed?
+that is just error message.
+Calixte Sim
+yarn build
+Jeremy
+yes
+cd into project dir
+$ create-react-app first-app
+$ cd first-app
+$ yarn start
+$ yarn build
+$ cd build/
+$ surge
+Calixte Sim
+ok
+doing now
+Jeremy
+looks like you were not in first-app or equiv?
+cool
+np
+Jeremy
+$ curl http://teeny-bells.surge.sh/
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name="theme-color" content="#000000"><link rel="manifest" href="/manifest.json"><link rel="shortcut icon" href="/favicon.ico"><title>React App</title><link href="/static/css/main.c17080f1.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div><script type="text/javascript" src="/static/js/main.ee7b2412.js"></script></body></html>
+React App
+teeny-bells.surge.sh
+Jeremy
+note that when trying to test using curl from cli
+had issues
+Jeremy
+Test:
+- Failure: $ curl http://teeny-bells.surge.sh/
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name="theme-color" content="#000000"><link rel="manifest" href="/manifest.json"><link rel="shortcut icon" href="/favicon.ico"><title>React App</title><link href="/static/css/main.c17080f1.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div><script type="text/javascript" src="/static/js/main.ee7b2412.js"></script></body></html>
+- Goal: Trying to prove surge deploy worked from cli.
+- Issue: Unable to run js thru curl, so page returned noscript content.
+---
+React App
+teeny-bells.surge.sh
+Jeremy
+I am tracking tests which we need to write test cases for.  🙂  ^
+All of that will be in our repo
+I will know that you deployed when you paste surge deploy url.
+Calixte Sim
+ok
+Jeremy
+I can be patient, but if you would care to narrate, I could assist.
+and when you have error, include statement that failed with err mssg
+k?
+this is good
+it is ok for you to be stumbling a bit
+only second time <nods>
+glad to be patient
+Calixte Sim
+thank you for your patients
+Jeremy
+np
+Calixte Sim
+Im just getting network areas
+errors
+Jeremy
+not surprising
+Calixte Sim
+**
+Jeremy
+with surge?
+Calixte Sim
+no
+Jeremy
+please speak to attempt + fail
+or I have no context
+Calixte Sim
+it is a problem. I am being throttled
+Jeremy
+well, without the thing you are trying to do, the failure has no context
+help me out
+=> ATTEMPT
+=> FAIL MESSAGE
+What are you attempting?
+Calixte Sim
+slow internet.
+Jeremy
+nono
+Calixte Sim
+Create app reinstall not
+now *
+Jeremy
+ok
+go thru it a few times, np
+I got hung up on surge deploys after build by not being in build/ subdir
+it is ok to screw up and fix it
+Calixte Sim
+thank you for the warning.
+Jeremy
+we ought to document the setups for Win on a web page for other devs
+np
+perhaps that can be your first payback
+but meanwhile, I wanna take vanilla react app, deployed, and add some components
+and have them render on main page
+and then deploy those updates
+go slow
+you are doing FINE
+Calixte Sim
+deal
+Jeremy
+yip
+now you see the goal
+https://github.com/jeremy-donson/first-github-team-sandbox/
+jeremy-donson/first-github-team-sandbox
+first-github-team-sandbox - Here we learn to screw it up, clean it up, and then prevent it going forwards as a team.
+github.com
+reload
+review what is new
+tell me what you found
+Calixte Sim
+you placed test case and test run into a new directory.
+Jeremy
+yes, I am following the react app directory structure standards
+and tests.yml
+I am defining testcase and testruns as COMPONENTS
+this is react dev 101
+as I see fit
+never saw it taught this way
+but I wish someone woulda taught me this way!!!!  😀
+goal:  push separate chunks into components
+import them
+render them
+(y)
+<Tcase...
+<Truns
+components become tags
+and look at tests.yml in app root dir
+Now, you have yet to show me surge deploy url.
+That is checkpoint.  Worth waiting for.
+Calixte Sim
+daffy-robin.surge.sh
+Jeremy
+k, tested
+now, look under public/
+you will see the html template
+good to know!
+Calixte Sim
+yes
+Jeremy
+k
+now you will clone the repo we are sharing to local
+cd ~/React
+$ git clone https://github.com/jeremy-donson/first-github-team-sandbox/
+jeremy-donson/first-github-team-sandbox
+first-github-team-sandbox - Here we learn to screw it up, clean it up, and then prevent it going forwards as a team.
+github.com
+Calixte Sim
+If I have a clone already?
+Jeremy
+ie, NEXT TO the app folder you just worked in
+nope
+you never cloned yet
+I have been avoiding git
+and focusing on react, I believe
+Calixte Sim
+I did on my own 😁
+Jeremy
+ok
+then cd into the dir
+and $ git pull
+I keep updating that repo on github
+yours is out of date by MANY commits
+Calixte Sim
+done
+Jeremy
+k?
+ok
+now you have two dirs at play:
+
+-  vanilla app we just deployed
+- cloned dir
+in vanilla app, rename App.js to App.-orig.js
+just for being smart and safe about not overwriting files as a practice
+we know that deployed, so keep it
+then copy the App.js and the Components/ dir into vanilla app.
+our goal is this...
+Calixte Sim
+ok
+Jeremy
+With three files from cloned repo:
+
+just trying to be VERY explicit
+we have replaced App.js from vanilla app with the one from cloned repo.
+And also added Components dir
+Calixte Sim
+correnct
+correct
+Jeremy
+is the goal of this exercise getting clear?
+if not, glad to clarify in plain english
+Calixte Sim
+yes
+Jeremy
+k
+Calixte Sim
+im fine
+Jeremy
+good
+now, open App.js
+and look at the import statements
+and let me tell you about an app where that gets ugly
+after this, you will "owe" the barterEngine 2 tutorials:
+- initial windows setups
+- first tutorial with react.js
+those could be react single page apps
+why not?  😉
+glad to assist
+then you are paving the road for other devs to join and contribute
+Calixte Sim
+No complaints on my end.
+Jeremy
+yeah, good first assignment, with payoffs
+now import statements are RELATIVE paths
+both components AND images get imported this way, including svg and png files
+Calixte Sim
+understood
+Jeremy
+note that we COULD import Tcase as component, which could in turn import Truns as component.
+Perhaps we will find that to be better.
+First, we get this to work as is.
+When there are DOZENS of component and image imports, and they are relative paths, we are begging for punishment.
+Deployments seem to like ABSOLUTE paths.
+:o
+so, I am adding a test to tests.yml, which you ought to read now
+and I will push in a sec
+<listening>
+Calixte Sim
+<waiting>
+Jeremy
+pushed
+so you need to $ git pull
+ again
+or you are behind by one commit
+and we ought to try to $ yarn start
+and see what fails, or not
+in what before deployed successfully for us both to surge.sh
+Jeremy
+Failed to compile.
+
+./src/Components/Testruns.js
+Syntax error: Unexpected token (14:41)
+
+  12 |         Test Run System: <input type="text" name="tr_sys" /><br/>
+  13 |         Test Run Conditions: <input type="text" name="tr_cond" /><br/>
+> 14 |         Test Run Expectation: <input type=="text" name="tr_expect" /><br/>
+     |                                          ^
+  15 |         Test Run Actual: <input type="text" name="tr_actual" /><br/>
+  16 |         Test Run Outcome: <input type="text" name="tr_outcome" /><br/>
+  17 |         Test Run Screenshot: <input type="uploadfile" name="tr_outcome" /><br/>
+
+Could not open Testruns.js in the editor.
+
+To set up the editor integration, add something like REACT_EDITOR=atom to the .env.local file in your project folder and restart the development server. Learn more: https://goo.gl/MMTaZt
+
+
+Could not open Testruns.js in the editor.
+
+To set up the editor integration, add something like REACT_EDITOR=atom to the .env.local file in your project folder and restart the development server. Learn more: https://goo.gl/MMTaZt
+facebookincubator/create-react-app
+create-react-app - Create React apps with no build configuration.
+github.com
+Jeremy
+look
+I added a bug on purpose!  😀
+do you see where?
+$ yarn start
+failed to compile
+Result above
+now, in my opinion, seeing teacher fail and struggle is more important than seeing teacher NOT fail and look perfect
+so, once you identify the file and line of bug, we can fix, save, and try to
+$ yarn start
+again
+Calixte Sim
+LOL
+Jeremy
+helpful?
+we fail to show students how to fail and recover
+not how perfect we are
+that is not how to code
+to code is to fail and know how to detect, fix, recover
+make sense?
+anything else you need, ask me
+but reproduce the error I just had
+and tell me which file, what line, and how to correct the bug 🙂
+Calixte Sim
+input needs closing tags
+Jeremy
+nope
+you are guessing
+look at error
+reproduce error with
+
+$ yarn start
+ask whatever, np
+Calixte Sim
+my error says code not find package.json
+Jeremy
+make it about the facts
+then you are again not in project dir
+np
+happened before
+same issue
+do not guess
+reproduce my error
+thx for speaking up
+Jeremy
+./src/Components/Testruns.js
+Syntax error: Unexpected token (14:41)
+
+  12 |         Test Run System: <input type="text" name="tr_sys" /><br/>
+  13 |         Test Run Conditions: <input type="text" name="tr_cond" /><br/>
+> 14 |         Test Run Expectation: <input type=="text" name="tr_expect" /><br/>
+     |                                          ^
+  15 |         Test Run Actual: <input type="text" name="tr_actual" /><br/>
+  16 |         Test Run Outcome: <input type="text" name="tr_outcome" /><br/>
+  17 |         Test Run Screenshot: <input type="uploadfile" name="tr_outcome" /><br/>
+Jeremy
+That is the error message.
+Calixte Sim
+I am not getting that error message
+Jeremy
+we have updated the proven deployed app with App.js, and Components/ dir from cloned repo
+Calixte Sim
+at all
+Jeremy
+ok
+where are ya?
+$ dir
+Calixte Sim
+yarn start
+Jeremy
+or $ pwd
+on linux
+nono, where on filesystem?
+Calixte Sim
+root of clone repo
+Jeremy
+nope
+Calixte Sim
+build?
+Jeremy
+hat has nothing useful
+
+Tis shows how proven deployed app has been changed by:
+1. renaming App.js  to App-orig.js
+2, copying App.js and Components dir to proven vanilla app
+this ^
+we have two dirs at play
+only ONE has been deployed
+that is the one we are hoping to change, 
+ and $ yarn start
+
+and it failed for me, and was supposed to fail
+I put a bug in a file for us
+look at my error message
+and call me if confused
+call it my error in teaching
+and lets getya thru it
+Calixte Sim
+we have "==" on line 14
+Jeremy
+(y)
+and how to correct?
+can you reproduce that error?
+in which file?
+etc
+you are dealing with reproducibility issues
+welcome to testing 🙂
+Calixte Sim
+Testrun.js
+Jeremy
+yes
+first you need to reproduce the error
+prove that is a fix
+then you can update the repo you cloned, and we will give you your first commit to shared remote repo
+is that clear?
+at least in terms of goal and approach?
+Calixte Sim
+No lost at reproduce the error?
+Jeremy
+yes, I see that, np
+you cannot reproduce yet
+that is first
+Calixte Sim
+ok
+Jeremy
+np
+struggling with reproducibility is ok
+tis a good lesson
+I will not leave ya suffering for too long
+Only ONE dir has been deployed.
+Only ONE dir is the github clone.
+They are not the same dir.
+is that much clear?
+very crucial distinction
+Calixte Sim
+yes
+Jeremy
+VERY
+good
+then you can only $ yarn start
+in one
+and only $ git status
+in the other 🙂
+this is good for git in one
+and react in the other
+why pile them up?
+you can learn both in parallel
+you will need to reproduce react errors with got repo files copied into react app dir
+no worries
+I am not there.
+So you are struggling to reproduce
+And I am in part blind to your struggle
+this is why you can call me or ask question
+or $ dir
+Calixte Sim
+Not anymore
+Jeremy
+or sumthin
+cool
+datzWhadiymTawkinBout 😀
+lol
+worth making you struggle
+good struggle
+I am trying to make it JUST tough enough for you to learn without undue pain.
+Let me know how this might be setup better for next dev, etc.
+That is how this goes.
+Tech curriculum design is not simple.
+<nods>
+You fail at struggle?
+I failed as curriculum designer.  😮
+I am trying to illustrate how test-driven coding and test-driven curriculum design can be done in parallel.
+We are DOIN it.  😀
+(y)
+And we will suck less going forward if you narrate what of the struggle could have been more clued in while still likely a struggle?
+this is how to train instructors AND trainees
+both
+Calixte Sim
+Done
+Jeremy
+ok
+did you reproduce the error?
+Calixte Sim
+yes
+Jeremy
+k
+did you fix it in the react app dir?
+Calixte Sim
+yes
+Jeremy
+k, did it run right?
+Calixte Sim
+no because of 
+test-runner:
+system:
+test-conditions:
+timestamp:
+expected:
+actual:
+outcome:
+screenshot:
+reproducible:
+back to normal now
+Jeremy
+./src/Components/Testruns.js
+Syntax error: Unexpected token (14:41)
+
+  12 |         Test Run System: <input type="text" name="tr_sys" /><br/>
+  13 |         Test Run Conditions: <input type="text" name="tr_cond" /><br/>
+> 14 |         Test Run Expectation: <input type=="text" name="tr_expect" /><br/>
+     |                                          ^
+  15 |         Test Run Actual: <input type="text" name="tr_actual" /><br/>
+  16 |         Test Run Outcome: <input type="text" name="tr_outcome" /><br/>
+  17 |         Test Run Screenshot: <input type="uploadfile" name="tr_outcome" /><br/>
+Jeremy
+second bug!
+Did that happen to you?
+I put a bug in each Component file (2)
+I am SUCH a dick!  😀
+lol
+Calixte Sim
+copying fills now
+Jeremy
+explain
+Calixte Sim
+files now from git repo into vanilla react app to reproduce errors in vanilla react app
+Jeremy
+both errors?
+Calixte Sim
+that is the plan
+it is the same error?
+Jeremy
+Look!
+./src/Components/Testruns.js
+Syntax error: Unexpected token, expected ; (29:11)
+
+  27 | export default Truns;
+  28 | 
+> 29 | test-runner:
+     |            ^
+  30 | system:
+  31 | test-conditions:
+  32 | timestamp:
+third error!
+so, one error in Testcase
+one in Testruns
+and also one at bottom of file after export of component object
+DAMN!
+I fucked UP! 😀
+;)
+lol
+you should get errors in same load order
+Calixte Sim
+my current steps attempting to get the files with errors you produce. with git pull/copy to vanilla app/ and debug
+but i get same files
+Jeremy
+you pull
+and then copy those into vanilla app
+and run vanilla app
+and should find several errors
+== twice
+and one bunch of extranneous text AFTER export statmt
+which ought to be last executable line
+Calixte Sim
+I just pulled again it's response was already up dated. so now i will copy files
+Jeremy
+can comment out:
+
+/* 
+extrannesous
+blah
+blah
+*/
+good
+always need the latest
+I will make a change to repo in tests.yml and push, and you can $ git status
+
+And see if you can see that origin remote is ahead of local clone
+1 sec
+Calixte Sim
+ok
+Jeremy
+ok
+cd into first-github-team-sandbox
+$ git status
+Calixte Sim
+ok I see some useful information
+Jeremy
+copy paste
+it might be misleading 🙂
+Calixte Sim
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   tests.yml
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Jeremy
+oh, have you edited that file?
+tests.yml ?
+Calixte Sim
+no, not that I can remember.
+Jeremy
+well....
+can always reset to your last version pulled
+but that would delete any changes you have made in that repo
+so...
+$ git diff
+see what changed
+On branch master
+Your branch is up to date with 'origin/master'.
+That is a LIE!
+I just pushed
+so you have 2 git questions...
+what changes locally?
+
+$ git dff
+AND why is my push not recognized in git status? 😮
+I assume that you fixed 3 react bugs, got app to run, and we can talk git for a sec
+lemme know
+if your react app is not working yet, finish that first
+np
+you could delete lines after export
+or 
+
+/*
+comment
+them
+out
+*/
+brb
+Calixte Sim
+I only fixed two the list that need to be commented out and the equality operator
+np
+Jeremy
+well, git pull
+and I fixed those bugs
+and you could have fixed 3, run app, and then added those fixed files to git repo and then:
+
+$ git status
+$ git add .
+$ git commit -m 'Fixed 3 bugs'
+$ git push
+but i did it first
+not you can pull my commits
+see how team dev can conflict?
+this is why nice team workflow is crucial
+Calixte Sim
+ok
+Jeremy
+so, did you $ yarn start
+and get app working again?
+you could fix 3 errors yourself, or use the repo files after a pull which I corrected
+Calixte Sim
+yes
+app is running
+Jeremy
+cool
+redeploy
+mine too
+so I will:
+$ yarn build
+$ cd build
+$ surge
+send new surge url
+make sense?
+Calixte Sim
+truculent-reaction.surge.sh
+Jeremy
+cool
+now we simply need to spit out two components in App.js
+Calixte Sim
+ok
+Jeremy
+http://immense-condition.surge.sh/
+so, components become tags
+Calixte Sim
+understood
+so our tags are Trun and Tcase. How do we use them correctly?
+Jeremy
+well done
+lemme double check
+
+yip
+just raw content first
+(y)
+as expected
+Sending you App.js file now thru repo
+1 sec
+k, $ git pull
+and look at code
+and use that instead to achieve screenshot about in app
+see how screenshot sets outcome expectation?
+good for reproducibility 󰀀
+Calixte Sim
+I pulled but nothing is different. Redo
+Jeremy
+you should see two tags in App.js
+<Tcase/>
+        <Truns/>
+I will wait until you get the expected output in browser.
+Calixte Sim
+no opening or closing tags?
+just one tag
+Jeremy
+self closing
+/>
+at end of tage
+rag
+TAG
+lol
+when there is nothing to put between open and close, like <input />
+or <img />
+can be self-closing
+Calixte Sim
+got it
+Jeremy
+cool
+Calixte Sim
+So all is needed here is import tag and insert them into app.js
+Jeremy
+import COMPONENT
+Calixte Sim
+import component. excuse me
+Jeremy
+and RENDER it as tag
+just worth the distinction
+this is react speak
+<shrug>
+Question:
+
+Could I have put that content in App.js under render?
+Calixte Sim
+understood. in 5 years it will be something else
+Jeremy
+no components?
+yip
+could I have put both forms into single coponent?
+yip
+Calixte Sim
+yes you could have
+Jeremy
+why did I choose as I did?
+separating out components is KEY
+and 1 to many relationship is two separate states
+Calixte Sim
+that defeats the purpose of using react and its components. Because they are for code reuse. All aspects of the app can now be separated in distinct pieces
+Jeremy
+each component has its own state
+yes, that too
+reuse is another way to make same point
+<nods>
+Case : Runs = 1 : many
+now we are set up to thin about how to pass states between files
+think
+this bodes well <nods>
+Calixte Sim
+Um do you mind if we end here for today?
+unless what is next is absolutely crucial
+Jeremy
+http://instinctive-dime.surge.sh/
+nono
+that is plenty
+just completing the testing pattern of deploying at end
+seems that our relative import paths held up
+Calixte Sim
+the smile the submit query button put on my face is something else
+the = that
+Jeremy
+next is to play with node router package
+that is how to add links
+and the sooner we can debug the better
+Calixte Sim
+OK. I will send you the calendar and you can edit to your liking. I know you want to set a strict schedule so i will do my best to stick by that
+Jeremy
+meh
+just either VERY early morns
+or eves
+not too strict, just regular and getting thru test-driven and gets and then posts
+then express
+think about 2 pages to create:
+- dev setup
+- first react lesson
+worth paving that road
+Calixte Sim
+how complex?
+Jeremy
+simple
+just for next dev to use and we support without having to narrate
+and comment CANDIDLY about the struggle being organized and effective
+ie, MOSTLY react 101
+and a LITTLE git
+and LOTS of test-driven repro stuff
+I feel good about that from my end, but you can be candid about it from our end
+your ^
+might be wise to get into mocha and chai and selenium soon
+automated testing
+with proper debugging, we get bad ass quickly on that
+mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/
+Calixte Sim
+No I learned programming from some great instructors, though I do not practice everything. What you are saying is exactly their feeling towards development test as much as possible
+Jeremy
+but stick to paving the road you just drove smoother first
+cool
+pave behind ya
+read up ahead of ya
+and plan for some more get stuff soon
+we MUST always redeploy to ensure that what works in dev also can deploy
+Calixte Sim
+Will do sensi
+Jeremy
+cool
+I am just teacher
+Guru is Kai
+he just is too busy to run dojo 😉
+Calixte Sim
+No trust me, the value of your experience is priceless.
+Jeremy
+cool
+thx
+may my pain smooth your road 🙂
+lol
+Calixte Sim
+But have a goodnight, speak to you in the morning.
+Jeremy
+k,ttyl
+Calixte Sim
+😅
+Jeremy
+thx
+:D
+SAT 5:08AM
+Jeremy
+next is to get your desktop and gitbash integrated
+without that you are still in windows land
+my mac is as linux-like as possible
+we must do the same for your windows system
+you up?
+$ for n in $(surge list | tail); do  echo surge teardown $n; done
+time you get you using the bash shell, and integrating that into yoru local win env
+gm
+I am out for most of the day, til about 4
+but thought we should level set on what you can do to start paying back a wee bit, as well as getting setup to support the dojo for windows users
+👍
+1
+Hopefully we can have learning sessions together, plus you can work solo on some small solo projects?
+👍
+1
+Jeremy
+1. DESIGN LESSON: initial dev setup for windows
+
+2. DESIGN LESSON: first test-driven react and git session
+
+3. LEARNING SESSION: making your windows system as linux as possible
+
+4. DESIGN LESSON: making your windows system as linux as possible
+
+5. LEARNING LESSON:  debugging react
+  DESIGN LESSON
+
+6. LEARNING LESSON:  react strap + gets
+DESIGN LESSON
+
+7. LEARNING LESSON:  react-native first app
+DESIGN LESSON
+
+8. LEARNING LESSON:  git+github, test-driven
+
+9. LEARNING LESSON:  react crud
+👍
+1
+Jeremy
+you will need to set aside  four kinds of time:
+
+1. learning solo
+2. working team
+3. learning team
+4. teaching team
+5. teaching solo
+Jeremy
+Each can be 90 min sessions.
+once we have terms of scheduling and barter set, you will find that you can teach simeon git and github in a test-driven fashion, and he can teach you react in a test-driven fashion.
+the idea is establish terms of exchange:
+- from me to trainers
+- from trainers to each other
+- from trainers to noobs
+that is plenty
+Seen by Sophie Chown at 5:28am
+and relax, glad to make it easy for ya
+SAT 6:40AM
+Jeremy
+get psyched - soon we will be designing barter api
+not sure what language we wanna build that in
+SAT 2:50PM
+Jeremy
+I am home now.
+Calixte Sim
+thanks for you patients
+your
+Jeremy
+with?
+Calixte Sim
+we left off send information to the server last night.
+with: waiting
+Jeremy
+np
+we had a good phone call
+Calixte Sim
+Yes, we did.
+Jeremy
+fun stuff
+x axis:
+=> manual => test-driven => automated => AI
+z axis => localization
+that is juicy stuff
+good for Sophie too
+Calixte Sim
+New frame of thinking for me, but beneficial.
+Jeremy
+list = 1 axis
+matrix = 2 axes
+we went 3d 😉
+very meta
+oh, and in addition to nAuth and vanished tactics
+decoy is another tactic
+as is invisible target
+security tactics are fu
+fun
+decoy means they THINK they are getting the goods
+and instead they exposed themselves
+and get nuttin
+all grist for the security strategy mill
+Calixte Sim
+hmm..... I'm having issue with importing images. I have done it before but cannot reproduce in regards to react..I was thinking of using a similar tact-tic like dynamic cvv. Because we still need to keep track of wallets, dynamic wallet? Maybe, it is similar to decoy.
+Jeremy
+worse than getting nothing, they reveal themselves,
+ and might get busted hard and outed
+look at App.js
+import logo from './logo.svg';
+then that is rendered ...
+<img src={logo} />
+Calixte Sim
+brain fart thank you
+Jeremy
+np
+components and images are imported and become
+tags:  <Component />
+and {objects}
+respectively
+wallet is important concept
+what wallet problem are you trying to solve?
+and csv is 2d matrix in open file format
+I am data guy.
+What problem?
+Calixte Sim
+There really isn't a problem. That is more of a credit card company old problem with static information. This is why bank cards come with chip to provide dynamic cvv services to card owners to avoid fraud. I am assuming dynamic security strategies might be a code way to go.
+code=good
+Jeremy
+well, uuid in node is unique
+long unique code
+what you are pointing to is need for uniqueness,
+without being obvious target of fraud?
+paint the scene
+👍
+1
+qualified user vs unqualified thief
+here
+if we have 100 qualified users, how many id's ought we have to keep them as relative needles in haystack?
+ie, 900 decoys, 100 real id's
+you gonna try to steal from that pool?
+I would not even try to try
+Calixte Sim
+annoying for attackers.
+Jeremy
+well, let's make that more interesting
+they are disclosed only by activity
+so, suddenly needles STICK OUT
+there goes that strategy, at least for now
+cycling the decoys in and out of the real qualified users is one way to be dynamic and make the needles a moving target
+that is one dynaimc method
+ie, yesterday mr richguy was 12
+today he is 7
+is daily fast eough?
+too fast?
+how can we force the hand of attackers to reveal themselves while trying to scam against decoys?
+and what kind of guarantees can we offer to merchants and to mr richguy?
+helpful?
+feel free to say NO
+Calixte Sim
+Yes.
+Jeremy
+k
+lol
+decoy and cycling is great tactic
+frequency is an open question
+and guarantees to merchants and mr richguy MUST be defensible
+word?  😀
+so, we may need to change strategies
+and this idea of changing strategies
+both predictively and non-predictively is plaguing me, lol
+predictively?
+easy
+non-predictively?
+:o
+I dunno
+y'feel me?
+Calixte Sim
+you can't really force an attacker to show his hand. Especially if it is a decoy. Maybe requiring Geo-location for all initiating transactions, but that can easily be spoofed.
+yes
+Jeremy
+well, in order for someone to have ANY access, they need to either be a merchant or a qualified user
+or on our team
+no one else has access
+single point of entry supports a closed system sensibility
+three types of threat
+merchant
+mr fake richguy
+and those on our own team
+plainly I like this game and I want to win
+and no one gets to play anonymously
+no skin in game?
+no play
+https://www.youtube.com/watch?v=nPLDpJPaEr4
+:D
+Calixte Sim
+ok
+Jeremy
+let em come
+of course we will lose some rounds
+we MUST own the house, and make sure that the numbers are in our favor
+or we are BEGGING for some tough licks
+Calixte Sim
+one step at a time.
+Jeremy
+good drama?  😉
+indeed
+Calixte Sim
+i get the big picture.
+Jeremy
+yes, you do
+decoy
+vanish
+Calixte Sim
+but i am very simple. baby steps
+Jeremy
+n-factor auth
+many strategies
+Calixte Sim
+2 factor is enough
+Jeremy
+depends upon their spoofability
+I like 3+
+and unpredictable combo
+then they do not know HOW to spoof
+mimic MUST know that which they are emulating
+Calixte Sim
+finger print with alpha numeric is unbeatable
+Jeremy
+deprive them of that
+the most unbeatable is that which they are completely unaware of
+NOTHING is unbeatable
+and transactions force disclosure of mr richguy
+and he wants security
+but he sticks out like sore thumb on ledger
+BIG ASS NEEDLE
+that will not do
+keep toying and painting scenarios
+no scenario may be a surprise
+or it will COST us
+perhaps dearly
+Calixte Sim
+i thought you was removing ledger. bit-coin transactions do not display wallet address just a hash that is associated with it. I think this part is not public. I might be wrong.
+Jeremy
+ledger is important, functionally
+could be private ledger
+could be snapCoin with vanishing ledger
+just worth toying with ALL options
+no turn unstoned 😉
+the enemy is thinking of scenarios which we have yet to conceive of
+that is a liability
+y'better believe it
+and even customers who sign agreements may sue outside of terms of agreement and may win
+so our guarantee MUST be less than our real integrity
+NOT more, less
+ZERO bs
+less than zero
+we may not take a bet which we are not aware of nor which we are not properly hedging
+else we be screwing pooches in parallel 😮
+Calixte Sim
+lol
+ok so no focus on the agenda?
+Jeremy
+how do I make sure that if someone kidnaps me, there is no way they get a penny?
+right now?
+we ought to review that list
+and discuss x axis
+tis a juicy axis
+you get to either go through that list manually
+else try to get test-driven and automated and ai with #1
+or a bit of both?
+ie, 2 axes in parallel
+we will leave out z axis for now
+I only have one brain 😉
+the windows installer is a juicy thought
+that is automation idea
+test-driven approach would be wise
+ie, always getting latest stable verion
+Calixte Sim
+ok, well there is no guarantee that someone will not get your pass if you are kidnapped better just give them your credentials friends.
+Jeremy
+nope
+could be distributed
+among multiple people
+who are never in same state
+nothing is unbeatable
+not in either direction
+no limit to stupid
+and no limit to genius either
+the question i which one will we be?
+is ^
+likely some of both?
+:D
+stupidGenius is a great name for security scheme, lol
+Calixte Sim
+😁
+Jeremy
+you are assuming that I have all the keys of the kingdom, and by kidnapping me, they get access to all of those keys?
+how about we distribute that key?
+including geographically?
+Calixte Sim
+if that is the case then it isn't possible.
+Jeremy
+well, let's just say that it would require a more elaborate plan to even attempt
+Calixte Sim
+what is this key for?
+Jeremy
+and how do I prove to kidnappers that I am not lying so they do not kill me?
+key is for my wallet
+or for the exchange as a whole
+or for my daughters nether regions
+anything I want to protect
+Calixte Sim
+:(
+Jeremy
+lol
+just sayin
+could be ANYTHING
+lol
+Calixte Sim
+Understood
+Jeremy
+coca cola recipe is not known by single person
+it is distributed across 8+ people
+none of them are allowed to be in the same state at once
+so I will call that the cola distrib strategy
+lol
+and now it is hidden behind a name that only you and I know
+;)
+do we keep them out
+do we let them in and decoy
+do we let them in and stay 50 steps ahead of them?
+do we disappear the target, so they cannot have something that does not exist?
+etc
+I believe that merchants and our own staff would be the greatest potential threats.
+"inside job"
+Calixte Sim
+all are good options except letting them in. but a lot of this is over my head waaaay over
+so you'll have to slow down
+Jeremy
+k
+can we change strategies?
+this is the fundamental issue
+Calixte Sim
+everythings in a book somewhere
+Jeremy
+25 strategies we know
+25 we do not
+10 that are undiscovered
+those undiscovered 10 scare me
+will competition or enemies find them first?
+A: 25 strategies we know
+B: 25 we do not
+C: 10 that are undiscovered
+Calixte Sim
+you go with the flow, cannot change what you cannot control.
+Jeremy
+we control it all
+Calixte Sim
+why beat a dead horse?
+Jeremy
+A => B is something we can plan
+A => C is not something we can plan for
+that is the real rub for me
+A => B is shrewd
+A => C is genius
+howzat for boiling it down?
+it is a live horse
+and we want to keep it alive
+Calixte Sim
+solve the unsolvable= genius
+Jeremy
+nah
+solvable
+just unpreditable
+apparently intractable != unsolvable
+Calixte Sim
+import React, { Component } from 'react';
+import icon from './headerimg/header.png'
+
+
+class DefaultHeader extends Component {
+
+  render() {
+    return (
+      
+
+
+      <img src={icon}/>
+
+
+
+
+    );
+  }
+
+}
+
+export default DefaultHeader;
+importing this file as <import header from "path">
+Jeremy
+import React, { Component } from 'react';
+import icon from './headerimg/header.png'
+
+
+class DefaultHeader extends Component {
+
+  render() {  return (     <img src={icon}/>    );  }
+
+}
+export default DefaultHeader;
+now I can see it lol
+question?
+Calixte Sim
+and calling <header/> should bring up the image correct?
+I am getting no errors but also no image
+Jeremy
+<DefaultHeader .../>
+and the file must be named DefaultHeader.js
+and it must be imported by App.js as a component.
+I believe I understand your quesiton
+and that is the answer, but feel free to correct or challenge
+np
+and this is good recap from yesterday 󰀀
+I approve!
+Calixte Sim
+the file?
+seriously
+😨
+Jeremy
+App.js would import the file named DefaultHeader.js
+which imports image
+renders it
+and passes its contents to App.js in a tag
+<DefaultImage />
+SORRY!
+<DefaultHeader />
+Calixte Sim
+ok clear
+Jeremy
+App.js imports component
+component imports and renders image
+word?
+the speak is kinda crucial
+and you could prove me wrong with code ad error
+(test-driven)
+but I think that is right
+could you simply import image into App.js?
+yes
+Calixte Sim
+wow. ok got it working
+Jeremy
+the use of a component and a tag is a recap of yesterday
+nice
+feel better?
+Calixte Sim
+just seeing if i can rebuild a php page I have
+Jeremy
+k
+make a lesson page!
+:D
+Calixte Sim
+that was the plan
+Jeremy
+or plan to
+cool
+repeating the lesson WHILE making a lesson is BAD ASS
+might refer to that as reflexive
+re·flex·ive
+rəˈfleksiv/Submit
+adjective
+1.
+GRAMMAR
+denoting a pronoun that refers back to the subject of the clause in which it is used, e.g., myself, themselves.
+reflexive learning? 😀
+sounds good, lol
+in fact, add that image thang to the lesson
+first import component
+then import image into component
+Calixte Sim
+yes
+Jeremy
+so, you improved the lesson
+and that kind of thing is barter back stuff
+especially if you document the lesson!!
+copy the readme
+name it react-import-components.md
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#hr
+useful guide to readme formatting language called markdown
+do NOT edit the readme!!!!!!
+just copy it and steal from it
+Calixte Sim
+OK
+Jeremy
+and use markdown cheatsheet
+screenshots are bouses
+bonuses
+[linktext](http://link.to.site)
+
+![image](path2image)
+link.to.site
+link.to.site
+unfortunately we cannot make an image a link in markdown
+or if we can it is non-standard
+# heading
+* item
+* item
+* item
+$ this is now gonna look like code
+oh look
+fb supports some markdown syntax 🙂
+`
+three backticks
+code
+three backticks
+Calixte Sim
+`
+Jeremy
+yip
+3
+Calixte Sim
+`Hello
+Jeremy
+above and below
+` ` `
+Calixte Sim
+`Hello World```
+Jeremy
+no spaces
+nope
+Calixte Sim
+😡
+Jeremy
+` ` `
+Hello World
+` ` `
+but omit spaces, lol
+lol
+Calixte Sim
+`Hello World```
+Jeremy
+three separate lines
+Calixte Sim
+Screw it
+Jeremy
+` ` `
+Hello World
+` ` `
+but no spaces between ticks
+copy that
+remove interstitial spaces
+will work
+Hello World
+Calixte Sim
+` ` `
+Hello World
+` ` `
+Jeremy
+yes, but
+Calixte Sim
+` ` `Hello World
+` ` `
+Jeremy
+spaces are still there
+Calixte Sim
+` ` `Hello World
+` ` `
+Jeremy
+keep tryin
+3 lines
+just remove spaces from lines 1 and 3
+same markdown language for bbkt readmes
+Calixte Sim
+Hello World
+ok cool
+Jeremy
+(y)
+np
+I had to fight with it too
+worth it
+images
+links
+code
+lists
+horizontal rules
+---
+three hyphens for <hr/>
+the you are goog
+then
+goog is web for good 😉
+Calixte Sim
+Calixte Sim
+I got a nav up...
+bootstrapped
+now search bar and basic stuff and I will be ready for input output
+Jeremy
+yeah, navs do not work like that
+links are something else
+using php as your guide is gonna kill ya, lol
+going rogue is just a time-eater, though I am ok with your failing and coming back after failing, lol
+I prefer you making lesson plans and we move on to next step
+links are part of the GET lesson
+lol
+I put those lessons in order for reasons that are NO joke.
+Calixte Sim
+When is that lesson
+because that is the only way we can us v8.getheapstatistics
+Jeremy
+you need to doc the prior lesson first
+and I need to test it
+and then we go to next one
+glad to assist
+makes ya learn markdown
+Calixte Sim
+ok no problem 😭
+Jeremy
+I will speed it along
+else we will not be going back to the fundamentals I am afraid
+but this is too juicy
+lesson plan
+review your grasp
+next
+makes ya learn to use markdown
+too much bonus to skip, imho
+we are developing rapport
+further lessons will take less time
+(y)
+make sense?
+and I will assist
+just block it out
+and I will add "guiding questions"
+and we can always scroll back
+Calixte Sim
+exactly what I am doing
+Jeremy
+good for your skills and for training awareness too
+and the speak worked today
+that is rather impressive of us both
+usually you would need to push, ask me to pull, define test that failed, ask me to reproduce, etc
+no need, but that will be required often anyway
+might wanna just copy it all out to text
+what is name of the markdown file you will use in that repo?
+Calixte Sim
+Jump-starting React
+Jeremy
+use this....
+
+k, no spaces
+react-dev-jumpstart.md
+or
+react-dev-first-lesson.md
+jumpstart might be for installs?
+you tell me
+just axin
+.md = markdown
+and no spaces, use hyphens
+else fuxwith ghub url
+lol
+the word test appears about 150 times, lol
+that might make one ...  testy 😉
+Calixte Sim
+no
+Calixte Sim
+
+
+Tenor GIF Keyboard
+Calixte Sim
+
+
+Tenor GIF Keyboard
+Jeremy
+lol
+just mocking myself for repeating that word so much
+Calixte Sim
+it is imperative. now only thing is me adapting to your way testing
+usually it is code, fail, fix , continue
+Jeremy
+I need that list of lessons
+Calixte Sim
+working on it
+Jeremy
+k, thx
+I will add that to the readme
+and then link from readme to your lesson
+make sense?
+test driven is fail first
+Calixte Sim
+understood
+Jeremy
+shweet
+provide list
+name lesson
+I will add list to readme
+and link to lesson
+at your convenience
+I think we CAN agree that this cements in the lesson
+and you also added the import image into component
+we could tack that on at the end of lesson
+Calixte Sim
+ok.
+Jeremy
+I enjoy doing the curriculum design collaborative-style
+I like that lesson 1 was test-driven with regard to Testcase --< Testruns
+ie, test case has many test runs
+Jeremy
+--< = "1:many"
+class  --E types
+very powerful data structure notation!!!
+VERY
+Jeremy
+next we start to use momcha and chai
+mocha
+and look at other testing tools for react
+why let issues pile up untested?
+we  ought noe, imho
+debugging
+testing
+paramount
+https://crossbrowsertesting.com/
+CrossBrowserTesting
+Browser Testing made simple! Run automated, visual, and manual tests on 1500+ real browsers and mobile devices.
+crossbrowsertesting.com
+mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/#.WkqJERM-dE4
+https://marmelab.com/blog/2016/04/19/e2e-testing-with-node-and-es6.html
+End to End (e2e) Testing React Apps With Selenium WebDriver And Node.js is Easier Than You Think
+Testing single-page-apps using a browser is a must. Selenium can look intimidating, but it's really easy to use - once you handle asynchronous commands the right way.
+marmelab.com
+Jeremy
+we will read those together
+and work thru them together
+Calixte Sim
+ok
+Jeremy
+may seem circuitous
+but it aint
+not even a little bit
+it will save us a TON of time
+TONS
+(y)
+and it aint that much to learn!!
+seriously!
+we already are wedging test driven into lesson 1
+tools for that into lesson 2
+Calixte Sim
+still writing the md should i be writing a script that just runs all commands?
+Jeremy
+nope
+we can give that job to the next trainee
+needs to train well
+script skips the learning
+Jeremy
+I can work on it a bit tomorrow
+so you can pass baton before polished
+Calixte Sim
+Ok
+Jeremy
+even drafts of first setup and lesson  = BIG progress
+lesson 1 ^
+how about we make a decoy currency 😉
+we can name it.....
+<drumroll>
+shitCoin 😀
+lol
+base it on the price of poop
+:D
+LOL!
+Calixte Sim
+😔
+how do i push git
+Jeremy
+wait!
+Calixte Sim
+i tried git push but nothing
+Jeremy
+need to pull first
+Calixte Sim
+Already up to date
+Jeremy
+good
+then
+$ cd [repo]
+$ git add .
+$ git status
+$ git commit -m 'Created new lesson: react dev 01 readme.'
+$ git status
+$ git push
+$ git status
+tawk 2 me
+lol
+:D
+can always remove fllie you created
+discard repo
+reclone
+add file
+and then follow those commands
+or rename repo [name]-old
+Calixte Sim
+at least you can tell I am having issues
+Jeremy
+and reclone
+pfft
+gets repetitive
+hard to get to that cyclical pattern
+but WORTH it
+$ cd [repo]
+$ git add .
+$ git status
+$ git commit -m 'Created new lesson: react dev 01 readme.'
+$ git status
+$ git push
+$ git status
+see how status tells ya the state of things git-wise?
+notice the PERIOD in
+
+$ git add .
+Calixte Sim
+git pull https://github.com/jeremy-donson/first-github-team-sandbox
+fatal: Not a git repository (or any of the parent directories): .git
+Jeremy
+where are ya?
+what are you trying to do?
+use words?
+Calixte Sim
+sorry clone
+Jeremy
+ok
+yip
+np
+pull is from INSIDE repo
+clone replaces repo from OUTSIDE
+all you did was add file
+so easy to preserve and add to recloned repo
+Calixte Sim
+oooooook
+done
+Jeremy
+can you paste list of next steps from above?
+like those 7 next steps (y axis)
+might scroll up like crazy and try to find string that is unique to that list
+"DESIGN"
+?
+just helping you find it in web page after scrolling up in chat
+Calixte Sim
+1. DESIGN LESSON: initial dev setup for windows
+
+2. DESIGN LESSON: first test-driven react and git session
+
+3. LEARNING SESSION: making your windows system as linux as possible
+
+4. DESIGN LESSON: making your windows system as linux as possible
+
+5. LEARNING LESSON:  debugging react
+  DESIGN LESSON
+
+6. LEARNING LESSON:  react strap + gets
+DESIGN LESSON
+
+7. LEARNING LESSON:  react-native first app
+DESIGN LESSON
+
+8. LEARNING LESSON:  git+github, test-driven
+
+9. LEARNING LESSON:  react crud
+Jeremy
+(y)
+Jeremy
+https://github.com/jeremy-donson/first-github-team-sandbox/blob/master/react-dev-lessons/GettingStartedWithReact.md
+https://github.com/jeremy-donson/first-github-team-sandbox/blob/master/README.md
+jeremy-donson/first-github-team-sandbox
+first-github-team-sandbox - Here we learn to screw it up, clean it up, and then prevent it going forwards as a team.
+github.com
+And git pull
+I have not reviewed your work in detail yet.
+And I would say that 2 separate readmes might be better
+1.  WIndows dev setup.
+2. First react lesson
+but that is easy
+good work thx
+after I review it I will speak up
+after pull
+$ git log
+Calixte Sim
+it sucks will improve.
+Jeremy
+pfft
+helped you
+not much help to me
+but it will help next dev too 󰀀
+Calixte Sim
+exactly why I will improve
+Jeremy
+screen shot of forms will also help
+yip
+you get it
+why should I review what I already know?
+good practice for ya
+and good use of git
+and good to learn to make a readme
+ALL good
+Calixte Sim
+Thank you. Useful skills.
+Jeremy
+indeed
+good job with a LOT of new stuff
+some guiding questions occur to me
+Why encapsulate Testrun form to component?
+SORRY
+
+Why encapsulate Testcase form to component?
+Why encapsulate Testruns form to separate component?
+guiding questions are HOW and WHY questions
+they help a trainee THINK while doing something new
+were they helpful to you during the lesson?
+Calixte Sim
+Yes.
+Jeremy
+then perhaps you can think about WHERE to add them?
+Calixte Sim
+Where add them on the lesson?
+Jeremy
+yip
+Calixte Sim
+ok
+Jeremy
+could be in the beginning
+or the end
+and some lesson stuffs:
+1.  SSBAT
+Student should be able to:
+2. Expected duration (overestimate)
+3. Any other guiding questions to kick it off.
+4.  Author email
+all in the heading
+make sense?
+Calixte Sim
+yes
+Jeremy
+sweet
+those are golden
+imho you may want to create 2 headings
+one for each lesson
+and leave all that in 1 file for now
+but you can so that tomorrow
+aint gonna get built in a day
+your call
+Calixte Sim
+Ok
+Jeremy
+I will do the github readme lesson with Sophie
+you can omit all of that
+😳 focus 😀
+Calixte Sim
+Ill work on it tonight. But have to go get something to eat right now. And then we are even 😁
+Jeremy
+I never said we are even 😉
+lol
+Calixte Sim
+😨
+Jeremy
+but that was a good start
+after the lesson is proven with Sophie, we are even
+glad to getya there
+of course it will work on me
+I already know it
+need a noob to test it on
+then we know it works
+you did most of the hard work, np
+AND you learned to use a little git and readme formtting
+it will flow faster for next lessons
+how could it not?
+just stay a good guinea pig for Sophie
+keep sucking at git, lol
+XD
+actually what she is setting up will blow you away
+remind me when you push so I can pull, thx
+I have an express app which is like a chess clock.
+We can use that for time tracking if that appeals.
+👎
+1
+Calixte Sim
+Lmao
+Jeremy
+Kinda badass idea
+not necessary
+but could be a strategic tool
+can set many timers and only one user has the ticking clock at once
+Calixte Sim
+Sounds cool
+Jeremy
+great app
+Calixte Sim
+Disregard thumbs down
+Jeremy
+might even be useful
+np
+I will pull and work on those lessons in the AM
+make sure that you push when done
+k?
+and now you are FEELING what the workflow FEELS like
+and that is a good thing
+they become cyclical
+and when test-driven, are bad ass
+Calixte Sim
+will do. Thank you again
+Jeremy
+my pleasure
+Calixte Sim
+TTYL
+Jeremy
+ciao
+SUN 11:00AM
+Jeremy
+you around?
+I need some help today with python
+at your convenience
+Calixte Sim
+I would have the time but that essay that is on the calendar is due tonight 11:59 been procrastinating for last two days.
+Sorry
+what are you coding?
+and did it work on sofia?
+the lesson I mean.
+Calixte Sim
+<listening>
+Jeremy
+hey
+Sophia
+Calixte Sim
+Sorry
+Jeremy
+I will let you train her after you test me.
+She will train you in git/github/bash
+you will train her in react.js and express.js
+no sorries
+just thx
+more professional <shrug>
+I just spend 3 hours with Sophie
+Calixte Sim
+understood.
+Jeremy
+she just passed out
+I have lesson plan format in the works
+gimme ten m
+Calixte Sim
+part of the grind
+Jeremy
+I will add to our lesson
+it will help you and sophie both
+yip
+Calixte Sim
+<Waiting>
+Jeremy
+k, about to push
+did you push?
+look at what I just did
+Jeremy
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	react-dev-lessons/PLAN.md
+
+nothing added to commit but untracked files present (use "git add" to track)
+urbanspectra:first-github-team-sandbox Mac$ git add .
+urbanspectra:first-github-team-sandbox Mac$ git commit -m 'Added PLAN.md.'
+[master a674d6b] Added PLAN.md.
+ 1 file changed, 15 insertions(+)
+ create mode 100644 react-dev-lessons/PLAN.md
+urbanspectra:first-github-team-sandbox Mac$ git push
+To https://github.com/jeremy-donson/first-github-team-sandbox/
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/jeremy-donson/first-github-team-sandbox/'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+urbanspectra:first-github-team-sandbox Mac$ git pull
+remote: Counting objects: 71, done.
+remote: Compressing objects: 100% (52/52), done.
+remote: Total 71 (delta 36), reused 54 (delta 19), pack-reused 0
+Unpacking objects: 100% (71/71), done.
+From https://github.com/jeremy-donson/first-github-team-sandbox
+   ce1a4d5..f681b2a  master     -> origin/master
+Removing react-dev-lessons/react-app-dir-strux.png
+Removing react-dev-lessons/GettingStartedWithReact.md
+Merge made by the 'recursive' strategy.
+ react-dev-lessons/GettingStartedWithReact.md      |  55 -----------------------------------
+ react-dev-lessons/React_Structure.md              |  78 ++++++++++++++++++++++++++++++++++++++++++++++++++
+ react-dev-lessons/Starting_React4Windows.md       |  89 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ react-dev-lessons/images/AreatoEdit.PNG           | Bin 0 -> 61810 bytes
+ react-dev-lessons/images/CreateError.PNG          | Bin 0 -> 6279 bytes
+ react-dev-lessons/images/FinalResult.PNG          | Bin 0 -> 21110 bytes
+ react-dev-lessons/images/ReactRoot.PNG            | Bin 0 -> 21639 bytes
+ react-dev-lessons/images/Start.PNG                | Bin 0 -> 44985 bytes
+ react-dev-lessons/images/changetoappdirectory.PNG | Bin 0 -> 5339 bytes
+ react-dev-lessons/images/createReactApp.PNG       | Bin 0 -> 3052 bytes
+ react-dev-lessons/images/createSuccessful.PNG     | Bin 0 -> 18314 bytes
+ react-dev-lessons/react-app-dir-strux.png         | Bin 16207 -> 0 bytes
+ 12 files changed, 167 insertions(+), 55 deletions(-)
+ delete mode 100644 react-dev-lessons/GettingStartedWithReact.md
+ create mode 100644 react-dev-lessons/React_Structure.md
+ create mode 100644 react-dev-lessons/Starting_React4Windows.md
+ create mode 100644 react-dev-lessons/images/AreatoEdit.PNG
+ create mode 100644 react-dev-lessons/images/CreateError.PNG
+ create mode 100644 react-dev-lessons/images/FinalResult.PNG
+ create mode 100644 react-dev-lessons/images/ReactRoot.PNG
+ create mode 100644 react-dev-lessons/images/Start.PNG
+ create mode 100644 react-dev-lessons/images/changetoappdirectory.PNG
+ create mode 100644 react-dev-lessons/images/createReactApp.PNG
+ create mode 100644 react-dev-lessons/images/createSuccessful.PNG
+ delete mode 100644 react-dev-lessons/react-app-dir-strux.png
+urbanspectra:first-github-team-sandbox Mac$ git push
+Counting objects: 7, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (7/7), 1005 bytes | 1005.00 KiB/s, done.
+Total 7 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas: 100% (3/3), completed with 2 local objects.
+To https://github.com/jeremy-donson/first-github-team-sandbox/
+   f681b2a..9c43401  master -> master
+urbanspectra:first-github-team-sandbox Mac$
+Jeremy
+Take a minute
+I did not see that you had pushed
+I tried to push
+failed
+was forced to pull first
+which includes fetch and merge
+needed to create merge log message
+then I could push after pull
+meawhile lets get you using baxh
+bash
+$ bash --version
+https://superuser.com/questions/315195/is-there-a-command-to-find-out-the-available-memory-in-windows
+Is there a command to find out the available memory in Windows?
+I am looking for a command that returns the available physical memory in Windows. I tried "systeminfo" but it takes too long and returns a lot of unnessesary information for me. If there is not any
+superuser.com
+I wanna see if we can query windows hardware resources from bash
+available ram total
+ram used
+ram remaining
+
+disk total
+disk used
+disk remaining
+
+swap things
+we can do the python stuff after that
+this goes to BASIC student prereqs
+they must be ready
+their system must be stable
+and they need tools installed
+THEN we can teach them techniques and workflows
+comparing powershell to bash today for a bit first
+https://4sysops.com/archives/starting-file-explorer-from-powershell-in-the-current-folder/
+That helps
+everything from CLI (powershell OR bash) is the goal
+else not scriptable 😮
+can we set you up with a .profile or .bash_profile bash config?
+etc
+how linux can you be, and when not, how to fall back to powershell
+system resources
+and dev setups for:
+- chrome window
+- gui editor window
+- git project folder in file explorer
+- command line with git in project folder
+- command line with npm in project folder
+$ mkdir ~/urbanspectra-projects/test-win/
+oh
+this is better:
+$ mkdir ~/urbanspectra-projects/test-win/
+$ cd ~/urbanspectra-projects/test-win/
+$ git status
+$ git init
+$ git status
+:)
+Calixte Sim
+Would you like me to just get a linux machine?
+Jeremy
+nope
+why?
+you will support other win folks
+and we need to build an installer, where ALL of this is scriptable
+you can test in linux using virtual box and ubuntu
+but use win
+make it linuxy
+(you already did, we are just gonna see how far we can push that)
+this is a gateway to the LARGEST population of devs on the planet
+pave that road!
+:D
+Calixte Sim
+
+
+Tenor GIF Keyboard
+Jeremy
+indeed
+dayzWhadiymtawkinBout
+Command Line Challenges on Win via PowerShell AND gitBash:
+- chrome window
+- gui editor window
+- git project folder in file explorer
+- command line with git in project folder
+- command line with npm in project folder
+ie script will query:
+
+1.  do we have admin access?
+2.  are we in clean empty account?
+3.  can we install gitBash?
+4.  If not, will we install all with PowerShell?
+Jeremy
+ie script will query:
+
+1.  do we have admin access?
+- YES:  create new account if not clean new account:
+ login = URBANSPECTRA
+ password = URBANSPECTRA
+- NO:  Then they must approve install with 2 more warnings.
+2.  are we in clean empty account?
+- YES:  Give their primary account access to this account, read-only!!
+- NO:  See #1 above.
+3.  can we install gitBash?
+- YES:  GO!
+- NO: then can we install git alone and use powershell in vanlla acount
+4.  If not, will we install all with PowerShell?
+Jeremy
+why am I doing it this way?
+<listening>
+Command Line Challenges on Win via PowerShell AND gitBash:
+- system resources as above
+- chrome window
+- gui editor window
+- git project folder in file explorer
+- command line with git in project folder
+- command line with npm in project folder
+^ updated
+Calixte Sim
+What do you mean? I do not understand your question.
+Jeremy
+Well, you asked if you ought to just run linux
+On server, yes
+on desktop?
+no
+Calixte Sim
+Oh i understood
+Jeremy
+We need three local platform flavors covered:
+- linux => Sophie
+- ox => ME
+- win => YOU
+and we all need to know about ALL 3
+but OWN 1
+and we could make this manually tested, automated, and plan AI trainer for setups TODAY
+:)
+Calixte Sim
+Will not have time for all this today.
+Jeremy
+np
+how about lay down tests first?
+Calixte Sim
+1.  do we have admin access?
+- YES:  create new account if not clean new account:
+ login = URBANSPECTRA
+ password = URBANSPECTRA
+- NO:  Then they must approve install with 2 more warnings.
+2.  are we in clean empty account?
+- YES:  Give their primary account access to this account, read-only!!
+- NO:  See #1 above.
+3.  can we install gitBash?
+- YES:  GO!
+- NO: then can we install git alone and use powershell in vanlla acount
+4.  If not, will we install all with PowerShell?
+Calixte Sim
+is this a script you will want
+Jeremy
+well, will it run on ALL windows systems?
+and will it be a packaged app?
+1. manual
+2. test-driven
+3. automated => asking about this now
+4. AI
+like what if they do not have powerShell?
+Calixte Sim
+You will have to walk me through a test completely so I understand exactly what you are talking about.when you say tests. So I have a standard to follow?
+then we cannot install scoop is there anything similar to scoop
+Jeremy
+correct
+no scoop
+just 3 options
+1. cmd old-style
+2. powershell
+3. gitBash
+test: are we on WIn OS?
+test:  do we have admin acess?
+test:  is powershell installed
+test:  is gitBash installed?
+test: can we run CMD
+that is all we need to make this work,
+and it MUST work for ALL windows versions....
+and even if no admin password is provided,
+we can have THEM agree 3 times to installing
+gitBash locally in current account
+Even one installer that works on ALL win systems...
+That says Hello World
+OR 
+"Buenos Dias Monde"
+would be progress
+see, I went z axis on ya 😉
+Calixte Sim
+Lol
+Jeremy
+why not do 2-3 axes at once?
+Calixte Sim
+I see what you did there. Ok.
+Jeremy
+why not never look back?
+WHY NOT!!!!!!
+FORWARD!
+TALLY HO!
+:D
+lol
+I tend to move too fast
+Sophie tends to move too slow
+You seem to get a bit hard on yourself, perhaps impatient?
+we will see trainees with ALL of those qualities
+they are all manageable
+we are allowed to be ourselves
+and we are allowed to be human
+gets us ready for all kinds of trainers and students <nods>
+(y)
+so, why not some xyz dev?
+Calixte Sim
+re-reading
+Jeremy
+win app, runs on all WIN systems, test driven, and spits out:
+
+- Hello world
+OR
+
+- "Buenos Dias Monde"
+np
+xyz dev is about multi-axis features
+x = features
+y = test driven, after manuallt
+z = localization, DUDE!
+this is a project management workflow
+your call
+Calixte Sim
+ok cool. we are working along x axis. Now question
+Jeremy
+well, xy is a given
+Calixte Sim
+what comes first because I am confused
+Jeremy
+xyz is a reach
+for WIDEST AUDIENCE ON THE PLANET
+Calixte Sim
+are agenda just seems to be becoming larger
+Jeremy
+nope
+2 axes or 3
+single requirement
+Jeremy
+hello world that reports the following on ALL win systems:
+
+1. cmd old-style
+2. powershell
+3. gitBash
+test: are we on WIn OS?
+test:  do we have admin acess?
+test:  is powershell installed
+test:  is gitBash installed?
+test: can we run CMD
+that is all we need to make this work,
+and it MUST work for ALL windows versions....
+Jeremy
+then we can iterate forward:
+- include z axis
+- add system resource queries
+- start bbkt private repo for this
+Calixte Sim
+so this is next task not lesson on React?
+Jeremy
+well, your react installer lesson needs to work for all win folks
+we can do some react too
+but this comes first
+can do both in parallel
+just cannot let lessons lag too far behind training
+you should see Sophie and I negotiate, lol
+she wants me to answer EVERY question she has
+LOLOLOL!
+15m lesson becomes an hour
+Calixte Sim
+OK let me finish writing this  paper and I will ping....
+Jeremy
+so I am developing ways to ensure that she makes progress too
+ok
+sounds good
+glad to assist with paper
+Calixte Sim
+I am adding this on the calendar....
+Jeremy
+I am great editor
+ok cool
+well done
+Calixte Sim
+or you can, if you'd like?
+Jeremy
+I am not constrained
+when you are free, gimme 15m notice.
+I will be ready.
+we can certainly schedule this week on Sunday
+<nods>
+Calixte Sim
+Because I got a few things from here but more importantly an installer that helps any user of windows to get started with react is the goal, but we also need to get my system as close to linux as possible. Correct?.
+yep
+Jeremy
+both at once, nice yep
+1. bash
+2.  powershell
+3, cmd
+ideally you are at #1 all the time
+and can support others from #2 and #3 at will
+and I have some python questions to solve
+
+and then we can do more react
+you ought to push me to review your lesson plan within 24-36 hours
+but we are doing very well indeed
+Calixte Sim
+I actually hate writing papers,I tend to drift in and out of it.  shot the pythons questions now might keep from sleeping.
+Jeremy
+lol
+not yet
+will soon tho
+format:
+- question
+- setup
+- clues
+- answers
+Calixte Sim
+ok
+but I really have to get started ttyl
+Jeremy
+k, ciao
+SUN 2:14PM
+Jeremy
+do you have an outline for your paper?
+(test-driven approach)
+Jeremy
+show me outline
+then I can help
+what is your major?
+Calixte Sim
+No outline right now just textbook it is simple really
+Jeremy
+and what class?
+best for me to know these things
+I have studied many subjects
+Calixte Sim
+Computer Science, this particular assignment is not mine but someone paying for completion. I noticed your accomplhishment. One reason i asked for your help, can only learn fron exprience no matter from whose life that experience may have occurred.
+Extra $$$
+Jeremy
+np
+git pull
+k?
+One thing that I do that you will learn to follow:
+
+?? means please follow up with an answer
+So searching all text in repo for '??' is good for action items.
+Plainly we will use bash and linux tools for that.  🙂
+BUT
+you will also need to support win folks there too
+(powerShell + CMD)
+Jeremy
+please git pull
+and let me know when we can do some python for a but
+Calixte Sim
+now?
+git pull now?
+Jeremy
+yes
+and then confirm that you did
+I have no clue who pulls other than myself
+ie: two issues
+- git status does not mention when behind remote origin
+- push from me needs pull from team, and no way to know
+so we gotta keep in touch:
+
+pull?
+- confirmed
+
+push?
+- please pull
+etc
+look at actionItems file
+Calixte Sim
+ok
+Jeremy
+(y)
+so, say when pulled
+and say when pushed after notification seek confirmation that others pulled
+Calixte Sim
+ok
+Jeremy
+thx
+Calixte Sim
+i pulled
+Jeremy
+cool thx
+Calixte Sim
+do you also need me to push
+Jeremy
+acknowledged
+not unless you committed locally
+Calixte Sim
+ok
+Jeremy
+no need to push unless you commit to repo locally
+Jeremy
+I wanna see if we can query windows hardware resources from bash
+available ram total
+ram used
+ram remaining
+
+disk total
+disk used
+disk remaining
+
+swap things
+Jeremy
+Python:
+- question:  
+There are N students in a class. Some of them are friends, while some are not. Their friendship is transitive in nature. For example, if A is a direct friend of B, and B is a direct friend of C, then A is an indirect friend of C. And we defined a friend circle is a group of students who are direct or indirect friends.
+
+Given a N*N matrix M representing the friend relationship between students in the class. If M[i][j] = 1, then the ith and jth students are direct friends with each other, otherwise not. And you have to output the total number of friend circles among all the students.
+
+- setup:
+An example and test would help.
+
+- clues
+
+- answers
+Jeremy
+Python question:
+
+· Question:        You are given a list of strings. Removing a letter from any string yields a different string that may or may not exist in the list as an independent entity. This is one link of a "string chain". Find the longest chain in the array. Solved with a hashtable.
+
+- setup:
+An example and test would help.
+
+- clues
+
+- answers
+Jeremy
+Python Question:
+·  Question:       Hashtable implementation
+- Setup:  example
+- Clue:
+- Answer:
+Python Question:
+·  Question:       implementation of  thread vs process
+- Setup:  example
+- Clue:
+- Answer:
+Python Question:
+·  Question:       finding median of two HUGE streams of numbers within range 0 to N
+- Setup:  example
+- Clue:
+- Answer:
+Python Question:
+·  Question:       secure generation of passwords
+- Setup:  example
+- Clue:
+- Answer:
+
+
+
+ design a simple game, fix a coding problem using unit tests
+2 more questions
+1.  design a simple game
+2. fix a coding problem using unit tests
+pick any
+First line of inquiry:
+- which one(s)?
+- why those?
+- how would you approach these if you had to pick 2?
+- how would you approach these if you had to solve all??
+- what other questions do you have about these questions?
+If time was limited, would you approach differently?
+Why?
+Calixte Sim
+is this for a lesson?
+Jeremy
+yes
+because we will use python at times
+and it is my fave language
+and devs ought to learn 2+ languages
+three options:
+- shell (bash)
+- python
+- node frameworks
+
+Which do we use when and why?
+would these be better solved with other than python?
+etc
+learning react and express is awesome, but shell and python are CRUCIAL for scripting
+look, a cross-platform way to query OS flavors:
+
+https://stackoverflow.com/questions/4553129/when-to-use-os-name-sys-platform-or-platform-system
+MEANING, python GREAT for cross-platform scripting
+even if bash never goes into a win system
+Jeremy
+At the very least, please schedule time thru the week in action items.
+thx
+Jeremy
+Two good python answers:
+- they must work for py2 and py3
+- they must perform well,
+else they must be discussed in terms of their bigO notation limits with regard to performance
+Jeremy
+I am comparing answers for py2 and py3
+and I am writing scripts which work in py2 and py3.
+
+Those scripts are GENERATED by bash.
+Calixte Sim
+BigO?
+Jeremy
+yes
+this regards degree of complexity
+and can help us determine whether we can improve performance
+My bash script:
+1. generates python script that runs fine in both py2 and py3
+2.  executes those scripts 10 times in succession in  py2
+3.  executes those scripts 10 times in succession in  py3
+4. reports those times to two log files
+5.  averages those times for each log file
+py3 is WAY faster
+WAY
+Jeremy
+2.x,0:00:00.000596
+2.x,0:00:00.000281
+2.x,0:00:00.000342
+2.x,0:00:00.000320
+2.x,0:00:00.000515
+2.x,0:00:00.000319
+2.x,0:00:00.000322
+2.x,0:00:00.000327
+2.x,0:00:00.000305
+2.x,0:00:00.000370
+2.x,0:00:00.002736
+2.x,0:00:00.000502
+2.x,0:00:00.000318
+2.x,0:00:00.000553
+2.x,0:00:00.000319
+2.x,0:00:00.000325
+2.x,0:00:00.000292
+2.x,0:00:00.000355
+2.x,0:00:00.000321
+2.x,0:00:00.000369
+2.x,0:00:00.000492
+2.x,0:00:00.000327
+2.x,0:00:00.000316
+2.x,0:00:00.000330
+2.x,0:00:00.000347
+2.x,0:00:00.000314
+2.x,0:00:00.000307
+2.x,0:00:00.000312
+2.x,0:00:00.000288
+2.x,0:00:00.000319
+
+3
+3.x,0:00:00.000007
+3.x,0:00:00.000010
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000006
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000006
+3.x,0:00:00.000008
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000006
+3.x,0:00:00.000005
+3.x,0:00:00.000004
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000006
+3.x,0:00:00.000004
+3.x,0:00:00.000005
+3.x,0:00:00.000004
+3.x,0:00:00.000006
+3.x,0:00:00.000005
+Jeremy
+averaging now
+Jeremy
+lol, bash math is nasty
+gimme a couple
+AFTER I get this python timer running for py2 and py3, we will have nice way to test execution times.
+Jeremy
+ok
+Calixte Sim
+Jeremy
+lol
+brain sweat?
+Calixte Sim
+Excuse me, I  have to apologize I will not be able to do anythung until tomorrow to many distractions right now
+Jeremy
+np
+add scheduled week times in actionitems
+after pull again
+I am fighting with bash math
+./python-hackerrank.sh: line 73: 10+008: value too great for base (error token is "008")
+Jeremy
+2
+2.x,0:00:00.000727
+2.x,0:00:00.000357
+2.x,0:00:00.000310
+2.x,0:00:00.000337
+2.x,0:00:00.000331
+2.x,0:00:00.000316
+2.x,0:00:00.000344
+2.x,0:00:00.000313
+2.x,0:00:00.000341
+2.x,0:00:00.000320
+EXECUTIONS PY2: 10
+CUMULATIVE PY2 IN MICROSECONDS: 3696
+AVG PY2 IN MICROSECONDS: 369
+
+3
+3.x,0:00:00.000005
+3.x,0:00:00.000007
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000006
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+EXECUTIONS PY3: 10
+CUMULATIVE PY3 IN MICROSECONDS: 53
+AVG PY3 IN MICROSECONDS: 5
+Jeremy
+only works half the time
+but good enough for now
+will fix bash math bug later
+now to test py2 vs py3 answers for time
+Jeremy
+After pull again
+
+Add scheduled week times in actionitems.
+
+ok?
+Jeremy
+? k?
+Jeremy
+2
+2.x,0:00:00.000336
+2.x,0:00:00.000351
+2.x,0:00:00.000347
+2.x,0:00:00.000367
+2.x,0:00:00.000319
+2.x,0:00:00.000302
+2.x,0:00:00.000317
+2.x,0:00:00.000345
+2.x,0:00:00.000325
+2.x,0:00:00.000333
+EXECUTIONS PY2: 10
+CUMULATIVE PY2 IN MICROSECONDS: 3342
+AVG PY2 IN MICROSECONDS: 334
+
+3
+3.x,0:00:00.000006
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000004
+3.x,0:00:00.000005
+3.x,0:00:00.000006
+3.x,0:00:00.000004
+3.x,0:00:00.000007
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+EXECUTIONS PY3: 10
+CUMULATIVE PY3 IN MICROSECONDS: 52
+AVG PY3 IN MICROSECONDS: 6
+Jeremy
+works great
+and inserting py scripts into the middle of the py2 + py3 timer script is working fine
+After pull again
+
+Add scheduled week times in actionitems.
+
+ok?
+??
+please ..
+
+After pull again
+
+Add scheduled web/thurs/fri in actionitems.
+
+Then:
+
+$ git status
+$ git add .
+$ git commit -m 'Updated action items with sched4week.'
+$ git push
+
+Then notify me that I need to pull.
+
+ok?
+👍
+1
+MON 4:51AM
+Jeremy
+I am generating scripts with bash.
+
+I am also learning to
+generate python unit tests.
+
+With automation efforts come the opportunity to auto-generate scripts and tests.  Cool stuff.
+👎
+1
+saves a lot of typing 🙂
+we can do the same with react and express
+MON 9:01AM
+Calixte Sim
+Reading history now
+Jeremy
+howdy
+Calixte Sim
+Good morning
+Jeremy
+I am kicking ass with Sophie
+Calixte Sim
+That is great to 👂
+Jeremy
+she will school ya
+Calixte Sim
+Hear
+Jeremy
+yip
+Calixte Sim
+Ok,  I am over viewing everything right  now and it seems so please bare with me.
+
+So python when do you want to schedule this, 
+
+you:{
+I wanna see if we can query windows hardware resources from bash
+available ram total
+ram used
+ram remaining
+
+disk total
+disk used
+disk remaining
+
+swap things
+Python:
+- question:  
+There are N students in a class. Some of them are friends, while some are not. Their friendship is transitive in nature. For example, if A is a direct friend of B, and B is a direct friend of C, then A is an indirect friend of C. And we defined a friend circle is a group of students who are direct or indirect friends.
+
+Given a N*N matrix M representing the friend relationship between students in the class. If M[i][j] = 1, then the ith and jth students are direct friends with each other, otherwise not. And you have to output the total number of friend circles among all the students.
+
+- setup:
+An example and test would help.
+
+- clues
+
+- answers
+Python question:
+
+· Question:        You are given a list of strings. Removing a letter from any string yields a different string that may or may not exist in the list as an independent entity. This is one link of a "string chain". Find the longest chain in the array. Solved with a hashtable.
+
+- setup:
+An example and test would help.
+
+- clues
+
+- answers
+Python Question:
+·  Question:       Hashtable implementation
+- Setup:  example
+- Clue:
+- Answer:
+Python Question:
+·  Question:       implementation of  thread vs process
+- Setup:  example
+- Clue:
+- Answer:
+Python Question:
+·  Question:       finding median of two HUGE streams of numbers within range 0 to N
+- Setup:  example
+- Clue:
+- Answer:
+Python Question:
+·  Question:       secure generation of passwords
+- Setup:  example
+- Clue:
+- Answer:
+
+
+
+ design a simple game, fix a coding problem using unit tests
+2 more questions
+1.  design a simple game
+2. fix a coding problem using unit tests
+pick any
+First line of inquiry:
+- which one(s)?
+- why those?
+- how would you approach these if you had to pick 2?
+- how would you approach these if you had to solve all??
+- what other questions do you have about these questions?
+If time was limited, would you approach differently?
+Why?
+}
+
+confirm='I OK will do that after I finish reading all messages';
+Jeremy
+at your convenience
+I a doign cool stuff with python
+Calixte Sim
+What is BigO notation limits?
+Jeremy
+I am reading about it
+Calixte Sim
+I will pull and commit now. are the python scripts included in pull request?
+Jeremy
+nope
+Calixte Sim
+ok.
+Jeremy
+here tho
+you will LOVE this
+Jeremy
+This is the model I follow while I seek to generate:
+- python scripts
+- python tests
+- bash scripts
+- bash tests
+1. code
+2. generate executable with parameters and with execution timers
+3.  execute and save output to file
+4.  report on output from file
+5.  aggregate reporting
+6. iterate above
+7. improve upon terms of testing and automation
+8. generate data sets that get more complex and larger, to see how #2 performs as data set grows
+does twice the data take twice the time (proportional strain)?
+Jeremy
+this is what I am building
+all generated and automated
+delicious and bad ass
+VERY little typing, needless to say
+That is where this came from:
+Jeremy
+2.x,0:00:00.000336
+2.x,0:00:00.000351
+2.x,0:00:00.000347
+2.x,0:00:00.000367
+2.x,0:00:00.000319
+2.x,0:00:00.000302
+2.x,0:00:00.000317
+2.x,0:00:00.000345
+2.x,0:00:00.000325
+2.x,0:00:00.000333
+EXECUTIONS PY2: 10
+CUMULATIVE PY2 IN MICROSECONDS: 3342
+AVG PY2 IN MICROSECONDS: 334
+
+3
+3.x,0:00:00.000006
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+3.x,0:00:00.000004
+3.x,0:00:00.000005
+3.x,0:00:00.000006
+3.x,0:00:00.000004
+3.x,0:00:00.000007
+3.x,0:00:00.000005
+3.x,0:00:00.000005
+EXECUTIONS PY3: 10
+CUMULATIVE PY3 IN MICROSECONDS: 52
+AVG PY3 IN MICROSECONDS: 6
+Jeremy
+look at how much FASTER py3 is 😮
+Calixte Sim
+
+
+GIPHY
+Jeremy
+thx dood
+you will love it love it love it
+Now, as we ADD to the size of the data set being processed
+ie, does twice the data set size take twice as long?
+what about 10 times the size?
+can we split and parallelize that ?
+is that possible given the terms of processsing
+Calixte Sim
+You are a python master so at times I think I am being tested. Yes you can parallelize them but does it not depend on the type of function you are running?
+Jeremy
+well, two things are limiting factors
+and I am not python master, but i do like it
+Ahmdahls law
+factor 1:  is the set big enough where the split and parallelization bears time savings?
+factor 2:  does the active set bear splitting such that the split sets can be operated on independently
+Jeremy
+do you want examples?
+Calixte Sim
+Not necessary. Still filling out action items trying to be fair to myself and you as well and  maintain manageability.
+Jeremy
+np
+fairness is a balancing act
+I know you mean well and have other priorities
+Jeremy
+we will negotiate in good faith
+MON 11:38AM
+Jeremy
+wow
+I am getting SCHOOOOOLED in bigO and littleO notation by a true math genius.
+oy, lol
+he is being very patient withe me
+Jeremy
+"Although that only applies if you are going to draw from larger and larger data sets. If you're inputs are bounded all that matters is how fast it is for the size of what you are working with. So if I'm only working with 3x3 matrices I don't care if my algorithm blows up for NxN matrices as N--> infinity. I only care how fast it is for 3x3 matrices."
+Calixte Sim
+ok, so why does it matter now? https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
+A beginner's guide to Big O notation - Rob Bell
+Rob Bell's software development blog, discussing object-oriented programming, design and best practices, amongst other things.
+rob-bell.net
+Jeremy
+performance
+I am looking at python problems that have performance limitations
+and this is expressed in terms of bigO notations
+three  options to workaround those limitations
+1.  parallelize if possible
+2.  pre-aggregate
+OR
+3.  use sampling to reduce set size
+this is my world
+either work thru, which assumes data set of limited size
+or improve algo
+or work around as above
+Calixte Sim
+.  use sampling to reduce set size
+Jeremy
+also, input data set can be not just BIG
+assumes that it is a representative sample
+and still costs time
+and may require that we go back and evaluate how representative the sample is
+all of those workarounds are tools in my belt
+when a data set has low variance, we can aggregate it easier and most efficiently
+data set:  integers from range 1-5 (domain)
+
+Three sets of size 7:
+1:  [ 2,4,2,4,5,2,1]
+2:  [ 2,4,2,2,2,2,1]
+3:  [ 2,4,2,4,9,2,1]
+which can we aggregate smallest?
+and wtf with #3?
+falls out of expected domain range
+I refer to data scaling as a "faceted" set of issues.
+Not just "big"
+many types of scale
+many many
+in fact those types themselves... can scale
+:o
+wanna see my list of types of scale?
+I am DBA and data engineer of MANY years.
+Was initially trained at columbia U.
+This is why I wanna get you into SOME python.
+
+Knowing which language to use and why is not small stuff.
+I am making a clear case for scripts that can run in both py3 and py2
+lots of py3 syntax was backported into py2
+all of my scripts run in both
+and py3 is WAAAAAAAY faster than py2
+Jeremy
+
+
+Tenor GIF Keyboard
+Jeremy
+Scale is not just BIG!
+
+Types of scale:
+1. Size of data set
+2. Types to data set
+3. Data freshness
+4. Data accuracy
+5. Number of users
+6. Number of requests
+7. Number of servers
+8. Number of locations
+9. Degrees of complexity
+10. ?? other?
+MON 2:13PM
+Jeremy
+https://igordavydenko.com/talks/by-pycon-2017/#slide-1
+ok, gonna ru some benchmarks on a few physical systems
+run
+will use ulimit
+https://stackoverflow.com/questions/5061582/setting-stacksize-in-a-python-script
+now, there is syntax in py3 which is more pythonic and not supported by py2
+I am avoiding that for now
+compatibility first
+then optimizations
+Python 3.6 & Performance
+I am... Igor Davydenko Python & React.js developer at EVO Company From Kyiv, Ukraine Love Python 3, asyncio & aio stack Use Python 3.6 in production Personal Site @ GitHub @ Twitter
+igordavydenko.com
+Jeremy
+I wonder if I could run python as a service
+not launch off of disk
+and then control how it uses memoory
+that would likely be best for parallelizations
+Calixte Sim
+updated the git
+Jeremy
+i should pull?
+"I updated our shared github repo using git."
+I would say it like that
+Calixte Sim
+understood
+Jeremy
+np
+you are new to it
+you just wanna sound right to the devs out there
+https://www.facebook.com/groups/BigDataProcessing/
+Big Data Processing
+138 members
+Join that group/
+Calixte Sim
+ok
+MON 5:02PM
+Jeremy
+I run a group about every 'layer of the stack'
+ui/ux
+programming
+data
+systems, etc
+https://www.facebook.com/groups/ClarifyingTheCloud/
+Emerging Private & Public Cloud Technology Standards
+44 members
+Jeremy
+the fee for group membership is quite low 😉
+when can we next meet?
+Calixte Sim
+Thought we were going by a schedule?
+Jeremy
+ya, we never reviewed this week
+Calixte Sim
+I need an hour. Not home
+Jeremy
+not now
+just asking
+some time accounting will help
+and planning the week on sunday together briefly is likely a smart move
+paper finished?
+Calixte Sim
+Yep
+Jeremy
+cool
+Jeremy
+https://github.com/jeremy-donson/first-github-team-sandbox
+
+Image URL link works, but not hoverText
+jeremy-donson/first-github-team-sandbox
+first-github-team-sandbox - Here we learn to screw it up, clean it up, and then prevent it going forwards as a team.
+github.com
+pull at your convenience
+You can see second image links to a web site
+[![imagetext](imgpath)](http://target.com)
+Target : Expect More. Pay Less.
+Free shipping on orders of $35+ or free same-day store pick-up, plus free and easy returns. Save 5% every day with your Target REDcard.
+target.com
+you can see image markdown wrapped in link markdown
+Jeremy
+and now I added hovertext correctly
+pull again
+and $ git log
+
+and laugh at my last three commits, lol
+:(
+lol
+Calixte Sim
+What is this?
+Jeremy
+https://github.com/jeremy-donson/first-github-team-sandbox
+jeremy-donson/first-github-team-sandbox
+first-github-team-sandbox - Here we learn to screw it up, clean it up, and then prevent it going forwards as a team.
+github.com
+Look at second image under test metadata
+it is now a link to a url 󰀀
+AND hovering over it will reveal hoverText
+as in, I AM A LINK
+pull again
+now it is self-describing hoverText
+YEEEAH
+Calixte Sim
+What file?
+Jeremy
+https://github.com/jeremy-donson/first-github-team-sandbox
+jeremy-donson/first-github-team-sandbox
+first-github-team-sandbox - Here we learn to screw it up, clean it up, and then prevent it going forwards as a team.
+github.com
+there are two images under testcase and test run metadata
+second one is now link to url with healthy self-describing hoverText
+## The root app directory for react and express:
+![react-express-dir](app-dir-react-express.png)
+
+[![react-express-dir](app-dir-react-express.png)](http://www.target.com "LINK TO: http://www.target.com ")
+Target : Expect More. Pay Less.
+Free shipping on orders of $35+ or free same-day store pick-up, plus free and easy returns. Save 5% every day with your Target REDcard.
+target.com
+That is the markdown
+And a page anchor would help
+Calixte Sim
+O ok
+Jeremy
+is that bigO or littleo 😉
+I am working on page anchor
+https://michaelsoolee.com/markdown-anchor-target-blank/
+How to set an anchor tag's target to blank in Markdown converted with Kramdown / Michael Lee
+In Markdown, to create a link, you use this syntax:
+michaelsoolee.com
+Jeremy
+k, unable to do anchor nor target _blank
+but other things work better
+we will find an example on ghub and snag the syntax
+Jeremy
+wanna talk thru the schedule?
+hey
+timing
+(y)
+MON 9:48PM
+Jeremy
+you around?
+thought we would plan thru the week
+guess not
+Calixte Sim
+Yes
+Jeremy
+oh, ok
+hey
+Calixte Sim
+So we have 4 days left..
+This week
+Jeremy
+yip
+should I work on those two lessons you started?
+can you start a windows installer?
+Calixte Sim
+No,
+Jeremy
+sorry, not sure which that was a response to, lol
+haw about speak to what can happen next and when
+?
+Calixte Sim
+No need to finish the lessons i will finish them.
+Jeremy
+can be collaborative
+might be good to add the transcripts of the chat to them
+then I can try to work from the lesson like a guinea pig and see if they are ready for reuse
+tha is what I have been doing
+grabbing transcripts of my sessions with sophie
+and she is starting to create lessons too
+but the transcripts are the raw source
+and the lesson is derived from that
+the transcripts are like socrates
+from live
+the lesson is like plato
+written
+Calixte Sim
+Understood. But a one man job should be left to one man. The installer, what are the requirments?
+Jeremy
+I need to think through the data generator I need to maake
+it is collaborative
+Even when you say finished
+Calixte Sim
+No issues.
+Jeremy
+needs to be tested to see if it is ready for new eyes
+like a recipe
+we cooked
+we ate
+it was good
+Calixte Sim
+Oooh
+Jeremy
+recipe?
+try to write it
+see if it can be reproduced from recipe?
+like that
+one person is likely not gonna do ALL that
+of COURSE your sentiment is respected, and you ought to do what you can
+2 lessons:
+- windows dev setup jumpstart
+- react first lesson
+is recipe a helpful metaphor?
+Calixte Sim
+👍
+Jeremy
+so, do we talk about next lesson time?
+I was hoping that you would have time to:
+- work on lessons
+- learn more lessons
+- work on windows app
+Calixte Sim
+Yes
+Jeremy
+I can use XCode on the mac for installer dev.
+Calixte Sim
+Right now?
+Jeremy
+nope
+It can make installers for all platforms.
+It is bad ass.
+XCode is free on OSX.
+Apple was the underdog for a LOOOONG time.
+So they are ready to build installers for all platforms.
+HOWEVER, that does not mean that I can test it.
+Just build it.  🙂
+Calixte Sim
+Lol no test is no good.
+Jeremy
+correct
+but you test and prove the script works
+and then I can add to xcode and you can run installer against various win systems:
+- cmd
+- pshell
+- gitbash
+- python
+if you think that is messy
+no
+better than trying to support every win person that need help
+WAY better
+cover all use cases for recent versions of win
+within reason
+Calixte Sim
+👌. I was looking forward to it. But not messy at all.
+Jeremy
+kinda cool
+and better than a single script that works on your system and only certain other ones
+for example, IF python is around
+platform module can dish off ALL kinds of system facts
+IF
+if not, then powershell and cmd are our targets
+or gitbash, if they will let that go in
+so, of course
+four example customers...
+1.  says yes to gitbash, like you
+Calixte Sim
+One moment. ✋
+Jeremy
+2.  says no to gitbash, but yes to python
+np
+Calixte Sim
+2 min max
+Jeremy
+3. has a more recent version of win, and user powershell
+
+4.  has an older version of win,
+and only uses CMD>
+Calixte Sim
+These are customer options or system checks?
+Jeremy
+these are four sample use-cases
+"user-stories"
+this covers most win users on the planet
+no?
+I was hoping for planning ahead around:
+- work on lessons solo
+- work on lessons together
+- work on windows app solo
+- work on windows app together
+- learn more lessons together
+Calixte Sim
+We can
+Jeremy
+I was hoping to plan on Sunday for the coming week.
+Calixte Sim
+Lead the way
+We can
+Jeremy
+I am leading
+this is not a planned time
+we have no plans for the rest of the week yet.
+Calixte Sim
+Installer is ont agenda
+Jeremy
+When can you work ok lessons (2).
+solo
+when can we review those
+when can you work on win installer solo
+when can we review that
+Calixte Sim
+Ill do lesson 2 tonight
+Jeremy
+and meanwhile, next lesson regards test-driven react tools:
+- mocha
+- cafe
+- selenium
+Jeremy
+Installer Plan
+
+1. See which use case a given situation maps to...
+- Says yes to gitbash, like you
+- Says no to gitbash, but yes to python
+- Sas a more recent version of win, uses powershell
+- has an older version of win, and only uses CMD>
+
+CAN WE INSTALL ANYTHING, AND CHANGE THAT CIRCUMSTANCE ABOVE?
+
+2. query platform memory
+- total
+- used
+- free
+
+3. query platform hard disk
+- total
+- used
+- free
+
+4. Query operating system flavor and version
+
+5.  Ensure that there is sufficient space,
+and get setup with github id.
+
+6.  Perhaps do ALL of this in separate account?
+
+7.  install editor
+
+8. install browser
+
+9.  scoop + node + gitbash + python
+Calixte Sim
+Please undate shared repo's action list file so we are not pinballing.  There is a section for current task.
+Jeremy
+there y'go
+not sure what you mean by pinballing
+nor undate
+you can set times solo for yourself
+Calixte Sim
+Pinball machine, Ideas bouncing around
+Jeremy
+when setting times with me, those times need to be scheduled
+so your solo times are up to you
+would be good to know when I can review either lesson plan
+if you want to schedule time with me, then that is up to us both
+oh, update
+nothing stops you from updating that action items file with stuff from right here
+Calixte Sim
+True
+Jeremy
+I was hoping for planning ahead around:
+- work on lessons solo
+- work on lessons together
+- work on windows app solo
+- work on windows app together
+- learn more lessons together
+np
+not all on you
+solo is just for you to declare
+together is by request?
+and sundays are good days to plan ahead for week?
+monday is not awful
+:)
+Calixte Sim
+Did you read the action items list?
+Jeremy
+I was hoping for planning ahead around:
+- work on lessons solo
+- work on lessons together
+- work on windows app solo
+- work on windows app together
+- learn more lessons together
+that is what is next
+in each case, you can say:
+what should I do?
+when it is solo, you could ask for my help
+but ideally you know what to do and you can get work done solo, and suggest when you will bring it back
+and I can rebview
+and I am not the taskmaster or boss
+just here to help
+while training, can act like the taskmaster
+but not right now
+k?
+for example...
+Calixte Sim
+I will get lesson 2 to  you in the morning.
+Jeremy
+why not both lessons messy
+and we clean them up?
+transcripts is important source to retain
+if not for those, going forward yes?
+This is not paid work or a homework assignment.
+Glad to assist.  And until we have ONE lesson we LOVE, this is unpredictable, no?
+here...
+1 sec
+Calixte Sim
+So my lesson 1 sucked? 😂
+Jeremy
+nope
+just not finished
+and authoritative would be to get transcript
+Calixte Sim
+
+Jeremy
+and say:
+
+Here is lesson.  I like it.
+
+Transcript has a lot more, but I think this is max bang dor buck.
+and we skim transcript
+Calixte Sim
+Follow this guide?
+Jeremy
+and decide if anything juicy is being left out
+yes
+Calixte Sim
+👌
+Jeremy
+that is lesson plan format
+it is nice and brief
+we could skim that together
+glad to clarify any and all
+Calixte Sim
+Was about to ask a question. 😁
+Jeremy
+I was hoping for planning ahead around:
+1 - work on lessons solo:
+   => Do you know what to do?  When?
+2 - work on lessons together
+   => Follows #1
+3. - work on windows app solo: outline just provided
+   => What can you test?  Can I assist?
+4. - work on windows app together??
+   => what can you test yourself of the 4 use-cases?
+5 - learn more lessons together
+=> next lesson is react.js with mocha and chai and selenium
+Jeremy
+there
+that is better
+skim that?
+And glad to take a question
+IMHO, quality is key first
+THEN we can improve speed, np,
+I prefer slow and good over fast and meh
+I wonder if you would install python3 as well
+and add that to the setup lesson (#1)
+only if easy - up 2 you
+<listening>
+$ python3 --version
+Python 3.6.4
+Calixte Sim
+OkI have to reread everything, I was on my cellphone.
+Jeremy
+ok, that is not being available, lol
+np
+but this is why scheduled is key
+I need to wake up ugly early
+thanks for being honest about it
+I will not hold it against ya
+could be better 😀
+Calixte Sim
+Ok planning ahead: 
+
+Do I know what to do? I think I have a clear understanding. The lessons need to placed in the format of the PLAN file
+Jeremy
+lol
+yeah, we can skim that
+and this will get easier with each iteration
+Calixte Sim
+There are currently two lessons that need to be completed
+Jeremy
+thx for the efforts
+yes
+what are they?
+one of the most important section of PLAN.md = SSBAT
+student should be able to
+at the end, student MUST demonstrate and prove that proficiency
+else WE screwed up, not them
+(test-driven)
+k?
+two ways to deliver that proficiency
+via curriculum
+via instruction
+lesson plan is curriculum
+Calixte Sim
+also we are building an installation package that will help win users get up and running with react based on the use cases provided. Meaning we will have to check their systems to see if any of the components are available and install them if possible.
+Jeremy
+and we assume the worst
+ie, go with what they have
+and do not assume that we can improve a thing
+basically the opposite of what you delivered in our first session
+which was great of ya
+but we cannot expect that from iothers
+others
+we hope for the best
+and PLAN for the worst 😉
+Calixte Sim
+basically the worst is?
+Jeremy
+and this is our first swing at a VERY large field of options
+Calixte Sim
+they cannot install anything
+Jeremy
+worst is that they have insufficient room, no admin password, and cannot install almost anything
+in which case we try to see what we can download into their system and install into userland
+perhaps after getting then gmail account and uploading stuff they can move to free up storage
+and that person has old windows with cmd only
+how is that for nasty worst?  😀
+you asked!  LOL!
+Calixte Sim
+i stepped away for a moment and here we go
+Jeremy
+plainly those are not our fave
+but they need to be considered and included IF possible
+and this is all AFTER 2 lessons are written
+ya?
+so we might skim the PLAN.md
+Calixte Sim
+Ok....
+Jeremy
+and give you a chance to see what you CAN test locally
+and then plan to reconnect about the installer therafter?
+and while I review lesson plans, you work with me to improve installer pans
+just winging it
+to give this shape
+you tell me
+Calixte Sim
+Ok I will update gitrepo now with our current task
+Jeremy
+cool
+now
+1 sec
+1.  do we need to skim plan structure?
+2.  do you foresee any blockers?
+why am I asking?
+what is the ANTI-pattern to avoid?
+you have blockers
+you do not see them
+you are psyched to work solo
+you set expectations
+you get stuck
+you start to stress
+ANTI-pattern 😮
+my job is to help you avoid ALL that by design
+Calixte Sim
+2. Send reminder with TWO links
+
+- STUDENT-REPONSES.md raw 
+- STUDENT-RESPONSES.md formatted
+Jeremy
+?
+oh, that is interesting thing
+Calixte Sim
+what is this?
+Jeremy
+good timing to ask now
+let me finish my point
+and that will be part of lesson plan review
+Calixte Sim
+of course if task is lessons. ok
+Jeremy
+(y)
+here....
+PATTERN avoid the anti-patterns
+first skim lesson plan
+and you just threw a blocker at me
+and I will address that as part of lesson plan review
+then we ought to simply pre-flight the rest of your tasks to try to detect ANY blockers
+metaphor
+do NOT take the ball unless you know:
+- where is the basket
+- does the ball fit thru the hoop
+take the ball and dribble?
+why?
+might waste time
+and raise expectations
+I find that an apt metaphor.
+We do not get paid for dribbling.
+Calixte Sim
+cool
+Jeremy
+We get paid for points.
+Oh dunkmaster? 😉
+ok &
+^ lol
+SO, that student responses is BRILLIANT
+4-5 states of student disposition
+Calixte Sim
+<listening>
+Jeremy
+bear with me
+almost done
+thx
+Jeremy
+1 I do not know what to do
+
+2. Know what to do, but tools are either missing or blocking me.
+
+3. I know what to do & I do NOT know how to do it.
+
+4. I know what to do & I do know how to do it.
+
+5.  I tried and got stuck.
+
+6.  I did it, but I am confused as to whether I got the right outcome as we wanted
+
+7.  I am good, and can prove I did it right, and I am bored.
+
+8.  other?
+Jeremy
+here is the fun part
+ready
+?
+?
+lostya?
+lol
+you on the phone again?  😕
+lol
+Calixte Sim
+no<listening>
+Jeremy
+k
+skim list above
+Calixte Sim
+I read it
+Jeremy
+then we need an EMOJI for each of those
+and that is how students can report their feelings of the moment
+AND a bot could attend!
+<dances a jig>
+ie, a trainer bot could respond accordingly...
+line x + emoji y => bot response z
+Calixte Sim
+wtf
+Jeremy
+now, for group training session this is bad ass
+LOLOLOL!
+trainer sees who is where and what they are up to, or how they are stuck
+and for prompting a trainer bot, this is golden
+you asked about AI
+I am answering you 😈
+all we need to do is see if those ~8 dispositions account for 80%+ of the student feedback
+Calixte Sim
+and all of this implemented where
+Jeremy
+not
+Calixte Sim
+o  ooookkk
+Jeremy
+and then assign emojis
+Calixte Sim
+student response
+Jeremy
+indeed
+nice
+thx
+not simple
+but GOLDEN
+This is lesson planing.
+:)
+thx for asking!!
+(y)
+me and you and SOphie will BLOW DOORS with that shit
+worst will be when 2 students are in diff places
+will happen
+this makes that scriptable
+and auto-respondable
+Sophie and I agreed that bot ought to be either male or female
+Herman or Irma
+lol
+up to the student
+they could query the bot
+or wait for instructor help
+you got this started
+it is ALLLLLL your fault , LOL!
+how is my answer to your question from saturday?
+Calixte Sim
+Clarification of location of implementation. because it seems part of the installer to me
+Jeremy
+it is monday 🙂
+nope
+installer is PRE-lesson
+that helps us meet PRE-requistes
+might config the bot as part of PRE-requisites
+I would not conflate the two
+installer could be run solo
+bot is for trainer support
+they both relieve us of some work
+but in diff ways
+Calixte Sim
+ok this is way down the line
+Jeremy
+yes
+installer first
+then bot
+1 manually
+2 test-driven
+3 automated INSTALLER
+4 AI => bot!
+Calixte Sim
+ok...
+Jeremy
+I believe this wll gel
+that is first
+the gel
+this is your first whiff
+let it gel
+Jeremy
+1 I do not know what to do
+
+2. Know what to do, but tools are either missing or blocking me.
+
+3. I know what to do & I do NOT know how to do it.
+
+4. I know what to do & I do know how to do it.
+
+5.  I tried and got stuck.
+
+6.  I did it, but I am confused as to whether I got the right outcome as we wanted
+
+7.  I am good, and can prove I did it right, and I am bored.
+
+8.  other?
+Jeremy
+get that into student responses
+see if what is there is better or worse
+and pre-requisites assumes that we are starting class with stuff installed
+and we will show you how to USE it
+not sit there and install it for or with you
+that is why we need installer
+let it gel
+Calixte Sim
+understood
+Jeremy
+SHweet
+ok, no blocker is best
+good to have a couple of things to work on
+then if you get bogged down in one, you dump well-formed questions into chat
+move to the next one
+and this will take shape
+Calixte Sim
+Lesson 1 and 2 is the current task.
+Jeremy
+2 lessons is big help
+yes
+and quality first
+Calixte Sim
+ok just trying to not pinball
+Jeremy
+yip
+now and next is key
+what you call pinballing I might call setting the trajectory
+but now and next are indeed key
+Calixte Sim
+Agreed.
+Jeremy
+you can always do that
+JD!  Let;s stick to now and next!
+we can push that to another day!
+Calixte Sim
+but knowing now helps me not be stuck on a thought later
+Jeremy
+np
+yes, focus and clarity are great
+now and next are paramount <nods>
+if I had a lesson plan that was an example I would provide
+once we have set that standard, other will follow faster
+plainly the live training worked
+Calixte Sim
+Well are you available in the morning at 6:00 to 7:30 am.
+Jeremy
+tomorrow?
+Calixte Sim
+yes
+Jeremy
+I am booked from 5-8
+Sophie has me then
+that is why I need to sleep
+can skim lesson plans at 8am
+but would prefer to have plan thru week
+short notice and unscheduled is hard
+Sophie is finally scheduling ahead of time
+Calixte Sim
+OK I will review. and attempt to conform lesson plan to your structure. We have a task at least.
+Jeremy
+Sunday will beat her to the punch 😀
+yeah
+dont stress
+iterate
+schedule thru week
+do not set unrealistic expectations
+2 lessons messy but good is fine
+you can make a mess and we can clean them up together
+adding py3  to your system and to the lesson #1 is desired
+your call
+Calixte Sim
+Will do. what about yarn?
+Jeremy
+yep
+thx
+good call
+thank you for 2 great questions
+student responses
+yarn
+yes yes
+Calixte Sim
+I was debating. But I will not keep you up. Have a great night.
+Jeremy
+debating?
+prefer to not leave ya hanging if it is brief
+Calixte Sim
+I was debating on whether or not to add yarn to the lesson. you said npm and yarn are similar  so I didn't add it. I should have asked. That is all.
+Jeremy
+oh definitely add yarn
+and py3
+and think about how to run installer with reboot in the middle 😀
+yarn required reboot, yes?
+Calixte Sim
+yes
+Jeremy
+so be it
+not top of the list
+but on the installer list
+Calixte Sim
+Last question. What language are we using?
+Jeremy
+for what?
+lol
+Calixte Sim
+installer
+Jeremy
+for win, looks like we detect and use whatever runs
+including .bat file if all they have is CMD
+best would be python
+but that is not a given
+scroll up
+4 use-cases
+Calixte Sim
+😑
+Jeremy
+lowest common denominator is CMD
+I need to sleep
+this was not planned
+sorry
+too late for me
+I need to be up at 5
+Calixte Sim
+Honestly, i really appreciate this and cannot thank you enough. Good night.
+Jeremy
+np
+ttyl
+we will follow thru with review of 2 lessons plans that will need much improevement within a day
+keep me posted
+tell me when to pull, etc
+6:19AM
+Jeremy
+I am working on Student Responses.
+I will try to finish early with Sophie so I am free to review the 2 lesson plans.
+And I will try to grab the transcripts from chat as well.
+Student Responses is now called Student Orientation.
+Jeremy
+Let me know if you have time this morning, as I should free up by 7:30.
+Then we could work on two lessons for 30m or so.
+8:37AM
+Jeremy
+I guess you are not around this morning.
+And we ought to review schedule for the week.
+
+Setting tasks thru the week and trying to schedule them is just planning.
+
+We can keep that super-brief,
+but staying a week ahead you be great.
+would ^
+10:00AM
+Jeremy
+1. two lesson plans:
+   - Dev System Jumpstart
+   - React.js FIrst Lesson
+2. windows installer
+3. plan week
+4. Next lesson:
+React.js Mocha, Chai & Selenium
+oof
+I will spend about 30 min now on intelligent tutor and student responses.
+
+Then I am busy for most of the day.
+Not sure when we are scheduled for next working session, and prefer to be scheduled thru the week.
+5:10PM
+Jeremy
+hey
+I am freed up again
+can we schedule the rest of the week and plan to schedule next week on Monday?
+Do we want one installer script across all platforms, or one per platform?
+
+This seems like it might be worth a brief call.  I wanna get that installer project started, and have it where we can each contribute from:
+- win platformS
+- osx
+- linux
+https://stackoverflow.com/questions/10152762/best-way-to-get-machine-id-on-linux
+Best way to get machine id on linux?
+What is the best-practiced way to get an unique machine ID in GNU/Linux for i386 architecture? Are there any good ways except the mac address?
+stackoverflow.com
+Getting unique id is helpful for single user single system.
+Jeremy
+The real rub is linux vs win,
+so this looked interesting:
+
+https://github.com/BYVoid/Batsh
+https://wersm.com/facebook-is-testing-rich-text-formatting-with-markdown/
+Facebook Is Testing Rich Text Formatting With Markdown
+After years of frustration, Facebook could soon allow us to format our status updates by allowing Markdown formatting. As explained by Wikipedia, Markdown is a lightweight markup language that allows you to convert plain text into rich text and HTML.
+wersm.com
+That is also good to know
+where we can use markdown in chat
+Jeremy
+I am creating a subfolder in our repo which we will split off as a separate project... regarding installer.
+Jeremy
+gimme a few
+you will like what I found
+how was your day?
+I will tell ya when to pull.
+Jeremy
+Not sure when to ask you about lesson plans to review, and expecting them to be messy.
+
+Hope all is well.
+Jeremy
+the word here is "iterative"
+Calixte Sim
+Everything's fine i just pushed onto shared repo. Please read my thoughts. Its is based on plan.md.
+Jeremy
+ok, thx
+you did 1 or 2?
+Calixte Sim
+Just question needed ans w ering
+Jeremy
+ok
+will review now
+thx
+Calixte Sim
+Will do before night end. How well do html work on .md files.
+Jeremy
+html?
+diff medium
+this is for those who do not want to deal with html
+think about a software project at a biz or org
+non-dev gets tasked to do docs
+that is what markdown is used for
+do I hate markdown?
+YES!
+:D
+lol
+meanwhile, github PAGES can be html
+but this is just a readme
+the focus is on doc INSTRUCTIONAL structure
+<listening>
+https://developers.google.com/style/markdown
+Calixte Sim
+Also review action list .please confirm accuracy on current task for the week edit if you like.
+Jeremy
+of course
+should I do that first?
+Calixte Sim
+No
+Jeremy
+ok
+thx
+no reason needed
+just asking
+Calixte Sim
+Question i have are plenty i think. Excuse me if i am moving to slow
+Jeremy
+nope
+no need
+quality first
+THEN pace
+you will find that I am fine with quality going UP
+even slowly at first
+I am stupid like that 😉
+it is the voice of experience speaking
+faster without high quality?
+meh
+:D
+I am learning too
+np
+Calixte Sim
+Student response.md in repo is instruction for gui story
+??
+Jeremy
+Unclear question.
+rephrase?
+np
+just clarify
+oh, gui story is GREAT scenario
+thx for that
+what are you asking about it?
+and there are a few scenarios
+gui-only
+markdown author
+dev
+you are correct to look at it that way
+Calixte Sim
+Is the content in the student-response.md file an outline for a users story?
+Jeremy
+I improved massively
+we need to start a trainer repo
+and setup something common to all lessons
+then we can make that a sub repo of EVERY lesson
+sense?
+Calixte Sim
+👎
+Jeremy
+lesson plan
+k
+Calixte Sim
+No
+Jeremy
+np
+no like you do not understand yet r you do not agree?
+or ^
+either are fine
+Calixte Sim
+Don't understand
+Jeremy
+k
+this comes up in two ways....
+Calixte Sim
+😶
+Jeremy
+gimme a sec
+easy one
+1.  when someone makes 2+ lessons, what does each lesson have in common?
+
+2.  across syllabi and entire tracks of learning, this curriculum developer repo is common to ALL
+student responses is an example of that common repo
+this happens
+two lessons two repos
+common third repo
+"subrepo"
+Calixte Sim
+Oh 👌
+Jeremy
+https://stackoverflow.com/questions/4500305/git-repository-within-git-repository
+at first with git it was was submodule
+THAT WAS A FUCKING NIGHTMARE
+scope down by searching on the word "tree"
+git tree is sweet
+we are creating a tree
+how organic 🙂
+;)
+go slow
+I am good
+this is HUGE
+We can be VERY rigorous about what 2 lessons might have in common.
+That third repo is subrepo, and git module is NOT recommended
+git tree IS recommended
+glad to wait
+np
+good leap!
+Calixte Sim
+Big
+Finished reading?
+Jeremy
+I will do that now
+go slow
+so, we create third repo
+and we start to shuffle common things across lessons to that repo
+you go ahead and read
+not submodule
+tree
+k
+https://bitbucket.org/jjdonson/dojo-training-nexus
+Bitbucket
+bitbucket.org
+I will add you to that repo as contributor.
+simeoncalixte
+yes?
+Calixte Sim
+👌
+Jeremy
+k
+https://bitbucket.org/jjdonson/dojo-training-nexus
+Bitbucket
+bitbucket.org
+it is empty
+but we will  manage it as the "trunk" of a "tree"
+now, repo in repo creates some issues to deal with...
+there the pull
+and there is the "sub-pull"
+lessons get the pull
+dojo-training-nexus gets the "sub-pull"
+ie, when we update a lesso, we pull
+lesson
+when we update the nexus, we "sub-pull)
+this regards where we are when we pull
+ask whatever
+worth a brief "pinball" 😉
+git submodule is still an option
+HIGH maintenance
+zero payoffs
+Calixte Sim
+Jeremy
+lol
+good stuff?
+so, imagine we cloned something AWESOME from ghub, which we need for project x
+Calixte Sim
+No <listening> the link you sent mentioned this
+Jeremy
+it lives IN project x
+yep, lol
+so OUR project x DEPENDS upon remote project y from someone else
+sense?
+ie, that makes sense?
+we are doing this to ourself, but can happen in other ways too
+Calixte Sim
+Yes.. I didn't know it was remote
+Jeremy
+np
+it?
+which it?
+help me with that pronoun
+just restate without pronoun
+Calixte Sim
+The remote projectct that goes into our sub-git repo
+Jeremy
+oh, we could start it all locally
+and work in two repos side by side
+and then realize that one depends upon the other
+or we could have stuff in one repo that is common two two repos, which is what happened to us
+or we could have a project which depends upon repo we do not own
+so far we OWN all repos
+all use-cases drive us towards use of repo-in-repo solution
+tree is best method
+hit me when you feel better about this
+Calixte Sim
+Im not confused.
+Jeremy
+nice
+Calixte Sim
+Im just reading
+Jeremy
+np
+new hting
+thing
+VERY helpful to learn about dealing with dependencies
+when we have dependencies
+Calixte Sim
+I got your invite on bit bucket
+Jeremy
+cool
+clone that sucker as a sibling repo
+sibling ...
+Calixte Sim
+:)
+Jeremy
+/path/to/bro1/
+/path/to/bro2/
+sense?
+they are not yet TREE'D
+soon then will be
+now, fyi, why not a soft link?
+wtf?
+why tree?
+/path/to/bro1/
+/path/to/bro2/
+
+then we just...
+$ ln -s /path/to/bro2/ /path/to/bro1/bro2/
+linux speak
+soft link = shortcut or folder alias
+why tree?
+good question!!!!!
+deal with the prposition
+why impose complexity?
+make git ignore soft links
+let them live APART
+why make the bros get all dependent?
+either COULD work, to a degree
+so this is healthy counterpoint
+I will give you a sec to acknowledge my question
+and speak to why each choice is an option
+and why I strongly vote for git tree to track deps where possible
+this is a "decoupling" problem
+I am making a case for REcoupling
+why?
+Calixte Sim
+I have no clue
+Jeremy
+after 15+ years decoupling as an engineer
+why is decoupling often good?
+then this exception can be made without screwing you up going forward lol
+https://en.wikipedia.org/wiki/Coupling_(computer_programming)#Disadvantages
+I want to couple this.
+take your time
+I am too good a teacher to play this wrong.
+
+:)
+uml
+how is your brain?
+rule:  decouple where possible
+exception:  couple when necessary
+?
+Calixte Sim
+Ok, so why do you want to couple the repo's?
+Jeremy
+k?
+Calixte Sim
+To ensure that all components work?
+still not sure?
+????
+Jeremy
+they are necessarily dependent
+this is not a child that lives without the parent
+Calixte Sim
+Understood
+Jeremy
+that child is needed IN that parent
+Calixte Sim
+so I asked the right question 🙂
+Jeremy
+else that parent is BLIND
+yes
+you were clear and on point
+and UML does the dashed arrow, which should be how tree "says" this, imho
+classic case of coupling
+due to mandatory dependency
+I gave you a few use-cases
+they are worth chewing over for a sec
+three of them
+1.  convergent owned
+2.  divergent owned
+3.  dependent not owned
+we just diverged a common repo across all lessons!
+we own ALL that shit
+#2 case
+if we found lesson plan structures  on ghub we might fit case #3
+ie, what if the maintainer of that dependent not owned remote improved that repo that we do not own?
+we have the OPTION of pulling or not
+it is the opposite of a pull request
+
+we might call it a push offer 😉
+we can accept that offer, or decide not to sub-pull
+simple diagram would make this clean
+also, if we wanted to do ALL of our lessons in a single repo, we could do that with BRANCHES
+cross-repo? tree
+within-repo?  branches
+Calixte Sim
+Understand
+Jeremy
+now you are up on the talk
+it is organic
+root
+tree
+branch
+:o
+gardener talk, lol
+:D
+suggestive terminology
+Calixte Sim
+Exactly
+Jeremy
+so
+let me drop bro1 INTO bro2
+and tell you what I am doing
+NOT soft link/folder alias
+tree, to reflect the dependency
+after this, you can have 2 separate lessons, with nexus in each, common to both
+sense?
+1 sec
+easy to do
+and I will narrate
+if we had 25 devs making lessons out there, we might pass this repo thru all of them, to GATHER the resources common to ALL lessons
+"nexus?
+nexus
+[nek-suh s] 
+Spell  Syllables
+Examples Word Origin
+See more synonyms on Thesaurus.com
+noun, plural nexuses, nexus.
+1.
+a means of connection; tie; link.
+2.
+a connected series or group.
+means what it is
+1 sec
+Calixte Sim
+Cook
+Cool
+Jeremy
+ok, I pulled
+I worked in a file of a diff name on purpose
+nice trick to avoid pull overwrites  🙂
+STUDENT-ORIENTATION.md
+new name
+impossible to overwrite, unless you made a file out of the clear blue sky of that name and committed it and pushed
+please pull
+let me narrate so you glean the clarity of what I am doing as I do it
+Calixte Sim
+oookkkk
+Jeremy
+
+look at what i have
+you can see that I pulled
+and your file is there?
+two things I want to move into lesson nexus common repo
+folder:  x-platform-installer-framework
+file: STUDENT-ORIENTATION.md
+we will likely have a WHOLE separate project for that installer, but my point is set clarify what is in nexus and what is in DEPENDENT lesson folder
+ask whatever
+np
+Calixte Sim
+ok I pulled
+Jeremy
+ok
+then you can see for yourself
+have you clones the nexus project?
+cloned
+NEXT to our repo
+siblings
+Calixte Sim
+doing now
+Jeremy
+cool
+/path/to/bro1/
+/path/to/bro2/
+right?
+after clone?
+I will start to review the lessons
+and you set the pace for me
+np
+Calixte Sim
+Um have to reset password. it is not working
+Jeremy
+which?
+it?
+Calixte Sim
+bitbucket
+Jeremy
+you are invited to repo
+that was confirmed, no?
+therefore you ought to be able to clone and push
+np
+just confirm that I understand you error
+your
+Calixte Sim
+Yes
+but when I pull my password is not actually valid
+clone I mean
+Jeremy
+hm
+Calixte Sim
+So I am trying to reset
+Jeremy
+you can reset via email
+np
+new pass
+just have it match github, or you will go insane, lol 😀
+whatever you set, match bbkt and ghub
+too worth it
+Calixte Sim
+got
+got it
+Jeremy
+goot
+lol
+I am ready 4ya
+Calixte Sim
+I used google to authenticate so I did not have a set password. with bit bucket
+Jeremy
+ok
+Calixte Sim
+Go ahead
+<listening>
+Jeremy
+cool
+ok, so we will start to pull both soon
+1 sec
+Jeremy
+new file:   dojo-training-nexus
+	modified:   react-dev-lessons/MyThoughtsOnThePlan.md
+	deleted:    react-dev-lessons/STUDENT-ORIENTATION.md
+	deleted:    x-platform-installer-framework/README.md
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+
+	modified:   dojo-training-nexus (untracked content)
+Jeremy
+NOW
+I need to commit to nexus subdir first
+or parent repo gets a little ticked off
+Jeremy
+dojo-training-nexus macbookair$ cd ..
+urbanspectra2:first-github-team-sandbox macbookair$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   dojo-training-nexus
+	modified:   react-dev-lessons/MyThoughtsOnThePlan.md
+	deleted:    react-dev-lessons/STUDENT-ORIENTATION.md
+	deleted:    x-platform-installer-framework/README.md
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   dojo-training-nexus (new commits)
+
+urbanspectra2:first-github-team-sandbox macbookair$ git add .
+urbanspectra2:first-github-team-sandbox macbookair$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   dojo-training-nexus
+	modified:   react-dev-lessons/MyThoughtsOnThePlan.md
+	deleted:    react-dev-lessons/STUDENT-ORIENTATION.md
+	deleted:    x-platform-installer-framework/README.md
+Jeremy
+ok, now I did it right
+I committed in subrepo first
+THEN I can commit in parent repo with embedded SUB commits in nexus
+ok
+Calixte Sim
+So always commit children first?
+Jeremy
+you should be able to pull both at once
+from parent
+commit inner child changes first
+and push them!
+then step out to parent
+$ cd ..
+and then $ git add .
+$ git commit -m 'Changing parent repo after child repo has new commits'
+git push
+and now all is good from my end
+you should JUST pull from parent and see it ALL with single pull from parent
+therefore, all of this could have been kept transparent to you
+BUT you are working on 2 lessons
+and you might update nexus from either
+you can toss it all and clone parent and you would get it all
+but now you know what I did, why, and hot to contribute to nexus sub repo
+how ^
+ask whatever
+that was juicy
+Calixte Sim
+Learned something new.
+Jeremy
+indeed
+and now instead of just contributing to a lesson
+you can contribute to the lesson nexus
+Calixte Sim
+So, Plan.md?
+Jeremy
+k, I am answering your questions
+yes
+that was left for you to do
+when you are ready
+1 sec
+about to push
+k
+pull first
+then look at
+
+$ git log
+looks like 2 files should go to nexus subrepo
+and then commit to sub
+subpush
+👍
+1
+and then commit to parent repo
+push
+feel free to hit me with a WTF? 😀
+no rush
+always GREAT to skim git log and see what messages tell ya since last commit and push
+Jeremy
+in response to your question:
+
+important distinction:
+- Student prerequisites: Must ALL be met before we start the lesson.
+- Student Should Be Able To (SSBAT):
+- => Must ALL be understood at the beginning of the lesson by the student.
+- => Must ALL be PROVEN as task proficiencies by the student at the end of the lesson.
+👎
+1
+Jeremy
+lostya?
+;)
+It is not even 10
+Calixte Sim
+Understood, before cand after
+Jeremy
+yes
+PRIOR and before and after
+PRErequisites
+then cannot arrive to class without system setup
+Calixte Sim
+Oh crap you reminded me. I have to pick up my mother @ 10
+Jeremy
+np
+mom is important
+lo;
+lol
+good I spoke up
+do NOT leave Mom hangin!
+:D
+LOL!
+Calixte Sim
+She would of been pissed
+Jeremy
+well now she likes me 😉
+lol
+better would have been for you to speak to your next deadline
+np
+for the future
+you lucked out
+Calixte Sim
+So is javascript considered a  prerequisite?
+Jeremy
+for react?
+not for setup
+for lesson 1?
+Calixte Sim
+O ok
+Jeremy
+yes for trainer for lesson 1
+NO for student for either
+you can say BUT WHY?
+after you return with mom 😀
+these are STELLAR quesitons
+Calixte Sim
+Exactly. Edit the action items if you like as well.
+Jeremy
+I will continue with your quesitons doc in your absence
+and you have 2 files to move into nexus when you return AFTER you pull
+k?
+Jeremy
+ok, single pull should update both from parent
+ie, pull, not sub-pull.
+k
+pull fro parent
+$ git log
+I am starting to leave you next step messages in git log
+Calixte Sim
+Ok
+Jeremy
+hey
+so you know what I did
+not you get to do the same thing by moving two files from parent to subrepo
+commit to subrepo first
+push
+then commit parent repo
+push
+did you tell mom that were it not for me, she would have been left hangin' ?
+😀 lol
+speak up
+? => git log notes
+? => moving two files into nexus
+? => commit to subrepo
+? =? push subrepo
+? => commit to parent repo
+? =? push parent repo
+?
+k?
+worst case, just rename the parent with subrepo and reclone
+the radio silence is getting eerie, lol
+hey
+Calixte Sim
+Didn't pick her up, driving.
+Jeremy
+ok
+cool
+thx
+now I get it
+lol
+Calixte Sim
+She says thank you.
+Jeremy
+lol
+<hatTip> 😉
+Calixte Sim
+15 to 20 min max. Spill all details in md.
+Jeremy
+I sent my updates
+you just need to follow thru when you return
+
+drive safe. np
+? => git log notes
+? => moving two files into nexus
+? => commit to subrepo
+? =? push subrepo
+? => commit to parent repo
+? =? push parent repo
+Jeremy
+I was up at 5
+Would be nice to go back and gather the transcripts..
+Perhaps I ought to do that?
+Calixte Sim
+Copy and paste?
+Jeremy
+sorry?
+you have returned?
+Calixte Sim
+yes
+Jeremy
+k
+Calixte Sim
+i just pulled
+Jeremy
+look at  $ git log
+in parent repo
+you should be able to discard sibling nexus project clone
+as, now that folder is a subrepo after pull
+?
+speak up?
+I need to get to sleep.
+Calixte Sim
+can i see a copy of your directory structure
+Jeremy
+yes
+
+Calixte Sim
+thank you
+Jeremy
+np
+fair Q
+Calixte Sim
+Had it wrong
+Jeremy
+no biggie
+you are doing pretty well for flying blind
+once you have it righr
+right:
+lemme know when you have it right
+ok, I have no clue what you are doing or trying to do
+some narrations would help
+Calixte Sim
+did not place the  child-repo in the parent repo. It is currently a parent-repo itself
+Jeremy
+k, then move it in there
+this is dragging
+I am in serious need of sleep
+Calixte Sim
+sleep
+Jeremy
+can't
+we need to review what I updated
+move that nexus folder into parent
+Then in parent folder
+
+? => git log notes
+? => moving two files into nexus
+? => commit to subrepo
+? =? push subrepo
+? => commit to parent repo
+? =? push parent repo
+ball will end up back in your court before I sleep
+Calixte Sim
+what files am i moving exactly
+Jeremy
+that is second
+first match the directory structure as my screen shot
+Calixte Sim
+that is done
+Jeremy
+move subrepo into parent folder
+then follow list above
+Then in parent folder
+
+? => git log notes
+? => moving two files into nexus
+? => commit to subrepo
+? =? push subrepo
+? => commit to parent repo
+? =? push parent repo
+Calixte Sim
+any file
+?
+ok
+Jeremy
+no
+two in particular
+this is new to you, but they are kinda obvious
+Calixte Sim
+lesson 1 and 2
+:)
+Jeremy
+nope
+Calixte Sim
+:(
+Jeremy
+did you pull in subrepo?
+
+Calixte Sim
+yes
+Jeremy
+how would I know?
+no narrations
+I would not guess
+log at $ git log
+when in parent folder
+we have two files under react-dev-training that are obvious candidates for nexus subrepo
+they are mentioned in parent  $ git log
+I am going to get transcripts
+I have waited for a long time and this is dragging/
