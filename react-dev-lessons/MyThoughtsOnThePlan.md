@@ -13,6 +13,12 @@
 ### Student Should Be Able To (SSBAT):
         - !!Need help completing. I think this is repetitive.
 
+* Your questions raise an important distinction:
+- Student prerequisites: Must ALL be met before we start the lesson.
+- Student Should Be Able To (SSBAT):
+- => Must ALL be understood at the beginning of the lesson by the student.
+- => Must ALL be PROVEN as task proficiencies by the student at the end of the lesson.
+
 # How For Trainer To Prepare:
 >> need more detail
 1. Ensure that all students understand and have met ALL prerequisites.
