@@ -6,13 +6,13 @@
         -Ability to  debug errors.
         -Ability to understand JavaScript,HTML,XML.
         
+### SYSTEM PREREQUISITES:
+        - Software tools installed.
+        - installed software tools toured and configured.
+
 ### STUDENT PREREQUISITES:
         -Ability to  debug errors.
         -Ability to understand JavaScript,HTML,XML.
-
-### STUDENT PREREQUISITES:
-        - Software tools installed.
-        - installed software tools toured and configured.
         - Lesson plans reviewed.
 
 ### Student Should Be Able To (SSBAT):
